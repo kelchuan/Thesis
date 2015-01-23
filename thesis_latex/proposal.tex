@@ -64,7 +64,7 @@ The University of Memphis\\
 \pagebreak
 \begin{abstract}
 
-Bathymetry observations show great variety of morphologies at Mid-ocean Ridges (MORs). Previous studies showed that the morphologies at slow spreading MORs are mainly controlled by the ratio between rates of magma supply and plate extension. This ratio is expressed as "M". The 2D framework is successful in explaining the various topography. However, since the magma supply varies along the ridge, the interactions between the tectonics and magmatism at MORs are inevitably 3D processes. Here, we propose to model the 3D processes with a 3D numerical modeling code, SNAC.
+Bathymetry observations show great variety of morphologies at Mid-ocean Ridges (MORs). Previous studies showed that the morphologies at slow spreading MORs are mainly controlled by the ratio between rates of magma supply and plate extension\change[EC]{. This ratio is expressed}{, denoted} as \change[EC]{"}{``}M". The 2D framework is successful in explaining the various topography. However, since the magma supply varies along the ridge, the interactions between the tectonics and magmatism at MORs are inevitably 3D processes. Here, we propose to model the 3D processes with a 3D numerical modeling code, SNAC.
 
 \end{abstract}
 
@@ -77,12 +77,12 @@ Bathymetry observations show great variety of morphologies at Mid-ocean Ridges (
 
 \section{Introduction}
 \label{ch:intro}
-The mid-ocean ridges (MORs) are the longest mountain chains on the Earth with a total length of about 60,000 km. Both along and across MORs axis, varied topography was observed from multi-beam bathymetric data (From GeoMapApp and \citep{Ryan2009}). Three specific questions stimulate people's interests. First, what cause the distinct difference in axial topography between slow and fast spreading ridges. Second, for slow spreading ridges, why does topography  along ridge varies and how to explain many features observed. Third, why do Oceanic Core Complexes (OCCs) form and what is the mechanism. 
+The mid-ocean ridges (MORs) are the longest mountain chains on the Earth with a total length of about 60,000 km. Both along and across MORs axis, varied topography was observed from multi-beam bathymetric data\remove[EC]{ (From GeoMapApp and \\citep{Ryan2009})}. Three specific questions stimulate people's interests. First, what cause the distinct difference in axial topography between slow and fast spreading ridges. Second, for slow spreading ridges, why does topography  along ridge varies and how to explain many features observed. Third, why do Oceanic Core Complexes (OCCs) form and what is the mechanism. 
 
-\subsection{Background}
-\label{ch:back}
-According to \citep{Fowler2004}, various topography are mainly
-controlled by four factors: magma supply, tectonic strain, hydrothermal circulation and spreading rate. As we know, the spreading rate of the plate separation is the first order factor that results in two distinguished end members. Generally, they are slow-to-intermediate spreading centers (half spreading rate less than 4cm/year) with median valley (10$\sim$20km wide, 1$\sim$2km deep) like Mid-Atlantic Ridges and fast-spreading centers (half spreading rate more than 5cm/year) with axial highs (10$\sim$20 km wide, 0.3$\sim$0.5 km high) like East Pacific Rise (Figure 1 (a) and (b)).
+%\subsection{Background}
+%\label{ch:back}
+According to \citep{Fowler2004}, \change[EC]{various topography}{variations in  mid-ocean ridge morphologies} are mainly
+controlled by four factors: magma supply, tectonic strain, hydrothermal circulation and spreading rate. \change[EC]{As we know, the spreading rate  of the plate separation is the first order factor that results in two distinguished end members. Generally, they are s}{S}low-to-intermediate spreading centers (half spreading rate less than 4cm/year) \change[EC]{with}{produce} median valley\add[EC]{s that are typically} \remove[EC]{(}10$\sim$20km wide\change[EC]{,}{ and} 1$\sim$2km deep\change[EC]{) like}{(e.g.,} Mid-Atlantic Ridges\change[EC]{ and}{, Figure 1(a)).} \change[EC]{f}{F}ast-spreading centers (half spreading rate \change[EC]{more}{greater} than 5cm/year) \change[EC]{with}{have} axial highs that are 10$\sim$20 km wide, 0.3$\sim$0.5 km high (e.g., East Pacific Rise, Figure 1(b)).
 
 \begin{figure}[H]
 \centering
@@ -98,10 +98,10 @@ controlled by four factors: magma supply, tectonic strain, hydrothermal circulat
   \caption{\small{Fast spreading East Pacific Rise}}
   \label{fig1_3}
 \end{subfigure}
-\caption{\small{Topography cross-sections comparison between slow and fast spreading MORs.}}
+\caption{\small{Profiles of bathymetry across MORs.}}
 \label{fig1}
 \end{figure}
-In addition, slow spreading ridge topography varies distinctly along the ridge axis with respect to the width, depth of the median valleys and the off-axis morphology. As shown by Figure~\ref{fig2_1}, the topography nearer to the center of the ridge segment (A-A') is rather symmetric and has higher frequency with 1km maximum relief while (B-B') is asymmetric and has much lower frequency with 3km maximum relief. Meanwhile, the bathymetry and crust thickness along the ridge valley also varies. From \citep{Chen1999}, the maximum along-axis variation in crustal thickness $\Delta H_{c}$ is linearly increasing with segment length $L$, and the relationship is $\Delta H_{c}(L)=0.0206L$, as shown by Figure~\ref{fig3_1}.
+Slow spreading ridges exhibit along-axis variations in the width and depth of median valleys and the off-axis morphology.  Figure~\ref{fig2_1} shows that the topographic profile nearer to the center of the ridge segment (A-A') is rather symmetric and has higher frequency. The maximum relief is about 1km. In constrast, the near-tip profile (B-B') is asymmetric and has much lower frequency and a greater relief (~3km). The bathymetry and crustal thickness along the ridge valley also varies. From \citep{Chen1999}, the maximum along-axis variation in crustal thickness $\Delta H_{c}$ is linearly increasing with segment length $L$, and the relationship is $\Delta H_{c}(L)=0.0206L$ (Figure~\ref{fig3_1}).
 
 \begin{figure}[H]
  \centering
@@ -117,18 +117,18 @@ In addition, slow spreading ridge topography varies distinctly along the ridge a
  \label{fig3_1}
 \end{figure}
 
-Moreover, a 3D view of B-B' area of Figure~\ref{fig2_1} shows the 20km wide, 25km long and 3km relief Atlantis Massif. The huge geologic structure is a window for learning lower crust and upper mantle because it is believed to be a result of exhumation of deeper material to the seafloor through tectonic processes.
+%Moreover, a 3D view of B-B' area of Figure~\ref{fig2_1} shows the 20km wide, 25km long and 3km relief Atlantis Massif. The huge geologic structure is a window for learning lower crust and upper mantle because it is believed to be a result of exhumation of deeper material to the seafloor through tectonic processes.
+%
+%\begin{figure}[H]
+% \centering
+%  \includegraphics[scale=0.4]{fig4_1.png}
+% \caption{\small{Zoom in B-B' area, a 3D view of Atlantis Massif.}}
+% \label{fig4_1}
+%\end{figure}
 
-\begin{figure}[H]
- \centering
-  \includegraphics[scale=0.4]{fig4_1.png}
- \caption{\small{Zoom in B-B' area, a 3D view of Atlantis Massif.}}
- \label{fig4_1}
-\end{figure}
-
-\subsection{Related work}
-\label{ch:related}
-As we know, magma supply is mostly a passive process when no hot plume presents \citep{Fowler2004}. Due to vacated room being created by plate separation, decompression will lead to partial melting of the hot mantle beneath the ridges. Then the melt upwells to the surface due to both pressure difference and buoyancy from lateral density difference. When the melt reach the surface with near freezing sea water, it solidifies soon, forming the new crust at the spreading centers and releases the tension from far field stretching. 
+%\subsection{Related work}
+%\label{ch:related}
+\change[EC]{As we know, m}{M}agma supply at mid-ocean ridges is mostly a passive process when no hot plume presents \citep{Fowler2004}. Hot mantle rises up only to fill the vacated room being created by plate separation and decompression will lead to partial melting of the hot mantle. The melt upwells to the surface due to both pressure difference and buoyancy from lateral density difference. When the melt reaches the surface, it solidifies, forming the new crust at the spreading centers and releases the tension from far field stretching. 
 
 The passive nature of magma supply results in the major difference between fast and slow spreading ridges that magma supply is always sufficient to accommodate all the tension built up for fast spreading ridges while is deficit for slow spreading ridges. \citep{Buck2005} explained the distinct difference between fast and slow spreading ridge topography through a 2D modeling study. As shown in Figure~\ref{fig5_1}, for fast spreading ridge, the axial high is generated by buoyancy from lateral density difference across ridge axis and for slow spreading ridge, the median valley is formed due to near-axis normal faulting.
 \begin{figure}[H]
