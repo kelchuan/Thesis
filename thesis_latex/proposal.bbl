@@ -1,0 +1,96 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Baines et~al.(2008)Baines, Cheadle, John, and Schwartz]{Baines2008}
+G.~Baines, M.~J. Cheadle, B.~E. John, and J.~J. Schwartz.
+\newblock {The rate of oceanic detachment faulting at Atlantis Bank, SW Indian
+  Ridge}.
+\newblock \emph{Earth and Planetary Science Letters}, 273\penalty0
+  (1-2):\penalty0 105--114, Aug. 2008.
+\newblock ISSN 0012821X.
+\newblock \doi{10.1016/j.epsl.2008.06.013}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0012821X08003889}.
+
+\bibitem[Buck et~al.(2005)Buck, Lavier, and Poliakov]{Buck2005}
+R.~Buck, L.~Lavier, and A.~Poliakov.
+\newblock Modes of faulting at mid-ocean ridges.
+\newblock \emph{Nature}, 434\penalty0 (7034):\penalty0 719--23, 2005.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature03358}.
+
+\bibitem[Chen and Lin(1999)]{Chen1999}
+Y.~J. Chen and J.~Lin.
+\newblock {Mechanisms for the formation of ridge-axis topography at
+  slow-spreading ridges: A lithospheric-plate flexural model}.
+\newblock \emph{Geophysical Journal International}, 136:\penalty0 8--18, 1999.
+\newblock ISSN 0956540X.
+\newblock \doi{10.1046/j.1365-246X.1999.00716.x}.
+
+\bibitem[Choi et~al.(2008)Choi, Lavier, and Gurnis]{Choi2008}
+E.~Choi, L.~Lavier, and M.~Gurnis.
+\newblock {Thermomechanics of mid-ocean ridge segmentation}.
+\newblock \emph{Physics of the Earth and Planetary Interiors}, 171\penalty0
+  (1-4):\penalty0 374--386, Dec. 2008.
+\newblock ISSN 00319201.
+\newblock \doi{10.1016/j.pepi.2008.08.010}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0031920108002288
+  http://www.sciencedirect.com/science/article/pii/S0031920108002288}.
+
+\bibitem[Fowler(2004)]{Fowler2004}
+C.~M.~R. Fowler.
+\newblock \emph{The solid earth: an introduction to global geophysics}.
+\newblock Cambridge University Press, 2004.
+
+\bibitem[Kirby and Kronenberg(1987)]{Kirby1987}
+S.~Kirby and A.~K. Kronenberg.
+\newblock Rheology of the lithosphere: Selected topics.
+\newblock \emph{Reviews of Geophysics}, 25\penalty0 (6):\penalty0 1219--1244,
+  1987.
+
+\bibitem[Lin et~al.(1990)Lin, Purdy, Schouten, Sempere, and Zervas]{Lin1990}
+J.~Lin, G.~M. Purdy, H.~Schouten, J.-C. Sempere, and C.~Zervas.
+\newblock {Evidence from gravity data for focused magmatic accretion along the
+  Mid-Atlantic Ridge}.
+\newblock \emph{Nature}, 344:\penalty0 627--632, 1990.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/344627a0}.
+
+\bibitem[Ryan et~al.(2009)Ryan, Carbotte, Coplan, O'Hara, Melkonian, Arko,
+  Weissel, Ferrini, Goodwillie, Nitsche, Bonczkowski, and Zemsky]{Ryan2009}
+W.~B.~F. Ryan, S.~M. Carbotte, J.~O. Coplan, S.~O'Hara, A.~Melkonian, R.~Arko,
+  R.~A. Weissel, V.~Ferrini, A.~Goodwillie, F.~Nitsche, J.~Bonczkowski, and
+  R.~Zemsky.
+\newblock {Global multi-resolution topography synthesis}.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 10, 2009.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2008GC002332}.
+
+\bibitem[Tolstoy et~al.(1993)Tolstoy, Harding, and Orcutt]{Tolstoy1993}
+M.~Tolstoy, A.~J. Harding, and J.~A. Orcutt.
+\newblock {Crustal Thickness on the Mid-Atlantic Ridge: Bull's-Eye Gravity
+  Anomalies and Focused Accretion.}
+\newblock \emph{Science}, 262\penalty0 (October):\penalty0 726--729, 1993.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.262.5134.726}.
+
+\bibitem[Tucholke et~al.(2008)Tucholke, Behn, Buck, and Lin]{Tucholke2008}
+B.~E. Tucholke, M.~D. Behn, W.~R. Buck, and J.~Lin.
+\newblock {Role of melt supply in oceanic detachment faulting and formation of
+  megamullions}.
+\newblock \emph{Geology}, 36\penalty0 (6):\penalty0 455, 2008.
+\newblock ISSN 0091-7613.
+\newblock \doi{10.1130/G24639A.1}.
+\newblock URL \url{http://geology.gsapubs.org/cgi/doi/10.1130/G24639A.1}.
+
+\bibitem[Turcotte and Schubert(2002)]{Turcotte2002}
+D.~L. Turcotte and G.~Schubert.
+\newblock \emph{Geodynamics}.
+\newblock Cambridge, 2002.
+
+\end{thebibliography}
