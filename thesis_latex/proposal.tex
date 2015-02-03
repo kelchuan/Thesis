@@ -176,7 +176,9 @@ By systematically exploring the behaviors of the 3D models and comparing them wi
 
 The numerical modeling code, SNAC, is an explicit Lagrangian finite element code. It solves the force balance equation for elasto-visco-plastic materials. Figure~\ref{fig7_1} shows major parts of the SNAC's algorithm. 
 
-The boundary conditions of the model are shown in Figure~\ref{fig8_1}, the 60$\times$20$\times$20 km simulated oceanic crust and upper mantle is stretched with a half spreading velocity $V_{x}$ prescribed on both side walls; Winkler foundation is applied at the bottom of the model and simulated sea water hydrostatic pressure is added on the surface in terms of an opposite Winkler foundation; All six walls are shear-stress free. For each time step dt, strain and strain rates are updated. A constitutive model returns updated stresses corresponding to these deformation measures. Internal forces are then calculated from the update stresses, which is plugged into the momentum balance equation together with the body force term. Then, the net force divided by internal mass yields acceleration at a node point, which is time-integrated to velocity and displacement. 
+%The boundary conditions of the model are shown in Figure~\ref{fig8_1\}, the 60$\times$20$\times$20 km simulated oceanic crust and upper mantle is stretched with a half spreading velocity $V_{x}$ prescribed on both side walls; Winkler foundation is applied at the bottom of the model and simulated sea water hydrostatic pressure is added on the surface in terms of an opposite Winkler foundation; All six walls are shear-stress free.}
+\note[XT]{What has been commented seems redundant to later addressed model setup} 
+For each time step dt, strain and strain rates are updated based on the boundary conditions \add[XT]{shown in Figure}~\ref{fig8_1}. A constitutive model returns updated stresses corresponding to these deformation measures. Internal forces are then calculated from the update stresses, which is plugged into the momentum balance equation together with the body force term. Then, the net force divided by internal mass yields acceleration at a node point, which is time-integrated to velocity and displacement. 
 
 A 3D domain is discretized into hexahedral elements, each of which is in turn divided into two sets of tetrahedra. This redundant discretization prevents faulting from favoring a specific direction or ``mesh grains''. 
 
@@ -193,11 +195,11 @@ For 3D diking processs, the expanding strain \add[XT]{rate} $\Delta\dot{\varepsi
 
 \subsection{Model Setup}
 
-I propose the model setup shown in Figure~\ref{fig8_1}. Temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. For boundary conditions, free slip on two sides perpendicular to the $z$ coordinate axis. The top surface is traction-free and the bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of \annote[EC]{dry diabase}{What did Buck et al. 2005 use? Usually, this is for oceanic crust but we don't have crust here...}\note[XT]{Buck et al., 2005 use dry diabase from kirby 1987, while Tucholke 2008 use dry diabase from Mackwell et al., 1998} \citep{Kirby1987}. 
+I propose the model setup shown in Figure~\ref{fig8_1}. Temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. For boundary conditions, free slip on two sides perpendicular to the $z$ coordinate axis. The top surface is \annote[XT]{traction-free}{How about the reverse Winkler foundation on top surface?} and the bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of \annote[EC]{dry diabase}{What did Buck et al. 2005 use? Usually, this is for oceanic crust but we don't have crust here...}\note[XT]{Buck et al., 2005 use dry diabase from kirby 1987, while Tucholke 2008 use dry diabase from Mackwell et al., 1998} \citep{Kirby1987}. 
 
 \begin{figure}[H]
  \centering
-  \includegraphics[scale=0.5]{fig8_1.png}
+  \includegraphics[scale=0.55]{fig8_2.png}
  \caption{\small Preliminary model setup}
  \label{fig8_1}
 \end{figure}
