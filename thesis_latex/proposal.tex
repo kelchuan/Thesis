@@ -165,7 +165,7 @@ We will extend the M-factor formulation originally developed for 2D models to 3D
 
 By systematically exploring the behaviors of the 3D models and comparing them with observations, we will be able to better understand  how the mid-ocean ridge magmatism and tectonic deformations interact. 
 
-\break
+%\break
 \subsection{Method of Approach}
 \label{ch:method}
 
@@ -188,14 +188,15 @@ For 3D diking processs, the expanding strain \add[XT]{rate} $\Delta\dot{\varepsi
 
 \begin{figure}[H]
  \centering
-  \includegraphics[scale=0.65]{fig7_2.png}
+%  \includegraphics[scale=0.65]{fig7_2.png}
+  \includegraphics[width=1.0\textwidth]{fig7_2.png}
  \caption{\small{Essential components of the numerical method to be used for the proposed research}}
  \label{fig7_1}
 \end{figure}
 
 \subsection{Model Setup}
 
-I propose the model setup shown in Figure~\ref{fig8_1}. Temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. For boundary conditions, free slip on two sides perpendicular to the $z$ coordinate axis. The top surface is \annote[XT]{traction-free}{How about the reverse Winkler foundation on top surface?} and the bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of \annote[EC]{dry diabase}{What did Buck et al. 2005 use? Usually, this is for oceanic crust but we don't have crust here...}\note[XT]{Buck et al., 2005 use dry diabase from kirby 1987, while Tucholke 2008 use dry diabase from Mackwell et al., 1998} \citep{Kirby1987}. 
+I propose the model setup shown in Figure~\ref{fig8_1}. Temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at the depth of 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. \add[EC]{Two sides perpendicular to the $z$ coordinate axis are free-slip. The top surface has a vertical traction from water column, of which height is locally determined as 4000-h(x,z) m, where h(x,z) is the topography at a location, (x,z).}  The bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of dry diabase\citep[e.g.,][]{Kirby1987, Buck2005}. 
 
 \begin{figure}[H]
  \centering
