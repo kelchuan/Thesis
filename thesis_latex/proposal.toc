@@ -1,8 +1,6 @@
 \contentsline {section}{\numberline {1}Introduction}{1}
-\contentsline {subsection}{\numberline {1.1}Background}{1}
-\contentsline {subsection}{\numberline {1.2}Related work}{3}
-\contentsline {section}{\numberline {2}Purpose}{5}
-\contentsline {section}{\numberline {3}Method of Approach}{6}
-\contentsline {section}{\numberline {4}Preliminary Results}{8}
-\contentsline {section}{\numberline {5}Work Plan}{9}
-\contentsline {section}{\numberline {6}Budget}{10}
+\contentsline {section}{\numberline {2}Proposed Work}{5}
+\contentsline {subsection}{\numberline {2.1}Method of Approach}{5}
+\contentsline {subsection}{\numberline {2.2}Model Setup}{6}
+\contentsline {subsection}{\numberline {2.3}Parameters to Control}{7}
+\contentsline {section}{\numberline {3}Work Plan}{8}
