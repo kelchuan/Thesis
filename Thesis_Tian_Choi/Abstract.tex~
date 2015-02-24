@@ -1,0 +1,12 @@
+\begin{center}
+Abstract
+\end{center}
+
+\vspace{1.0cm}
+Tian, Xiaochuan. M.S. The University of Memphis. May 2015. 3D Numerical Models for Along-axis Variations in Diking at Mid-Ocean Ridges. Major Professor: Eunseo Choi.
+
+\\
+
+Bathymetry of ocean floors reveals a great variety of morphologies at Mid-ocean Ridges (MORs). Previous studies showed that the morphologies at slow spreading MORs are mainly controlled by the ratio between rates of magma supply and plate extension. 2D models for the across-ridge cross-sections have been successful in explaining many of the observed morphological features such as abyssal hills and oceanic core complexes. However, the magma supply varies along the ridge and the interaction between the tectonic plates and magmatism at MORs are inevitably 3D processes. We propose to investigate the consequences of the along-axis variability in diking in terms of faulting pattern and the associated structures. This work will include implementation of an algorithm of parameterizing repeated diking in a 3D parallel geodynamic modeling code.
+
+

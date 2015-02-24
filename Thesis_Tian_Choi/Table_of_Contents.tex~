@@ -1,0 +1,4 @@
+\centering
+\tableofcontents
+\addtocontents{toc}{{Chapter}\par}
+\addtocontents{toc}{~\hfill{Page}\par}

@@ -1,0 +1,45 @@
+
+\thispagestyle{empty}
+
+\newgeometry{top=2.0in, left=1.5in}
+
+\begin{center}
+
+
+\uppercase{3D Numerical Models for Along-axis Variations in Diking at Mid-Ocean Ridges}
+\\
+\vspace{10pt}
+by
+\vspace{10pt}
+\\
+Xiaochuan Tian
+\\
+\vspace{100pt}
+
+
+A Thesis
+\\
+%\vspace{2pt}
+Submitted in Partial Fulfillment of the 
+\\
+%\vspace{2pt}
+Requirements for the Degree of 
+\\
+%\vspace{2pt}
+Master of Science
+\\
+\vspace{35pt}
+
+Major: Geophyiscs
+\\
+
+\vspace{120pt}
+
+The University of Memphis
+\\
+
+May, 2015
+
+\end{center}
+
+\restoregeometry
