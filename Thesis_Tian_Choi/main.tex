@@ -1,19 +1,20 @@
 % Latex main.tex file for Xiaochuan Tian's Master Thesis at the University of Memphis
 % Advisor: Dr. Eunseo Choi
-% Date: 2015,02,22
+% Date: 2015,February ~ April
 % Location: Center for Earthquake Research and Information
 % Title: 3D Numerical Models for Along-axis Variations in Diking at Mid-Ocean Ridges
 % The format and structure according to: Thesis requirements from the University of Memphis: 
-% http://www.memphis.edu/gradschool/tdinfo_electronic.php#samplepages (referred as RQ(Requirements) in the text)
-% Sample recent submitted Thesis can be found from:
+% http://www.memphis.edu/gradschool/tdinfo_electronic.php#samplepages (referred as RQ(Requirements) in the code)
+% <> is refered as a symbol for question or problem needed to be answered or solved
+% Samples of recent submitted Thesis can be found from:
 % https://umwa.memphis.edu/etd/
 
-
 %%-----------------------------------------------------
-%% Thesis Begin
-
+%% Thesis Environments Setup
+%%-----------------------------------------------------
 
 \documentclass[12pt]{article}  % RQ 3.1
+
 \usepackage{times}             % RQ 3.1 (this is not exactly times new roman but very similar)
 \usepackage[top=1.0in, right=1.0in, bottom=1.0in, left=1.5in]{geometry} % RQ 3.2
 % <> RQ 3.2 0.5inches for page numbers postistion haven't been added
@@ -22,8 +23,18 @@
 \renewcommand{\contentsname}{\textit{\small{Table of Contents}}}  % Change from Contents to Table of Contents
 \usepackage{hyperref}    % For hyperlinks to contents
 \usepackage{natbib}  %for \citep
+
+\usepackage{graphics}
+\usepackage{epsfig}
+
+\usepackage{amsmath}
+%\usepackage{float}  % for floating figures
+\usepackage{floatrow} %for caption of figures on its side
+\usepackage{gensymb} %for \degree
+\usepackage{subcaption} %for figures side by side
+
 %%------------------------------------------------ 
-% For trackchanges.sty
+% For trackchanges.sty  (For co-revision)
 % Change the editor name as you like         
 %%------------------------------------------------
 \usepackage[inline]{trackchanges}
@@ -45,6 +56,12 @@
 
 \includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, Introduction, Methods, Results, Discussion, Conclusions}
 
+%\includeonly{Methods}
+
+%%-----------------------------------------------------
+%% Thesis Begin
+%%-----------------------------------------------------
+
 \begin{document}
 
 %%--------------------------------------------------
@@ -59,8 +76,8 @@
 %\include{Preface} % optional
 \include{Abstract}
 \include{Table_of_Contents}
-\include{List_of_Tables} % for 5 or more
-\include{List_of_Figures} % for 5 or more
+%\include{List_of_Tables} % for 5 or more
+%\include{List_of_Figures} % for 5 or more
 %\include{Key_to_Symbols_or_Abbreviations} % optional
 
 %%--------------------------------------------------
@@ -80,11 +97,10 @@
 %%--------------------------------------------------
 
 %\include{Glossary}  % optional
-\include{References}
-\include{Appendices}
+%\include{References}
+%\include{Appendices}
 
 \bibliographystyle{abbrvnat}
 \bibliography{References.bib}
-\nocite{*}
 
 \end{document}

@@ -1,1 +1,46 @@
 \pagebreak
+\section{Methods}
+\label{ch:Methods}
+
+\subsection{Method of approach}
+The purpose of this thesis is to study how the along-ridge variation in M will make a contribution to the observed various topography assuming that M is the first order control over the topography evolution of MORs governing the interaction between magmatism and tectonic deformations.
+We will extend the M-factor formulation originally developed for 2D models to 3D by implementing it into a 3D numerical modeling code SNAC \citep{Choi2008}. We will focus on studying the last two questions mentioned in the introduction: 1) why does topography along ridge varies and how to explain many features observed; 2) why do OCCs form and what is the mechanism. 
+
+By systematically exploring the behaviors of the 3D models and comparing them with observations, we will be able to better understand  how the mid-ocean ridge magmatism and tectonic deformations interact. 
+
+The numerical modeling code, SNAC, is an explicit Lagrangian finite element code. It solves the force balance equation for elasto-visco-plastic materials. Figure~\ref{fig7_1} shows major parts of the SNAC's algorithm. 
+
+For each time step dt, strain and strain rates are updated based on the boundary conditions shown in Figure~\ref{fig8_1}. A constitutive model returns updated stresses corresponding to these deformation measures. Internal forces are then calculated from the update stresses, which is plugged into the momentum balance equation together with the body force term. Then, the net force divided by internal mass yields acceleration at a node point, which is time-integrated to velocity and displacement. 
+
+A 3D domain is discretized into hexahedral elements, each of which is in turn divided into two sets of tetrahedra. This symmetric discretization prevents faulting from favoring a specific direction or ``mesh grains''. 
+
+Rheology for the oceanic lithosphere is assumed to be elasto-visco-plastic. When viscosity is high at low temperature, the rheology essentially becomes the Mohr-Coulomb plasticity with strain softening and thus can create shear bands that behave like faults. Strain softening is realized by cohesion decreasing with increasing amount of permanent (i.e., plastic) strain. We assume this relationship is linear for simplicity such that it is sufficient for a full description of strain weakening to define initial and final values of cohesion and a critical plastic strain at which cohesion becomes the final value. We define the rate of strain weakening as the cohesion difference divided by the critical plastic strain and use it as one of the model parameters. When temperature is high and viscosity is low, the rheology becomes the Maxwell viscoelasticity and can model creeping flow. By assuming an appropriate initial temperature distribution, we can effectively set up a structure of a brittle lithosphere and a ductile asthenosphere. Rheological parameters are taken from previous studies that used a similar rheology [Buck 2005; Tuckholke et al., 2008] or from lab experiments \citep[e.g.,][]{Kirby1987}. 
+
+For 3D diking processs, the expanding strain $\Delta\varepsilon_{xx}$ results from diking at the ridge will lead to extra-stresses in all three directions $\Delta\sigma_{xx}$, $\Delta\sigma_{yy}$ and $\Delta\sigma_{zz}$ based on the constitutive equations $\sigma_{ij}=\delta_{ij}\lambda\varepsilon_{ij}+2\mu\varepsilon_{ij}$.
+
+\begin{figure}[H]
+ \centering
+%  \includegraphics[scale=0.65]{fig7_2.png}
+  \includegraphics[width=1.0\textwidth]{fig7_3.png}
+ \caption{\small{Essential components of the numerical method to be used for the proposed research}}
+ \label{fig7_1}
+\end{figure}
+
+\subsection{Model Setup}
+I propose the model setup shown in Figure~\ref{fig8_1}. Temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at the depth of 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. Two sides perpendicular to the $z$ coordinate axis are free-slip. The top surface has a vertical traction from water column, of which height is locally determined as 4000-h(x,z) m, where h(x,z) is the topography at a location, (x,z). The bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of dry diabase\citep[e.g.,][]{Kirby1987, Buck2005}. 
+
+\begin{figure}[H]
+ \centering
+%  \includegraphics[scale=0.55]{fig8_1.png}
+  \includegraphics[width=1.0\textwidth] {fig8_1.png}
+ \caption{\small Preliminary model setup}
+ \label{fig8_1}
+\end{figure}
+
+
+\subsection{Parameters to control}
+Although how to estimate the M values from observations has not been well established, we do have constraints from a large dataset of bathymetry, gravity and seismic surveys as well as geological drilling. Generally, at slow spreading ridges, magma supplies mostly at the center of the ridge segment and decreases towards the end of the segment \citep{Tolstoy1993,Chen1999}. There is also evidence for shorter wavelength of 10 to 20 km discrete focus of magma accretion along the ridge axis \citep{Lin1990}. 
+
+Based on these constraints, we can start considering only a few end-member scenarios of variations in M along the ridge axis. The variation in M is parametrized in terms of the functional forms (e.g. discrete increment, linear, sinusuidal and square root), its wavelength (e.g. 10km, 20km and 40km) and the ranges of M (e.g. 0.2 to 0.8, 0.5 to 0.7 and 0.5 to 0.8). 
+
+Preliminary pseudo-2D results show that the model behavior in faulting pattern is sensitive to the rate of strain weakening. Two cases of strain weakening will be tested in my thesis. In one case (denoted as Type 1), cohesion linearly decreases from 44 MPa to 4 MPa for plastic strain accumulating from 0 to 0.1. The other case (Type 2) assumes cohesion linearly decreasing from 44 MPa to 4 MPa for plastic strain accumulating from 0 to 0.33.
