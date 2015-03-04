@@ -1,16 +1,15 @@
 \pagebreak
 \section{Methods}
 \label{ch:Methods}
-
-\subsection{Method of approach}
 The purpose of this thesis is to study how the along-ridge variation in M will make a contribution to the observed various topography assuming that M is the first order control over the topography evolution of MORs governing the interaction between magmatism and tectonic deformations.
 We will extend the M-factor formulation originally developed for 2D models to 3D by implementing it into a 3D numerical modeling code SNAC \citep{Choi2008}. We will focus on studying the last two questions mentioned in the introduction: 1) why does topography along ridge varies and how to explain many features observed; 2) why do OCCs form and what is the mechanism. 
 
 By systematically exploring the behaviors of the 3D models and comparing them with observations, we will be able to better understand  how the mid-ocean ridge magmatism and tectonic deformations interact. 
 
-The numerical modeling code, SNAC, is an explicit Lagrangian finite element code. It solves the force balance equation for elasto-visco-plastic materials. Figure~\ref{fig7_1} shows major parts of the SNAC's algorithm. 
+\subsection{Method of approach}
+The numerical modeling code, SNAC, is an explicit Lagrangian finite element code. It solves the force balance equation for elasto-visco-plastic materials. Figure~\ref{fig_Methods7_3} shows major parts of the SNAC's algorithm. 
 
-For each time step dt, strain and strain rates are updated based on the boundary conditions shown in Figure~\ref{fig8_1}. A constitutive model returns updated stresses corresponding to these deformation measures. Internal forces are then calculated from the update stresses, which is plugged into the momentum balance equation together with the body force term. Then, the net force divided by internal mass yields acceleration at a node point, which is time-integrated to velocity and displacement. 
+For each time step dt, strain and strain rates are updated based on the boundary conditions shown in Figure~\ref{fig_Methods8_1}. A constitutive model returns updated stresses corresponding to these deformation measures. Internal forces are then calculated from the update stresses, which is plugged into the momentum balance equation together with the body force term. Then, the net force divided by internal mass yields acceleration at a node point, which is time-integrated to velocity and displacement. 
 
 A 3D domain is discretized into hexahedral elements, each of which is in turn divided into two sets of tetrahedra. This symmetric discretization prevents faulting from favoring a specific direction or ``mesh grains''. 
 
@@ -20,21 +19,21 @@ For 3D diking processs, the expanding strain $\Delta\varepsilon_{xx}$ results fr
 
 \begin{figure}[H]
  \centering
-%  \includegraphics[scale=0.65]{fig7_2.png}
-  \includegraphics[width=1.0\textwidth]{fig7_3.png}
+%  \includegraphics[scale=0.65]{fig_Methods7_2.png}
+  \includegraphics[width=1.0\textwidth]{fig_Methods7_3.png}
  \caption{\small{Essential components of the numerical method to be used for the proposed research}}
- \label{fig7_1}
+ \label{fig_Methods7_3}
 \end{figure}
 
 \subsection{Model Setup}
-I propose the model setup shown in Figure~\ref{fig8_1}. Temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at the depth of 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. Two sides perpendicular to the $z$ coordinate axis are free-slip. The top surface has a vertical traction from water column, of which height is locally determined as 4000-h(x,z) m, where h(x,z) is the topography at a location, (x,z). The bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of dry diabase\citep[e.g.,][]{Kirby1987, Buck2005}. 
+As shown in Figure~\ref{fig_Methods8_1}, temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at the depth of 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. Two sides perpendicular to the $z$ coordinate axis are free-slip. The top surface has a vertical traction from water column, of which height is locally determined as 4000-h(x,z) m, where h(x,z) is the topography at a location, (x,z). The bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of dry diabase\citep[e.g.,][]{Kirby1987, Buck2005}. 
 
 \begin{figure}[H]
  \centering
-%  \includegraphics[scale=0.55]{fig8_1.png}
-  \includegraphics[width=1.0\textwidth] {fig8_1.png}
+%  \includegraphics[scale=0.55]{fig_Methods8_1.png}
+  \includegraphics[width=1.0\textwidth] {fig_Methods8_1.png}
  \caption{\small Preliminary model setup}
- \label{fig8_1}
+ \label{fig_Methods8_1}
 \end{figure}
 
 
