@@ -77,7 +77,7 @@
 \include{Abstract}
 \include{Table_of_Contents}
 %\include{List_of_Tables} % for 5 or more
-\include{List_of_Figures} % for 5 or more
+%\include{List_of_Figures} % for 5 or more
 %\include{Key_to_Symbols_or_Abbreviations} % optional
 
 %%--------------------------------------------------

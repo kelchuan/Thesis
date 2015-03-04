@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{12}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -65,6 +65,18 @@ W.~B.~F. Ryan, S.~M. Carbotte, J.~O. Coplan, S.~O'Hara, A.~Melkonian, R.~Arko,
 \newblock \emph{Geochemistry, Geophysics, Geosystems}, 10, 2009.
 \newblock ISSN 15252027.
 \newblock \doi{10.1029/2008GC002332}.
+
+\bibitem[Smith et~al.(2014)Smith, Schouten, Dick, Cann, Salters, Marschall, Ji,
+  Yoerger, Sanfilippo, Parnell-turner, Palmiotto, Zheleznov, Bai, Junkin,
+  Urann, Dick, Sulanowska, Lemmond, and Curry]{Smith2014}
+D.~K. Smith, H.~Schouten, H.~J.~B. Dick, J.~R. Cann, V.~Salters, H.~R.
+  Marschall, F.~Ji, D.~Yoerger, A.~Sanfilippo, R.~Parnell-turner, C.~Palmiotto,
+  A.~Zheleznov, H.~Bai, W.~Junkin, B.~Urann, S.~Dick, M.~Sulanowska,
+  P.~Lemmond, and S.~Curry.
+\newblock Development and evolution of detachment faulting along 50 km of the
+  mid-atlantic ridge near 16.5$\degree$n.
+\newblock \emph{Geochemistry Geophysics Geosystems}, pages 4692--4711, 2014.
+\newblock \doi{10.1002/2014GC005563.Received}.
 
 \bibitem[Tolstoy et~al.(1993)Tolstoy, Harding, and Orcutt]{Tolstoy1993}
 M.~Tolstoy, A.~J. Harding, and J.~A. Orcutt.
