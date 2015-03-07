@@ -135,4 +135,24 @@ volume = {25},
 year = {1987}
 }
 
+@article{Smith2014,
+author = {Smith, Deborah K and Schouten, Hans and Dick, Henry J B and Cann, Johnson R and Salters, Vincent and Marschall, Horst R and Ji, Fuwu and Yoerger, Dana and Sanfilippo, Alessio and Parnell-turner, Ross and Palmiotto, Camilla and Zheleznov, Alexei and Bai, Hailong and Junkin, Will and Urann, Ben and Dick, Spencer and Sulanowska, Margaret and Lemmond, Peter and Curry, Scott},
+doi = {10.1002/2014GC005563.Received},
+journal = {Geochemistry Geophysics Geosystems},
+pages = {4692--4711},
+title = {Development and evolution of detachment faulting along 50 km of the Mid-Atlantic Ridge near 16.5$\degree$N},
+year = {2014}
+}
 
+@article{Lavier2000,
+author = {Lavier, Luc L. and Buck, W. Roger and Poliakov, Alexei N. B.},
+doi = {10.1029/2000JB900108},
+issn = {0148-0227},
+journal = {Journal of Geophysical Research},
+number = {B10},
+pages = {23431},
+title = {Factors controlling normal fault offset in an ideal brittle layer},
+url = {http://doi.wiley.com/10.1029/2000JB900108},
+volume = {105},
+year = {2000}
+}

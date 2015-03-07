@@ -33,6 +33,7 @@
 \usepackage{gensymb} %for \degree
 \usepackage{subcaption} %for figures side by side
 
+\usepackage{diagbox} % for table cell with a diagonal line and 2 sub cells
 %%------------------------------------------------ 
 % For trackchanges.sty  (For co-revision)
 % Change the editor name as you like         
@@ -50,11 +51,15 @@
 %%------------------------------------------------   
 
 %%-------------------------------------------------
-% \includeonly files that have been made changes
-%  for faster processing during revision processes
+% \includeonly files that have been made changes for 
+%     faster processing during revision processes
 %%-------------------------------------------------
 
+% Uncomment the following line will process the whole file.
+
 %\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, Introduction, Methods, Results, Discussion, Conclusions}
+
+% Comment the previous line and type below the chapter you are frequently making changes.
 
 \includeonly{Results}
 

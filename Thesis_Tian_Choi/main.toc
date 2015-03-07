@@ -11,14 +11,17 @@
 \contentsline {subsection}{\numberline {2.3}Parameters to control}{9}{subsection.2.3}
 \contentsline {section}{\numberline {3}Results}{11}{section.3}
 \contentsline {subsection}{\numberline {3.1}Reference model description}{11}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}M varies along the ridge axis}{11}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Constant M along the ridge axis }{13}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Variation of the range of M}{14}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Variation of the functional form}{14}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Influence of weakening rate}{14}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Summary of Findings}{14}{subsection.3.5}
-\contentsline {section}{\numberline {4}Discussion}{15}{section.4}
-\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{15}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Model Limitation}{15}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Reccommendation for Future Research}{15}{subsection.4.3}
-\contentsline {section}{\numberline {5}Conclusions}{16}{section.5}
+\contentsline {subsubsection}{\numberline {3.1.1}M varies along the ridge axis}{12}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Constant M along the ridge axis }{14}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Tables of all the data points}{15}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Fault Alternation}{17}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Variation of the range of M}{17}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Variation of the functional form}{17}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Influence of weakening rate}{17}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Summary of Findings}{17}{subsection.3.7}
+\contentsline {section}{\numberline {4}Discussion}{18}{section.4}
+\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{18}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Influence of healing}{18}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Model Limitation}{18}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Reccommendation for Future Research}{18}{subsection.4.4}
+\contentsline {section}{\numberline {5}Conclusions}{19}{section.5}

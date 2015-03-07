@@ -1,4 +1,4 @@
-\begin{thebibliography}{12}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -47,6 +47,13 @@ S.~Kirby and A.~K. Kronenberg.
 \newblock Rheology of the lithosphere: Selected topics.
 \newblock \emph{Reviews of Geophysics}, 25\penalty0 (6):\penalty0 1219--1244,
   1987.
+
+\bibitem[Lavier et~al.(2000)Lavier, Buck, and Poliakov]{Lavier2000}
+L.~L. Lavier, W.~R. Buck, and A.~N.~B. Poliakov.
+\newblock Factors controlling normal fault offset in an ideal brittle layer.
+\newblock \emph{Journal of Geophysical Research}, 105\penalty0 (B10):\penalty0
+  23431, 2000.
+\newblock \doi{10.1029/2000JB900108}.
 
 \bibitem[Lin et~al.(1990)Lin, Purdy, Schouten, Sempere, and Zervas]{Lin1990}
 J.~Lin, G.~M. Purdy, H.~Schouten, J.-C. Sempere, and C.~Zervas.

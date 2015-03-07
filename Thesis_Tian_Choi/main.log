@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  4 MAR 2015 10:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  6 MAR 2015 23:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -327,6 +327,82 @@ Package caption Info: hyperref package is loaded.
 \c@subfigure=\count122
 \c@subtable=\count123
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2011/11/23 v2.0 Making table heads with diagonal lines
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2014/01/12 v0.2z Improved picture commands (HjG,RN,JT)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2011/04/05 v0.1t pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks24
+\@arclen=\dimen139
+\@arcrad=\dimen140
+\@tempdimd=\dimen141
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count124
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count125
+\FP@xia=\count126
+\FP@xib=\count127
+\FP@xfa=\count128
+\FP@xfb=\count129
+\FP@rega=\count130
+\FP@regb=\count131
+\FP@regs=\count132
+\FP@times=\count133
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count134
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+\diagbox@boxa=\box31
+\diagbox@boxb=\box32
+\diagbox@boxm=\box33
+\diagbox@wd=\dimen142
+\diagbox@ht=\dimen143
+\diagbox@sepl=\dimen144
+\diagbox@sepr=\dimen145
+)
 (./trackchanges.sty
 Package: trackchanges 2009/04/22 v0.7.0 TrackChanges file 
 
@@ -343,28 +419,28 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count124
-\calc@Bcount=\count125
-\calc@Adimen=\dimen139
-\calc@Bdimen=\dimen140
+\calc@Acount=\count135
+\calc@Bcount=\count136
+\calc@Adimen=\dimen146
+\calc@Bdimen=\dimen147
 \calc@Askip=\skip63
 \calc@Bskip=\skip64
 LaTeX Info: Redefining \setlength on input line 75.
 LaTeX Info: Redefining \addtolength on input line 76.
-\calc@Ccount=\count126
+\calc@Ccount=\count137
 \calc@Cskip=\skip65
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks24
-\SOUL@lasttoken=\toks25
-\SOUL@cmds=\toks26
-\SOUL@buffer=\toks27
-\SOUL@token=\toks28
+\SOUL@word=\toks25
+\SOUL@lasttoken=\toks26
+\SOUL@cmds=\toks27
+\SOUL@buffer=\toks28
+\SOUL@token=\toks29
 \SOUL@spaceskip=\skip66
-\SOUL@ttwidth=\dimen141
-\SOUL@uldp=\dimen142
-\SOUL@ulht=\dimen143
+\SOUL@ttwidth=\dimen148
+\SOUL@uldp=\dimen149
+\SOUL@ulht=\dimen150
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/morefloats/morefloats.sty
 Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
@@ -392,11 +468,11 @@ Package morefloats Info: Maximum number of possible floats asked for: 36.
 \bx@AI=\insert216
 \bx@AJ=\insert215
 )
-\c@userid=\count127
-\c@changenumber=\count128
-\c@storefootnote=\count129
-\c@numeditors=\count130
-\c@maxeditors=\count131
+\c@userid=\count138
+\c@changenumber=\count139
+\c@storefootnote=\count140
+\c@numeditors=\count141
+\c@maxeditors=\count142
 )
 (./main.aux (./Title_Page.aux) (./Copyright_Notice.aux) (./Dedication.aux)
 (./Acknowledgements.aux) (./Abstract.aux) (./Table_of_Contents.aux)
@@ -407,21 +483,21 @@ LaTeX Warning: Label `fig_Intro1_3' multiply defined.
 ) (./Methods.aux) (./Results.aux) (./Discussion.aux) (./Conclusions.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 70.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -460,19 +536,19 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 65.
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 70.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count132
+\c@section@level=\count143
 )
-LaTeX Info: Redefining \ref on input line 65.
-LaTeX Info: Redefining \pageref on input line 65.
-LaTeX Info: Redefining \nameref on input line 65.
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -481,17 +557,17 @@ LaTeX Info: Redefining \nameref on input line 65.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count133
-\scratchdimen=\dimen144
-\scratchbox=\box32
-\nofMPsegments=\count134
-\nofMParguments=\count135
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count136
-\MPscratchDim=\dimen145
-\MPnumerator=\count137
-\makeMPintoPDFobject=\count138
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count144
+\scratchdimen=\dimen151
+\scratchbox=\box35
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen152
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -510,15 +586,15 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: floatrow package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \celsius on input line 65.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 65.
+LaTeX Info: Redefining \celsius on input line 70.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 70.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 65.
-Package gensymb Info: Using \Omega for \ohm on input line 65.
+LaTeX Info: Redefining \ohm on input line 70.
+Package gensymb Info: Using \Omega for \ohm on input line 70.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -611,27 +687,27 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 2.
- (./main.toc)
+ (./main.toc [6
+
+
+])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-) [6
-
-
-]
+) [7]
 \openout2 = `Introduction.aux'.
 
  (./Introduction.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 
-<fig_Intro1_1.png, id=104, 1491.5725pt x 1148.29pt>
+<fig_Intro1_1.png, id=166, 1491.5725pt x 1148.29pt>
 File: fig_Intro1_1.png Graphic file (type png)
  <use fig_Intro1_1.png>
 Package pdftex.def Info: fig_Intro1_1.png used on input line 19.
 (pdftex.def)             Requested size: 173.44865pt x 133.51361pt.
 
-<fig_Intro1_3.png, id=106, 631.35875pt x 468.75125pt>
+<fig_Intro1_3.png, id=168, 631.35875pt x 468.75125pt>
 File: fig_Intro1_3.png Graphic file (type png)
  <use fig_Intro1_3.png>
 Package pdftex.def Info: fig_Intro1_3.png used on input line 25.
@@ -640,13 +716,13 @@ Package pdftex.def Info: fig_Intro1_3.png used on input line 25.
 [1
 
 
-] <fig_Intro2_1.png, id=117, 952.55875pt x 338.26375pt>
+] <fig_Intro2_1.png, id=179, 952.55875pt x 338.26375pt>
 File: fig_Intro2_1.png Graphic file (type png)
 
 <use fig_Intro2_1.png>
 Package pdftex.def Info: fig_Intro2_1.png used on input line 36.
 (pdftex.def)             Requested size: 381.01675pt x 135.30309pt.
- <fig_Intro3_1.png, id=118, 606.265pt x 486.81876pt>
+ <fig_Intro3_1.png, id=180, 606.265pt x 486.81876pt>
 File: fig_Intro3_1.png Graphic file (type png)
 
 <use fig_Intro3_1.png>
@@ -654,7 +730,7 @@ Package pdftex.def Info: fig_Intro3_1.png used on input line 43.
 (pdftex.def)             Requested size: 181.8809pt x 146.04675pt.
  [2 <./fig_Intro1_1.png> <./fig_Intro1_3.png> <./fig_Intro2_1.png>] [3 <./fig_I
 ntro3_1.png>]
-<fig_Intro5_1.png, id=149, 412.54124pt x 344.28625pt>
+<fig_Intro5_1.png, id=211, 412.54124pt x 344.28625pt>
 File: fig_Intro5_1.png Graphic file (type png)
  <use fig_Intro5_1.png>
 Package pdftex.def Info: fig_Intro5_1.png used on input line 70.
@@ -706,7 +782,7 @@ Underfull \hbox (badness 2980) in paragraph at lines 79--79
 \OT1/ptm/m/n/10.95 sec-ondary faults. [[]Tu-cholke
  []
 
-<fig_Intro6_1.png, id=167, 503.8825pt x 598.235pt>
+<fig_Intro6_1.png, id=229, 503.8825pt x 598.235pt>
 File: fig_Intro6_1.png Graphic file (type png)
  <use fig_Intro6_1.png>
 Package pdftex.def Info: fig_Intro6_1.png used on input line 79.
@@ -823,24 +899,26 @@ Overfull \hbox (3.17133pt too wide) detected at line 79
 
 
 ]
-<fig_Methods7_3.png, id=216, 1173.38374pt x 576.1525pt>
+<fig_Methods7_3.png, id=277, 1173.38374pt x 576.1525pt>
 File: fig_Methods7_3.png Graphic file (type png)
 
 <use fig_Methods7_3.png>
 Package pdftex.def Info: fig_Methods7_3.png used on input line 23.
 (pdftex.def)             Requested size: 433.62001pt x 212.90933pt.
  [8 <./fig_Methods7_3.png>]
-<fig_Methods8_1.png, id=230, 1024.82875pt x 398.48875pt>
+<fig_Methods8_1.png, id=291, 1024.82875pt x 398.48875pt>
 File: fig_Methods8_1.png Graphic file (type png)
 
 <use fig_Methods8_1.png>
-Package pdftex.def Info: fig_Methods8_1.png used on input line 34.
+Package pdftex.def Info: fig_Methods8_1.png used on input line 35.
 (pdftex.def)             Requested size: 433.62001pt x 168.60454pt.
  [9 <./fig_Methods8_1.png>]) [10]
 \openout2 = `Results.aux'.
 
  (./Results.tex
-<fig_Results1_1.png, id=249, 1207.51125pt x 491.8375pt>
+Package color Info: Redefining color UserColor on input line 3.
+
+<fig_Results1_1.png, id=316, 1207.51125pt x 491.8375pt>
 File: fig_Results1_1.png Graphic file (type png)
 
 <use fig_Results1_1.png>
@@ -849,7 +927,9 @@ Package pdftex.def Info: fig_Results1_1.png used on input line 13.
  [11
 
 
- <./fig_Results1_1.png>]
+]
+Package color Info: Redefining color UserColor on input line 18.
+ [12 <./fig_Results1_1.png>]
 Package epstopdf Info: Source file: <fig_Results1_2.eps>
 (epstopdf)                    date: 2015-03-03 21:25:18
 (epstopdf)                    size: 114207 bytes
@@ -858,17 +938,17 @@ Package epstopdf Info: Source file: <fig_Results1_2.eps>
 (epstopdf)                    size: 104574 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig_Results1_2-eps-convert
 ed-to.pdf fig_Results1_2.eps>
-(epstopdf)             \includegraphics on input line 23.
+(epstopdf)             \includegraphics on input line 25.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results1_2-eps-converted-to.pdf, id=257, 327.2225pt x 243.91125pt>
+<fig_Results1_2-eps-converted-to.pdf, id=332, 327.2225pt x 243.91125pt>
 File: fig_Results1_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results1_2-eps-converted-to.pdf>
 Package pdftex.def Info: fig_Results1_2-eps-converted-to.pdf used on input line
- 23.
+ 25.
 (pdftex.def)             Requested size: 260.17465pt x 193.93456pt.
- [12 <./fig_Results1_2-eps-converted-to.pdf>]
+ [13 <./fig_Results1_2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <fig_Results1_3.eps>
 (epstopdf)                    date: 2015-03-03 22:01:16
 (epstopdf)                    size: 253616 bytes
@@ -877,80 +957,165 @@ Package epstopdf Info: Source file: <fig_Results1_3.eps>
 (epstopdf)                    size: 175453 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig_Results1_3-eps-convert
 ed-to.pdf fig_Results1_3.eps>
-(epstopdf)             \includegraphics on input line 39.
+(epstopdf)             \includegraphics on input line 41.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results1_3-eps-converted-to.pdf, id=284, 845.1575pt x 296.10625pt>
+<fig_Results1_3-eps-converted-to.pdf, id=359, 845.1575pt x 296.10625pt>
 File: fig_Results1_3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results1_3-eps-converted-to.pdf>
 Package pdftex.def Info: fig_Results1_3-eps-converted-to.pdf used on input line
- 39.
+ 41.
 (pdftex.def)             Requested size: 433.62001pt x 151.92485pt.
- [13]) [14 <./fig_Results1_3-eps-converted-to.pdf>]
+ [14]
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\OT1/ptm/m/n/10.95 NA; C; SF$[]$;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/ptm/m/n/10.95 CB$[]$;
+ []
+
+
+Overfull \hbox (32.53389pt too wide) in paragraph at lines 72--82
+ [] 
+ []
+
+[15 <./fig_Results1_3-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/ptm/m/n/10.95 NA; C; SL;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/ptm/m/n/10.95 SF$[]$;
+ []
+
+
+Overfull \hbox (4.16226pt too wide) in paragraph at lines 95--96
+\OT1/ptm/m/n/10.95 SF$[]$| 
+ []
+
+
+Overfull \hbox (32.53389pt too wide) in paragraph at lines 90--101
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]\OT1/ptm/m/n/10.95 NA; C; SL;
+ []
+
+
+Overfull \hbox (2.34308pt too wide) in paragraph at lines 113--113
+\OT1/ptm/m/n/10.95 CB$[]$| 
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 113--114
+[]\OT1/ptm/m/n/10.95 NA; C$[]$(due to
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 113--114
+\OT1/ptm/m/n/10.95 shear with dif wave
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OT1/ptm/m/n/10.95 M); SF$[]$(low
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OT1/ptm/m/n/10.95 M)(Dog Bone);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\OT1/ptm/m/n/10.95 NA; C;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/ptm/m/n/10.95 SF$[]$;
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 115--115
+\OT1/ptm/m/n/10.95 CB$[]$; CB$[]$;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+[]\OT1/ptm/m/n/10.95 A$[]$; C;
+ []
+
+
+Overfull \hbox (32.53389pt too wide) in paragraph at lines 108--118
+ [] 
+ []
+
+[16]
+Package color Info: Redefining color UserColor on input line 124.
+) [17]
 \openout2 = `Discussion.aux'.
 
- (./Discussion.tex) [15
+ (./Discussion.tex) [18
 
 
 ]
 \openout2 = `Conclusions.aux'.
 
- (./Conclusions.tex) [16
+ (./Conclusions.tex) [19
 
 
 ] (./main.bbl
-[17
+[20
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
- [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+ [21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
  (./main.aux (./Title_Page.aux) (./Copyright_Notice.aux)
 (./Dedication.aux) (./Acknowledgements.aux) (./Abstract.aux)
 (./Table_of_Contents.aux) (./Introduction.aux) (./Methods.aux) (./Results.aux)
 (./Discussion.aux) (./Conclusions.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 949CFDA28D43D1F796CBE31D63EB959C;1695.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 457744C55A0477C2DB26E4CF24680923;606
-(rerunfilecheck)             After:  4C2147A39550855185A1EDF8D3CF27E9;1479.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 8947 strings out of 493117
- 133379 string characters out of 6135433
- 240137 words of memory out of 5000000
- 12137 multiletter control sequences out of 15000+600000
- 23040 words of font info for 50 fonts, out of 8000000 for 9000
+ 9848 strings out of 493117
+ 144051 string characters out of 6135433
+ 282916 words of memory out of 5000000
+ 12971 multiletter control sequences out of 15000+600000
+ 26309 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,54p,1467b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.caption.1} has been referenced but does no
-t exist, replaced by a fixed one
-
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
+ 39i,16n,54p,1467b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texl
 ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
 e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-di
-st/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/
-type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/
-times/utmri8a.pfb>
-Output written on main.pdf (24 pages, 9066755 bytes).
+2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/tim
+es/utmri8a.pfb>
+Output written on main.pdf (28 pages, 9104765 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 285 compressed objects within 3 object streams
- 72 named destinations out of 1000 (max. 500000)
- 120 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 475 PDF objects out of 1000 (max. 8388607)
+ 378 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
 
