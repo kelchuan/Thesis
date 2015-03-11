@@ -11,18 +11,18 @@
 \contentsline {subsection}{\numberline {2.3}Parameters to control}{9}{subsection.2.3}
 \contentsline {section}{\numberline {3}Results}{11}{section.3}
 \contentsline {subsection}{\numberline {3.1}Reference model description}{11}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}M varies along the ridge axis}{11}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Constant M along the ridge axis }{16}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Tables of all the data points}{17}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Variation of the range of M}{18}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Variation of the functional form}{18}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Influence of weakening rate}{18}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Fault Alternation}{19}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Corrugation}{19}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}Summary of Findings}{19}{subsection.3.8}
-\contentsline {section}{\numberline {4}Discussion}{20}{section.4}
-\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{20}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Influence of healing}{20}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Model Limitation}{20}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Reccommendation for Future Research}{20}{subsection.4.4}
-\contentsline {section}{\numberline {5}Conclusions}{21}{section.5}
+\contentsline {subsubsection}{\numberline {3.1.1}M varies along the ridge axis}{12}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Constant M along the ridge axis }{18}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Tables of all the data points}{19}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Variation of the range of M}{20}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Variation of the functional form}{20}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Influence of weakening rate}{20}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Fault Alternation}{21}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Corrugation}{21}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Summary of Findings}{21}{subsection.3.8}
+\contentsline {section}{\numberline {4}Discussion}{22}{section.4}
+\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{22}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Influence of healing}{22}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Model Limitation}{22}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Reccommendation for Future Research}{22}{subsection.4.4}
+\contentsline {section}{\numberline {5}Conclusions}{23}{section.5}
