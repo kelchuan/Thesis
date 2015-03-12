@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  10 MAR 2015 20:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 MAR 2015 00:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -483,21 +483,21 @@ LaTeX Warning: Label `fig_Intro1_3' multiply defined.
 ) (./Methods.aux) (./Results.aux) (./Discussion.aux) (./Conclusions.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 72.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -537,7 +537,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 72.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -546,9 +546,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count143
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -586,15 +586,15 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: floatrow package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \celsius on input line 70.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 70.
+LaTeX Info: Redefining \celsius on input line 72.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 72.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 70.
-Package gensymb Info: Using \Omega for \ohm on input line 70.
+LaTeX Info: Redefining \ohm on input line 72.
+Package gensymb Info: Using \Omega for \ohm on input line 72.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -701,13 +701,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 
-<fig_Intro1_1.png, id=172, 1491.5725pt x 1148.29pt>
+<fig_Intro1_1.png, id=207, 1491.5725pt x 1148.29pt>
 File: fig_Intro1_1.png Graphic file (type png)
  <use fig_Intro1_1.png>
 Package pdftex.def Info: fig_Intro1_1.png used on input line 19.
 (pdftex.def)             Requested size: 173.44865pt x 133.51361pt.
 
-<fig_Intro1_3.png, id=174, 631.35875pt x 468.75125pt>
+<fig_Intro1_3.png, id=209, 631.35875pt x 468.75125pt>
 File: fig_Intro1_3.png Graphic file (type png)
  <use fig_Intro1_3.png>
 Package pdftex.def Info: fig_Intro1_3.png used on input line 25.
@@ -716,13 +716,13 @@ Package pdftex.def Info: fig_Intro1_3.png used on input line 25.
 [1
 
 
-] <fig_Intro2_1.png, id=184, 952.55875pt x 338.26375pt>
+] <fig_Intro2_1.png, id=219, 952.55875pt x 338.26375pt>
 File: fig_Intro2_1.png Graphic file (type png)
 
 <use fig_Intro2_1.png>
 Package pdftex.def Info: fig_Intro2_1.png used on input line 36.
 (pdftex.def)             Requested size: 381.01675pt x 135.30309pt.
- <fig_Intro3_1.png, id=185, 606.265pt x 486.81876pt>
+ <fig_Intro3_1.png, id=220, 606.265pt x 486.81876pt>
 File: fig_Intro3_1.png Graphic file (type png)
 
 <use fig_Intro3_1.png>
@@ -730,7 +730,7 @@ Package pdftex.def Info: fig_Intro3_1.png used on input line 43.
 (pdftex.def)             Requested size: 181.8809pt x 146.04675pt.
  [2 <./fig_Intro1_1.png> <./fig_Intro1_3.png> <./fig_Intro2_1.png>] [3 <./fig_I
 ntro3_1.png>]
-<fig_Intro5_1.png, id=216, 412.54124pt x 344.28625pt>
+<fig_Intro5_1.png, id=251, 412.54124pt x 344.28625pt>
 File: fig_Intro5_1.png Graphic file (type png)
  <use fig_Intro5_1.png>
 Package pdftex.def Info: fig_Intro5_1.png used on input line 70.
@@ -782,7 +782,7 @@ Underfull \hbox (badness 2980) in paragraph at lines 79--79
 \OT1/ptm/m/n/10.95 sec-ondary faults. [[]Tu-cholke
  []
 
-<fig_Intro6_1.png, id=234, 503.8825pt x 598.235pt>
+<fig_Intro6_1.png, id=269, 503.8825pt x 598.235pt>
 File: fig_Intro6_1.png Graphic file (type png)
  <use fig_Intro6_1.png>
 Package pdftex.def Info: fig_Intro6_1.png used on input line 79.
@@ -899,14 +899,14 @@ Overfull \hbox (3.17133pt too wide) detected at line 79
 
 
 ]
-<fig_Methods7_3.png, id=282, 1173.38374pt x 576.1525pt>
+<fig_Methods7_3.png, id=317, 1173.38374pt x 576.1525pt>
 File: fig_Methods7_3.png Graphic file (type png)
 
 <use fig_Methods7_3.png>
 Package pdftex.def Info: fig_Methods7_3.png used on input line 23.
 (pdftex.def)             Requested size: 433.62001pt x 212.90933pt.
  [8 <./fig_Methods7_3.png>]
-<fig_Methods8_1.png, id=296, 1024.82875pt x 398.48875pt>
+<fig_Methods8_1.png, id=331, 1024.82875pt x 398.48875pt>
 File: fig_Methods8_1.png Graphic file (type png)
 
 <use fig_Methods8_1.png>
@@ -918,20 +918,19 @@ Package pdftex.def Info: fig_Methods8_1.png used on input line 35.
  (./Results.tex
 Package color Info: Redefining color UserColor on input line 3.
 
-<fig_Results1_1.png, id=323, 2415.0225pt x 983.675pt>
-File: fig_Results1_1.png Graphic file (type png)
- <use fig_Results1_1.png>
-Package pdftex.def Info: fig_Results1_1.png used on input line 17.
-(pdftex.def)             Requested size: 433.62001pt x 176.61858pt.
-
 [11
 
 
-]
-Package color Info: Redefining color UserColor on input line 22.
+] <fig_Results1_1.png, id=362, 2415.0225pt x 983.675pt>
+File: fig_Results1_1.png Graphic file (type png)
+
+<use fig_Results1_1.png>
+Package pdftex.def Info: fig_Results1_1.png used on input line 21.
+(pdftex.def)             Requested size: 433.62001pt x 176.61858pt.
  [12 <./fig_Results1_1.png>]
-Package color Info: Redefining color UserColor on input line 24.
- [13]
+Package color Info: Redefining color UserColor on input line 28.
+Package color Info: Redefining color UserColor on input line 30.
+ [13] [14]
 Package epstopdf Info: Source file: <fig_Results1_2.eps>
 (epstopdf)                    date: 2015-03-03 21:25:18
 (epstopdf)                    size: 114207 bytes
@@ -940,39 +939,43 @@ Package epstopdf Info: Source file: <fig_Results1_2.eps>
 (epstopdf)                    size: 104574 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig_Results1_2-eps-convert
 ed-to.pdf fig_Results1_2.eps>
-(epstopdf)             \includegraphics on input line 32.
+(epstopdf)             \includegraphics on input line 38.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results1_2-eps-converted-to.pdf, id=362, 327.2225pt x 243.91125pt>
+<fig_Results1_2-eps-converted-to.pdf, id=408, 327.2225pt x 243.91125pt>
 File: fig_Results1_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results1_2-eps-converted-to.pdf>
 Package pdftex.def Info: fig_Results1_2-eps-converted-to.pdf used on input line
- 32.
+ 38.
 (pdftex.def)             Requested size: 260.17465pt x 193.93456pt.
 Package epstopdf Info: Source file: <fig_Results1_4.eps>
-(epstopdf)                    date: 2015-03-10 17:02:12
-(epstopdf)                    size: 722349 bytes
+(epstopdf)                    date: 2015-03-10 20:31:41
+(epstopdf)                    size: 722929 bytes
 (epstopdf)             Output file: <fig_Results1_4-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-10 17:02:27
-(epstopdf)                    size: 150154 bytes
+(epstopdf)                    date: 2015-03-10 20:31:54
+(epstopdf)                    size: 150288 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig_Results1_4-eps-convert
 ed-to.pdf fig_Results1_4.eps>
-(epstopdf)             \includegraphics on input line 39.
+(epstopdf)             \includegraphics on input line 45.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results1_4-eps-converted-to.pdf, id=363, 563.10374pt x 372.39125pt>
+<fig_Results1_4-eps-converted-to.pdf, id=409, 564.1075pt x 374.39874pt>
 File: fig_Results1_4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results1_4-eps-converted-to.pdf>
 Package pdftex.def Info: fig_Results1_4-eps-converted-to.pdf used on input line
- 39.
-(pdftex.def)             Requested size: 260.17465pt x 172.05779pt.
- [14 <./fig_Results1_2-eps-converted-to.pdf>]
-Package color Info: Redefining color UserColor on input line 43.
- [15 <./fig_Results1_4-eps-converted-to.pdf>]
-Package color Info: Redefining color UserColor on input line 48.
- [16]
+ 45.
+(pdftex.def)             Requested size: 260.17465pt x 172.67682pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./fig_Results1_2-eps-converted-to.pdf>]
+Package color Info: Redefining color UserColor on input line 54.
+Package color Info: Redefining color UserColor on input line 56.
+Package color Info: Redefining color UserColor on input line 56.
+ [16 <./fig_Results1_4-eps-converted-to.pdf>] [17]
 Package epstopdf Info: Source file: <fig_Results1_3.eps>
 (epstopdf)                    date: 2015-03-03 22:01:16
 (epstopdf)                    size: 253616 bytes
@@ -981,149 +984,249 @@ Package epstopdf Info: Source file: <fig_Results1_3.eps>
 (epstopdf)                    size: 175453 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig_Results1_3-eps-convert
 ed-to.pdf fig_Results1_3.eps>
-(epstopdf)             \includegraphics on input line 59.
+(epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results1_3-eps-converted-to.pdf, id=421, 845.1575pt x 296.10625pt>
+<fig_Results1_3-eps-converted-to.pdf, id=473, 845.1575pt x 296.10625pt>
 File: fig_Results1_3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results1_3-eps-converted-to.pdf>
 Package pdftex.def Info: fig_Results1_3-eps-converted-to.pdf used on input line
- 59.
+ 72.
 (pdftex.def)             Requested size: 433.62001pt x 151.92485pt.
- [17] [18 <./fig_Results1_3-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+ [18 <./fig_Results1_3-eps-converted-to.pdf>]
+Package color Info: Redefining color UserColor on input line 81.
+Package color Info: Redefining color UserColor on input line 81.
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []\OT1/ptm/m/n/10.95 NA; C; SF$[]$;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 \OT1/ptm/m/n/10.95 CB$[]$;
  []
 
 
-Overfull \hbox (32.53389pt too wide) in paragraph at lines 90--100
+Overfull \hbox (32.53389pt too wide) in paragraph at lines 106--116
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
 []\OT1/ptm/m/n/10.95 NA; C; SL;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
 \OT1/ptm/m/n/10.95 SF$[]$;
  []
 
 
-Overfull \hbox (4.16226pt too wide) in paragraph at lines 113--114
+Overfull \hbox (4.16226pt too wide) in paragraph at lines 129--130
 \OT1/ptm/m/n/10.95 SF$[]$| 
  []
 
 
-Overfull \hbox (32.53389pt too wide) in paragraph at lines 108--119
+Overfull \hbox (32.53389pt too wide) in paragraph at lines 124--135
  [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
 []\OT1/ptm/m/n/10.95 NA; C; SL;
  []
 
 
-Overfull \hbox (2.34308pt too wide) in paragraph at lines 131--131
+Overfull \hbox (2.34308pt too wide) in paragraph at lines 147--147
 \OT1/ptm/m/n/10.95 CB$[]$| 
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 131--132
+Underfull \hbox (badness 2538) in paragraph at lines 147--148
 []\OT1/ptm/m/n/10.95 NA; C$[]$(due to
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 131--132
+Underfull \hbox (badness 2302) in paragraph at lines 147--148
 \OT1/ptm/m/n/10.95 shear with dif wave
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 \OT1/ptm/m/n/10.95 M); SF$[]$(low
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 \OT1/ptm/m/n/10.95 M)(Dog Bone);
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 []\OT1/ptm/m/n/10.95 NA; C;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 \OT1/ptm/m/n/10.95 SF$[]$;
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 133--133
+Underfull \hbox (badness 4316) in paragraph at lines 149--149
 \OT1/ptm/m/n/10.95 CB$[]$; CB$[]$;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 []\OT1/ptm/m/n/10.95 A$[]$; C;
  []
 
 
-Overfull \hbox (32.53389pt too wide) in paragraph at lines 126--136
+Overfull \hbox (32.53389pt too wide) in paragraph at lines 142--152
  [] 
  []
 
-[19]
-Package color Info: Redefining color UserColor on input line 148.
- [20]) [21]
+[20]
+Package epstopdf Info: Source file: <fig_Results4_1.eps>
+(epstopdf)                    date: 2015-03-11 20:49:18
+(epstopdf)                    size: 10943 bytes
+(epstopdf)             Output file: <fig_Results4_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-11 20:50:29
+(epstopdf)                    size: 8867 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_1-eps-convert
+ed-to.pdf fig_Results4_1.eps>
+(epstopdf)             \includegraphics on input line 167.
+Package epstopdf Info: Output file is already uptodate.
+ <fig_Results4_1-eps-converted-to.pdf, id=516, 899.36pt x 654.445pt>
+File: fig_Results4_1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig_Results4_1-eps-converted-to.pdf>
+Package pdftex.def Info: fig_Results4_1-eps-converted-to.pdf used on input line
+ 167.
+(pdftex.def)             Requested size: 260.17465pt x 189.32483pt.
+ [21 <./fig_Results4_1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <fig_Results4_2_secondary_fault_length_comp
+arison.eps>
+(epstopdf)                    date: 2015-03-11 21:24:26
+(epstopdf)                    size: 52754 bytes
+(epstopdf)             Output file: <fig_Results4_2_secondary_fault_length_comp
+arison-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-11 21:26:28
+(epstopdf)                    size: 40231 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_2_secondary_f
+ault_length_comparison-eps-converted-to.pdf fig_Results4_2_secondary_fault_leng
+th_comparison.eps>
+(epstopdf)             \includegraphics on input line 178.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig_Results4_2_secondary_fault_length_comparison-eps-converted-to.pdf, id=533,
+ 344.28625pt x 231.86626pt>
+File: fig_Results4_2_secondary_fault_length_comparison-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use fig_Results4_2_secondary_fault_length_comparison-eps-converted-to.pdf>
+Package pdftex.def Info: fig_Results4_2_secondary_fault_length_comparison-eps-c
+onverted-to.pdf used on input line 178.
+(pdftex.def)             Requested size: 260.17465pt x 175.21892pt.
+
+[22 <./fig_Results4_2_secondary_fault_length_comparison-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <fig_Results4_3_sqrt_vs_lin_cut_back_97kyr.
+eps>
+(epstopdf)                    date: 2015-03-11 23:42:30
+(epstopdf)                    size: 655318 bytes
+(epstopdf)             Output file: <fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-11 23:43:07
+(epstopdf)                    size: 247259 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_3_sqrt_vs_lin
+_cut_back_97kyr-eps-converted-to.pdf fig_Results4_3_sqrt_vs_lin_cut_back_97kyr.
+eps>
+(epstopdf)             \includegraphics on input line 190.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf, id=550, 584.18
+25pt x 653.44125pt>
+File: fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf>
+Package pdftex.def Info: fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converte
+d-to.pdf used on input line 190.
+(pdftex.def)             Requested size: 260.17465pt x 291.02472pt.
+Package epstopdf Info: Source file: <fig_Results4_3_sqrt_vs_lin_cut_back_100kyr
+.eps>
+(epstopdf)                    date: 2015-03-11 23:42:30
+(epstopdf)                    size: 654351 bytes
+(epstopdf)             Output file: <fig_Results4_3_sqrt_vs_lin_cut_back_100kyr
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-11 23:43:10
+(epstopdf)                    size: 338890 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_3_sqrt_vs_lin
+_cut_back_100kyr-eps-converted-to.pdf fig_Results4_3_sqrt_vs_lin_cut_back_100ky
+r.eps>
+(epstopdf)             \includegraphics on input line 197.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf, id=551, 584.1
+825pt x 653.44125pt>
+File: fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf>
+Package pdftex.def Info: fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-convert
+ed-to.pdf used on input line 197.
+(pdftex.def)             Requested size: 260.17465pt x 291.02472pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package color Info: Redefining color UserColor on input line 202.
+[23 <./fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf>]
+[24 <./fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf>]
+Package color Info: Redefining color UserColor on input line 212.
+)
+[25]
 \openout2 = `Discussion.aux'.
 
- (./Discussion.tex) [22
+ (./Discussion.tex [26
 
 
-]
+]) [27]
 \openout2 = `Conclusions.aux'.
 
- (./Conclusions.tex) [23
+ (./Conclusions.tex) [28
 
 
-] (./main.bbl
-[24
+] (./main.bbl [29
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
- [25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
- (./main.aux (./Title_Page.aux) (./Copyright_Notice.aux)
-(./Dedication.aux) (./Acknowledgements.aux) (./Abstract.aux)
-(./Table_of_Contents.aux) (./Introduction.aux) (./Methods.aux) (./Results.aux)
-(./Discussion.aux) (./Conclusions.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+
+[30]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+ (./main.aux (./Title_Page.aux) (./Copyright_Notice.aux) (./Dedication.aux) (./
+Acknowledgements.aux) (./Abstract.aux) (./Table_of_Contents.aux)
+(./Introduction.aux) (./Methods.aux) (./Results.aux) (./Discussion.aux)
+(./Conclusions.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7FD3435609E117D4F30079FB2B5C77C1;1756.
+(rerunfilecheck)             Checksum: 15F7DD3771263843A7689A5717A314C8;2367.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 9864 strings out of 493117
- 144370 string characters out of 6135433
- 330958 words of memory out of 5000000
- 12977 multiletter control sequences out of 15000+600000
+ 9918 strings out of 493117
+ 146030 string characters out of 6135433
+ 279817 words of memory out of 5000000
+ 13005 multiletter control sequences out of 15000+600000
  26309 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,16n,54p,1907b,1621s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,16n,54p,2430b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texl
@@ -1136,10 +1239,10 @@ exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/
 fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on main.pdf (32 pages, 9270238 bytes).
+Output written on main.pdf (37 pages, 9935086 bytes).
 PDF statistics:
- 546 PDF objects out of 1000 (max. 8388607)
- 425 compressed objects within 5 object streams
- 96 named destinations out of 1000 (max. 500000)
- 269 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 690 PDF objects out of 1000 (max. 8388607)
+ 536 compressed objects within 6 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 345 words of extra memory for PDF output out of 10000 (max. 10000000)
 
