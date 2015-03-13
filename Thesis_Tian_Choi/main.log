@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 MAR 2015 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 MAR 2015 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -600,330 +600,28 @@ Package gensymb Info: Using \Omega for \ohm on input line 85.
 
 Package gensymb Warning: Not defining \micro.
 
-\openout2 = `Title_Page.aux'.
-
-(./Title_Page.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(108.405pt, 413.74481pt, 92.14519pt)
-* v-part:(T,H,B)=(144.54pt, 555.03262pt, 95.39737pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=413.74481pt
-* \textheight=555.03262pt
-* \oddsidemargin=36.13501pt
-* \evensidemargin=36.13501pt
-* \topmargin=35.27pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=44.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- [1
-
-
-
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-\openout2 = `Copyright_Notice.aux'.
-
- (./Copyright_Notice.tex
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 3.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-) [2
-
-
-
-]
-\openout2 = `Dedication.aux'.
-
-
-(./Dedication.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 2.
-) [3
-
-
-]
-\openout2 = `Acknowledgements.aux'.
-
- (./Acknowledgements.tex) [4
-
-
-]
-\openout2 = `Abstract.aux'.
-
- (./Abstract.tex) [5
-
-
-]
-\openout2 = `Table_of_Contents.aux'.
-
-
-(./Table_of_Contents.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 2.
- (./main.toc [6
-
-
-])
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-) [7]
-\openout2 = `Introduction.aux'.
-
- (./Introduction.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-
-<fig_Intro1_1.png, id=202, 1491.5725pt x 1148.29pt>
-File: fig_Intro1_1.png Graphic file (type png)
- <use fig_Intro1_1.png>
-Package pdftex.def Info: fig_Intro1_1.png used on input line 19.
-(pdftex.def)             Requested size: 173.44865pt x 133.51361pt.
-
-<fig_Intro1_3.png, id=204, 631.35875pt x 468.75125pt>
-File: fig_Intro1_3.png Graphic file (type png)
- <use fig_Intro1_3.png>
-Package pdftex.def Info: fig_Intro1_3.png used on input line 25.
-(pdftex.def)             Requested size: 173.44865pt x 128.77466pt.
-
-[1
-
-
-] <fig_Intro2_1.png, id=214, 952.55875pt x 338.26375pt>
-File: fig_Intro2_1.png Graphic file (type png)
-
-<use fig_Intro2_1.png>
-Package pdftex.def Info: fig_Intro2_1.png used on input line 36.
-(pdftex.def)             Requested size: 381.01675pt x 135.30309pt.
- <fig_Intro3_1.png, id=215, 606.265pt x 486.81876pt>
-File: fig_Intro3_1.png Graphic file (type png)
-
-<use fig_Intro3_1.png>
-Package pdftex.def Info: fig_Intro3_1.png used on input line 43.
-(pdftex.def)             Requested size: 181.8809pt x 146.04675pt.
- [2 <./fig_Intro1_1.png> <./fig_Intro1_3.png> <./fig_Intro2_1.png>] [3 <./fig_I
-ntro3_1.png>]
-<fig_Intro5_1.png, id=246, 412.54124pt x 344.28625pt>
-File: fig_Intro5_1.png Graphic file (type png)
- <use fig_Intro5_1.png>
-Package pdftex.def Info: fig_Intro5_1.png used on input line 70.
-(pdftex.def)             Requested size: 288.7769pt x 240.99872pt.
-
-[4 <./fig_Intro5_1.png>]
-Underfull \hbox (badness 7907) in paragraph at lines 79--79
-[]\OT1/ptm/m/n/12 Figure 5: |\OT1/ptm/m/n/10.95 A$\OMS/cmsy/m/n/10.95 ^^X$\OT1/
-ptm/m/n/10.95 F: Fault-ing
- []
-
-
-Underfull \hbox (badness 4913) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 be-hav-ior for dif-fer-ent val-ues
- []
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 of M. Ge-o-logic in-ter-pre-ta-tion
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 is su-per-im-posed on mod-eled
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 show break-aways of ini-tial
- []
-
-
-Underfull \hbox (badness 6284) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 by mag-matic ac-cre-tion, and
- []
-
-
-Underfull \hbox (badness 5091) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 that de-tach-ment faults in B
- []
-
-
-Underfull \hbox (badness 1253) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 and C are not in-ter-rupted by
- []
-
-
-Underfull \hbox (badness 2980) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 sec-ondary faults. [[][]Tu-cholke
- []
-
-<fig_Intro6_1.png, id=264, 503.8825pt x 598.235pt>
-File: fig_Intro6_1.png Graphic file (type png)
- <use fig_Intro6_1.png>
-Package pdftex.def Info: fig_Intro6_1.png used on input line 79.
-(pdftex.def)             Requested size: 284.52756pt x 337.80258pt.
-
-Underfull \hbox (badness 7907) in paragraph at lines 79--79
-[]\OT1/ptm/m/n/12 Figure 5: |\OT1/ptm/m/n/10.95 A$\OMS/cmsy/m/n/10.95 ^^X$\OT1/
-ptm/m/n/10.95 F: Fault-ing
- []
-
-
-Underfull \hbox (badness 4913) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 be-hav-ior for dif-fer-ent val-ues
- []
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 of M. Ge-o-logic in-ter-pre-ta-tion
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 is su-per-im-posed on mod-eled
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 show break-aways of ini-tial
- []
-
-
-Underfull \hbox (badness 6284) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 by mag-matic ac-cre-tion, and
- []
-
-
-Underfull \hbox (badness 5091) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 that de-tach-ment faults in B
- []
-
-
-Underfull \hbox (badness 1253) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 and C are not in-ter-rupted by
- []
-
-
-Underfull \hbox (badness 2980) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 sec-ondary faults. [[][]Tu-cholke
- []
-
-File: fig_Intro6_1.png Graphic file (type png)
-<use fig_Intro6_1.png>
-Package pdftex.def Info: fig_Intro6_1.png used on input line 79.
-(pdftex.def)             Requested size: 284.52756pt x 337.80258pt.
-
-Underfull \hbox (badness 7907) in paragraph at lines 79--79
-[]\OT1/ptm/m/n/12 Figure 5: |\OT1/ptm/m/n/10.95 A$\OMS/cmsy/m/n/10.95 ^^X$\OT1/
-ptm/m/n/10.95 F: Fault-ing
- []
-
-
-Underfull \hbox (badness 4913) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 be-hav-ior for dif-fer-ent val-ues
- []
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 of M. Ge-o-logic in-ter-pre-ta-tion
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 is su-per-im-posed on mod-eled
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 show break-aways of ini-tial
- []
-
-
-Underfull \hbox (badness 6284) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 by mag-matic ac-cre-tion, and
- []
-
-
-Underfull \hbox (badness 5091) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 that de-tach-ment faults in B
- []
-
-
-Underfull \hbox (badness 1253) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 and C are not in-ter-rupted by
- []
-
-
-Underfull \hbox (badness 2980) in paragraph at lines 79--79
-\OT1/ptm/m/n/10.95 sec-ondary faults. [[][]Tu-cholke
- []
-
-File: fig_Intro6_1.png Graphic file (type png)
-<use fig_Intro6_1.png>
-Package pdftex.def Info: fig_Intro6_1.png used on input line 79.
-(pdftex.def)             Requested size: 284.52756pt x 337.80258pt.
-
-Overfull \hbox (3.17133pt too wide) detected at line 79
- [] 
- []
-
-[5 <./fig_Intro6_1.png>]) [6]
-\openout2 = `Methods.aux'.
-
- (./Methods.tex [7
-
-
-]
-<fig_Methods7_3.png, id=312, 1173.38374pt x 576.1525pt>
-File: fig_Methods7_3.png Graphic file (type png)
-
-<use fig_Methods7_3.png>
-Package pdftex.def Info: fig_Methods7_3.png used on input line 23.
-(pdftex.def)             Requested size: 433.62001pt x 212.90933pt.
- [8 <./fig_Methods7_3.png>]
-<fig_Methods8_1.png, id=326, 1024.82875pt x 398.48875pt>
-File: fig_Methods8_1.png Graphic file (type png)
-
-<use fig_Methods8_1.png>
-Package pdftex.def Info: fig_Methods8_1.png used on input line 35.
-(pdftex.def)             Requested size: 433.62001pt x 168.60454pt.
- [9 <./fig_Methods8_1.png>]) [10]
 \openout2 = `Results.aux'.
 
- (./Results.tex
-Package color Info: Redefining color UserColor on input line 3.
+(./Results.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+ [11
 
-[11
 
 
-] <fig_Results1_1.png, id=357, 2415.0225pt x 983.675pt>
+
+
+
+
+
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+ <fig_Results1_1.png, id=64, 2415.0225pt x 983.675pt>
 File: fig_Results1_1.png Graphic file (type png)
 
 <use fig_Results1_1.png>
@@ -944,7 +642,7 @@ ed-to.pdf fig_Results1_2.eps>
 (epstopdf)             \includegraphics on input line 38.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results1_2-eps-converted-to.pdf, id=430, 327.2225pt x 243.91125pt>
+<fig_Results1_2-eps-converted-to.pdf, id=138, 327.2225pt x 243.91125pt>
 File: fig_Results1_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results1_2-eps-converted-to.pdf>
@@ -962,7 +660,7 @@ ed-to.pdf fig_Results1_4.eps>
 (epstopdf)             \includegraphics on input line 45.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results1_4-eps-converted-to.pdf, id=431, 564.1075pt x 374.39874pt>
+<fig_Results1_4-eps-converted-to.pdf, id=139, 564.1075pt x 374.39874pt>
 File: fig_Results1_4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results1_4-eps-converted-to.pdf>
@@ -989,7 +687,7 @@ ed-to.pdf fig_Results1_3.eps>
 (epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results1_3-eps-converted-to.pdf, id=509, 845.1575pt x 296.10625pt>
+<fig_Results1_3-eps-converted-to.pdf, id=218, 845.1575pt x 296.10625pt>
 File: fig_Results1_3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results1_3-eps-converted-to.pdf>
@@ -1099,7 +797,7 @@ Package epstopdf Info: Source file: <fig_Results4_1.eps>
 ed-to.pdf fig_Results4_1.eps>
 (epstopdf)             \includegraphics on input line 167.
 Package epstopdf Info: Output file is already uptodate.
- <fig_Results4_1-eps-converted-to.pdf, id=551, 899.36pt x 654.445pt>
+ <fig_Results4_1-eps-converted-to.pdf, id=262, 899.36pt x 654.445pt>
 File: fig_Results4_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig_Results4_1-eps-converted-to.pdf>
@@ -1121,7 +819,7 @@ th_comparison.eps>
 (epstopdf)             \includegraphics on input line 178.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results4_2_secondary_fault_length_comparison-eps-converted-to.pdf, id=570,
+<fig_Results4_2_secondary_fault_length_comparison-eps-converted-to.pdf, id=281,
  338.26375pt x 230.8625pt>
 File: fig_Results4_2_secondary_fault_length_comparison-eps-converted-to.pdf Gra
 phic file (type pdf)
@@ -1146,7 +844,7 @@ eps>
 (epstopdf)             \includegraphics on input line 190.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf, id=593, 584.18
+<fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf, id=304, 584.18
 25pt x 653.44125pt>
 File: fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -1169,7 +867,7 @@ r.eps>
 (epstopdf)             \includegraphics on input line 197.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf, id=594, 584.1
+<fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf, id=305, 584.1
 825pt x 653.44125pt>
 File: fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -1182,8 +880,6 @@ ed-to.pdf used on input line 197.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23 <./fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf>]
-Package color Info: Redefining color UserColor on input line 204.
 Package epstopdf Info: Source file: <fig_Results4_4_sqrt_cut_back_with_time.eps
 >
 (epstopdf)                    date: 2015-03-12 11:51:26
@@ -1194,53 +890,191 @@ Package epstopdf Info: Source file: <fig_Results4_4_sqrt_cut_back_with_time.eps
 (epstopdf)                    size: 529470 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig_Results4_4_sqrt_cut_ba
 ck_with_time-eps-converted-to.pdf fig_Results4_4_sqrt_cut_back_with_time.eps>
-(epstopdf)             \includegraphics on input line 208.
+(epstopdf)             \includegraphics on input line 204.
 Package epstopdf Info: Output file is already uptodate.
 
-<fig_Results4_4_sqrt_cut_back_with_time-eps-converted-to.pdf, id=623, 460.72125
+<fig_Results4_4_sqrt_cut_back_with_time-eps-converted-to.pdf, id=306, 460.72125
 pt x 479.7925pt>
 File: fig_Results4_4_sqrt_cut_back_with_time-eps-converted-to.pdf Graphic file 
 (type pdf)
 
 <use fig_Results4_4_sqrt_cut_back_with_time-eps-converted-to.pdf>
 Package pdftex.def Info: fig_Results4_4_sqrt_cut_back_with_time-eps-converted-t
-o.pdf used on input line 208.
+o.pdf used on input line 204.
 (pdftex.def)             Requested size: 433.62001pt x 451.56871pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+Package epstopdf Info: Source file: <fig_Results4_5_sqrt_cut_back_pre_accummula
+ted_shear_zone.eps>
+(epstopdf)                    date: 2015-03-12 13:52:50
+(epstopdf)                    size: 85993 bytes
+(epstopdf)             Output file: <fig_Results4_5_sqrt_cut_back_pre_accummula
+ted_shear_zone-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-12 13:52:56
+(epstopdf)                    size: 63675 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_5_sqrt_cut_ba
+ck_pre_accummulated_shear_zone-eps-converted-to.pdf fig_Results4_5_sqrt_cut_bac
+k_pre_accummulated_shear_zone.eps>
+(epstopdf)             \includegraphics on input line 211.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-converted-to.pdf,
+ id=307, 309.155pt x 131.49126pt>
+File: fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-converted-to
+.pdf Graphic file (type pdf)
+
+<use fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-converted-to.
+pdf>
+Package pdftex.def Info: fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zo
+ne-eps-converted-to.pdf used on input line 211.
+(pdftex.def)             Requested size: 260.17465pt x 110.66858pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23 <./fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <fig_Results4_8_sqrt_cut_back_bending_carto
+on.eps>
+(epstopdf)                    date: 2015-03-12 19:48:54
+(epstopdf)                    size: 29597 bytes
+(epstopdf)             Output file: <fig_Results4_8_sqrt_cut_back_bending_carto
+on-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-12 19:49:05
+(epstopdf)                    size: 13945 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_8_sqrt_cut_ba
+ck_bending_cartoon-eps-converted-to.pdf fig_Results4_8_sqrt_cut_back_bending_ca
+rtoon.eps>
+(epstopdf)             \includegraphics on input line 220.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig_Results4_8_sqrt_cut_back_bending_cartoon-eps-converted-to.pdf, id=339, 270
+.00874pt x 152.57pt>
+File: fig_Results4_8_sqrt_cut_back_bending_cartoon-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use fig_Results4_8_sqrt_cut_back_bending_cartoon-eps-converted-to.pdf>
+Package pdftex.def Info: fig_Results4_8_sqrt_cut_back_bending_cartoon-eps-conve
+rted-to.pdf used on input line 220.
+(pdftex.def)             Requested size: 260.17465pt x 147.01727pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <fig_Results4_6_sqrt_cut_back_bending_drop.
+eps>
+(epstopdf)                    date: 2015-03-12 20:10:57
+(epstopdf)                    size: 98186 bytes
+(epstopdf)             Output file: <fig_Results4_6_sqrt_cut_back_bending_drop-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-12 20:12:33
+(epstopdf)                    size: 82048 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_6_sqrt_cut_ba
+ck_bending_drop-eps-converted-to.pdf fig_Results4_6_sqrt_cut_back_bending_drop.
+eps>
+(epstopdf)             \includegraphics on input line 227.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf, id=340, 619.31
+375pt x 341.275pt>
+File: fig_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use fig_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf>
+Package pdftex.def Info: fig_Results4_6_sqrt_cut_back_bending_drop-eps-converte
+d-to.pdf used on input line 227.
+(pdftex.def)             Requested size: 260.17465pt x 143.37617pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <fig_Results4_7_sqrt_cut_back_conjugate_Sxx
+.eps>
+(epstopdf)                    date: 2015-03-12 18:51:43
+(epstopdf)                    size: 68396 bytes
+(epstopdf)             Output file: <fig_Results4_7_sqrt_cut_back_conjugate_Sxx
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-12 18:55:10
+(epstopdf)                    size: 49846 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_7_sqrt_cut_ba
+ck_conjugate_Sxx-eps-converted-to.pdf fig_Results4_7_sqrt_cut_back_conjugate_Sx
+x.eps>
+(epstopdf)             \includegraphics on input line 234.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf, id=341, 363.3
+575pt x 148.555pt>
+File: fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf>
+Package pdftex.def Info: fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-convert
+ed-to.pdf used on input line 234.
+(pdftex.def)             Requested size: 260.17465pt x 106.3724pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [24 <./fig_Results4_3_sqrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf>]
-Package color Info: Redefining color UserColor on input line 223.
-)
-[25] [26 <./fig_Results4_4_sqrt_cut_back_with_time-eps-converted-to.pdf>]
-\openout2 = `Discussion.aux'.
+[25]
+Package color Info: Redefining color UserColor on input line 247.
+Package epstopdf Info: Source file: <fig_Results4_9_sqrt_cut_back_new_fault_cha
+se.eps>
+(epstopdf)                    date: 2015-03-12 22:32:38
+(epstopdf)                    size: 535677 bytes
+(epstopdf)             Output file: <fig_Results4_9_sqrt_cut_back_new_fault_cha
+se-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-12 22:34:11
+(epstopdf)                    size: 749482 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig_Results4_9_sqrt_cut_ba
+ck_new_fault_chase-eps-converted-to.pdf fig_Results4_9_sqrt_cut_back_new_fault_
+chase.eps>
+(epstopdf)             \includegraphics on input line 251.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-converted-to.pdf, id=406, 750
+.805pt x 332.24126pt>
+File: fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-converted-to.pdf>
+Package pdftex.def Info: fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-conve
+rted-to.pdf used on input line 251.
+(pdftex.def)             Requested size: 433.62001pt x 191.88385pt.
 
 
-(./Discussion.tex [27
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26]
+Package color Info: Redefining color UserColor on input line 262.
+) [27] [28 <./fig_Results4_4_sqrt_cut_back_with_time-eps-converted-to.pdf> <./f
+ig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-converted-to.pdf>] 
+[29 <./fig_Results4_8_sqrt_cut_back_bending_cartoon-eps-converted-to.pdf> <./fi
+g_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf> <./fig_Results4_7
+_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf>] [30 <./fig_Results4_9_sqrt_
+cut_back_new_fault_chase-eps-converted-to.pdf>] (./main.bblpdfTeX warning (ext4
+): destination with the same identifier (name{page.30}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.75 
+      [30
 
 
-]) [28]
-\openout2 = `Conclusions.aux'.
-
- (./Conclusions.tex) [29
-
-
-] (./main.bbl [30
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
-
-[31]
+ [31]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
- (./main.aux (./Title_Page.aux) (./Copyright_Notice.aux) (./Dedication.aux) (./
-Acknowledgements.aux) (./Abstract.aux) (./Table_of_Contents.aux)
-(./Introduction.aux) (./Methods.aux) (./Results.aux) (./Discussion.aux)
-(./Conclusions.aux))
+ (./main.aux (./Title_Page.aux) (./Copyright_Notice.aux)
+(./Dedication.aux) (./Acknowledgements.aux) (./Abstract.aux)
+(./Table_of_Contents.aux) (./Introduction.aux) (./Methods.aux) (./Results.aux)
+(./Discussion.aux) (./Conclusions.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F2D0814849C83F305123DFFFD584400B;2293.
+(rerunfilecheck)             Checksum: 1E579A35485299DE6D44D0A1EF8D1D8C;925.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1248,29 +1082,27 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
  ) 
 Here is how much of TeX's memory you used:
- 9924 strings out of 493117
- 146337 string characters out of 6135433
- 282644 words of memory out of 5000000
- 13009 multiletter control sequences out of 15000+600000
- 26309 words of font info for 54 fonts, out of 8000000 for 9000
+ 9786 strings out of 493117
+ 145356 string characters out of 6135433
+ 283242 words of memory out of 5000000
+ 12944 multiletter control sequences out of 15000+600000
+ 22518 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,16n,54p,2538b,626s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,16n,46p,2538b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/
-fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
-e1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/tim
-es/utmri8a.pfb>
-Output written on main.pdf (38 pages, 10345101 bytes).
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on main.pdf (22 pages, 3884044 bytes).
 PDF statistics:
- 771 PDF objects out of 1000 (max. 8388607)
- 588 compressed objects within 6 object streams
- 119 named destinations out of 1000 (max. 500000)
- 342 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 592 PDF objects out of 1000 (max. 8388607)
+ 415 compressed objects within 5 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
 
