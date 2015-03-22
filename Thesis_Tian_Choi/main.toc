@@ -16,21 +16,32 @@
 \contentsline {subsection}{\numberline {3.2}Tables of all the data points}{19}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Variation of the functional form}{21}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Comparing M28 in terms of linear, sinusoidal and square root}{21}{subsubsection.3.3.1}
-\contentsline {paragraph}{Secondary Fault}{22}{section*.18}
-\contentsline {paragraph}{Cut back}{23}{figure.caption.24}
-\contentsline {subsection}{\numberline {3.4}Variation of the range of M}{27}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Influence of weakening rate}{27}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Fault Alternation}{27}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Corrugation}{27}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}Summary of Findings}{27}{subsection.3.8}
-\contentsline {section}{\numberline {4}Discussion}{31}{section.4}
-\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{31}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Fault alternation}{31}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Alternating on conjugate plate}{31}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Secondary near-axis normal fault}{31}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Influence of healing}{32}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Comparing model results with nature observation}{32}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Parallel computing efficiency}{32}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Model Limitation}{32}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}Reccommendation for Future Research}{32}{subsection.4.7}
-\contentsline {section}{\numberline {5}Conclusions}{33}{section.5}
+\contentsline {paragraph}{Secondary Fault}{22}{section*.19}
+\contentsline {paragraph}{Cut back}{23}{figure.caption.25}
+\contentsline {subsection}{\numberline {3.4}Influence of weakening rate}{29}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}M57 sinusoidal Type one versus M57 sinusoidal Type two}{30}{subsubsection.3.4.1}
+\contentsline {paragraph}{M57SinT1}{31}{section*.33}
+\contentsline {paragraph}{M57SinT2}{32}{section*.35}
+\contentsline {subsubsection}{\numberline {3.4.2}M58SinT1 versus M58SinT2}{33}{subsubsection.3.4.2}
+\contentsline {paragraph}{M58SinT1}{33}{section*.37}
+\contentsline {paragraph}{M58SinT2}{34}{section*.39}
+\contentsline {subsubsection}{\numberline {3.4.3}M58SqrtT1 versus M58SqrtT2}{35}{subsubsection.3.4.3}
+\contentsline {paragraph}{M58SqrtT1}{35}{section*.40}
+\contentsline {paragraph}{M58SqrtT2}{36}{figure.caption.43}
+\contentsline {subsection}{\numberline {3.5}Variation of the range of M}{37}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Fault Alternation}{38}{subsubsection.3.5.1}
+\contentsline {subsection}{\numberline {3.6}Corrugations}{38}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Wavelength of corrugations}{38}{subsubsection.3.6.1}
+\contentsline {subsection}{\numberline {3.7}Summary of Findings}{38}{subsection.3.7}
+\contentsline {section}{\numberline {4}Discussion}{39}{section.4}
+\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{39}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Fault alternation}{39}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Alternating on conjugate plate}{39}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Secondary near-axis normal fault}{39}{subsubsection.4.2.2}
+\contentsline {subsection}{\numberline {4.3}Influence of healing}{40}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Comparing model results with nature observation}{40}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Parallel computing efficiency}{40}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Model Limitation}{40}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Fixed thermal structure effects and justification}{40}{subsubsection.4.6.1}
+\contentsline {subsection}{\numberline {4.7}Reccommendation for Future Research}{40}{subsection.4.7}
+\contentsline {section}{\numberline {5}Conclusions}{41}{section.5}

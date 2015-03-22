@@ -11,4 +11,6 @@ The secondary near axis high angle normal fault is another common observation of
 \subsection{Comparing model results with nature observation}
 \subsection{Parallel computing efficiency}
 \subsection{Model Limitation}
+\subsubsection{Fixed thermal structure effects and justification}
+Thermal conduction rate for $\kappa=6mm^{2}/s$ material is 1.8e5 km/Myr, four magnitude faster compared to spreading rate of 2.5km/Myr.
 \subsection{Reccommendation for Future Research}

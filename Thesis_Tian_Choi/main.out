@@ -1,6 +1,6 @@
 \BOOKMARK [1][-]{section.3}{3D Results}{}% 10
 \BOOKMARK [2][-]{subsection.3.1}{Reference models}{section.3}% 11
-\BOOKMARK [3][-]{subsubsection.3.1.1}{M varies along the ridge-axis}{subsection.3.1}% 12
+\BOOKMARK [3][-]{subsubsection.3.1.1}{M varies along the ridge-axis \(M28LinT1 Table [Tab11]1\)}{subsection.3.1}% 12
 \BOOKMARK [3][-]{subsubsection.3.1.2}{Constant M along the ridge-axis }{subsection.3.1}% 13
 \BOOKMARK [2][-]{subsection.3.2}{Tables of all the data points}{section.3}% 14
 \BOOKMARK [2][-]{subsection.3.3}{Variation of the functional form}{section.3}% 15
@@ -10,18 +10,23 @@
 \BOOKMARK [3][-]{subsubsection.3.4.2}{M58SinT1 versus M58SinT2}{subsection.3.4}% 19
 \BOOKMARK [3][-]{subsubsection.3.4.3}{M58SqrtT1 versus M58SqrtT2}{subsection.3.4}% 20
 \BOOKMARK [2][-]{subsection.3.5}{Variation of the range of M}{section.3}% 21
-\BOOKMARK [3][-]{subsubsection.3.5.1}{Fault Alternation}{subsection.3.5}% 22
-\BOOKMARK [2][-]{subsection.3.6}{Corrugations}{section.3}% 23
-\BOOKMARK [3][-]{subsubsection.3.6.1}{Wavelength of corrugations}{subsection.3.6}% 24
-\BOOKMARK [2][-]{subsection.3.7}{Summary of Findings}{section.3}% 25
-\BOOKMARK [1][-]{section.4}{Discussion}{}% 26
-\BOOKMARK [2][-]{subsection.4.1}{Discussion of Findings}{section.4}% 27
-\BOOKMARK [2][-]{subsection.4.2}{Fault alternation}{section.4}% 28
-\BOOKMARK [3][-]{subsubsection.4.2.1}{Alternating on conjugate plate}{subsection.4.2}% 29
-\BOOKMARK [3][-]{subsubsection.4.2.2}{Secondary near-axis normal fault}{subsection.4.2}% 30
-\BOOKMARK [2][-]{subsection.4.3}{Influence of healing}{section.4}% 31
-\BOOKMARK [2][-]{subsection.4.4}{Comparing model results with nature observation}{section.4}% 32
-\BOOKMARK [2][-]{subsection.4.5}{Parallel computing efficiency}{section.4}% 33
-\BOOKMARK [2][-]{subsection.4.6}{Model Limitation}{section.4}% 34
-\BOOKMARK [3][-]{subsubsection.4.6.1}{Fixed thermal structure effects and justification}{subsection.4.6}% 35
-\BOOKMARK [2][-]{subsection.4.7}{Reccommendation for Future Research}{section.4}% 36
+\BOOKMARK [3][-]{subsubsection.3.5.1}{M28SinT1 versus M57SinT1 versus M58SinT1}{subsection.3.5}% 22
+\BOOKMARK [3][-]{subsubsection.3.5.2}{M57SinT2 versus M58SinT2}{subsection.3.5}% 23
+\BOOKMARK [3][-]{subsubsection.3.5.3}{M28LinT1 versus M57LinT1}{subsection.3.5}% 24
+\BOOKMARK [3][-]{subsubsection.3.5.4}{M28SqrtT1 versus M58SqrtT1}{subsection.3.5}% 25
+\BOOKMARK [3][-]{subsubsection.3.5.5}{M57SqrtT2 versus M58SqrtT2}{subsection.3.5}% 26
+\BOOKMARK [2][-]{subsection.3.6}{Summary of Findings}{section.3}% 27
+\BOOKMARK [1][-]{section.4}{Discussion}{}% 28
+\BOOKMARK [2][-]{subsection.4.1}{Discussion of Findings}{section.4}% 29
+\BOOKMARK [2][-]{subsection.4.2}{Fault alternation}{section.4}% 30
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Alternating on conjugate plate}{subsection.4.2}% 31
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Secondary near-axis normal fault}{subsection.4.2}% 32
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Fault Alternation}{subsection.4.2}% 33
+\BOOKMARK [2][-]{subsection.4.3}{Corrugations}{section.4}% 34
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Wavelength of corrugations}{subsection.4.3}% 35
+\BOOKMARK [2][-]{subsection.4.4}{Influence of healing}{section.4}% 36
+\BOOKMARK [2][-]{subsection.4.5}{Comparing model results with nature observation}{section.4}% 37
+\BOOKMARK [2][-]{subsection.4.6}{Parallel computing efficiency}{section.4}% 38
+\BOOKMARK [2][-]{subsection.4.7}{Model Limitation}{section.4}% 39
+\BOOKMARK [3][-]{subsubsection.4.7.1}{Fixed thermal structure effects and justification}{subsection.4.7}% 40
+\BOOKMARK [2][-]{subsection.4.8}{Reccommendation for Future Research}{section.4}% 41

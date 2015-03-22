@@ -38,7 +38,7 @@
 
 \usepackage{natbib}  %for \citep
 
-\usepackage{graphics}
+\usepackage{graphics} % notation rule for figures: fig_Chaptername(e.g.Results)_SubSectionName_Number_Modelname(e.g. M28LinT1)_short_description_of_the_figure
 \usepackage{epsfig}
 
 \usepackage{amsmath}
@@ -72,11 +72,11 @@
 
 % Uncomment the following line will process the whole Thesis files.
 
-%\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, Introduction, Methods, Results, Discussion, Conclusions}
+\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, Introduction, Methods, Results, Discussion, Conclusions}
 
 % Comment the previous line and type below the chapter name you are frequently making changes for faster processing.
 
-\includeonly{Results, Discussion}
+%\includeonly{Results, Discussion}
 
 %%-----------------------------------------------------
 %% Thesis Begin
