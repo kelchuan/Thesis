@@ -1,0 +1,14 @@
+\pagebreak
+\section{Discussion}
+Since the model behavior is very complicated. We will focus on the effects being brought by the along ridge-axis variation in diking. Thus, it is worth considering a thought experiment with two end members: One, the along ridge-axis coupling is rigid, so that even along ridge axis variation in M exist, once a fault determined to develop, it will cut through the whole model domain along the ridge-axis(Z-axis) simultaneously. The other end member is that there is totally no coupling along the ridge-axis. So that each slice of crossection profile across the ridge behave separately without being influenced by its neighbour to a extreme that the model behavior is just a combination of 20 pseudo-2D models piled up along ridge-axis with their own M. (IMPORTANT: this suggests the importance and urgence for making clear conclusion and results description for previous pseudo-2D models results. However, one difficulty here is that the characteristic fault offset $\Delta X_{c}$ is different between 2D and 3D models.)
+\subsection{Discussion of Findings}
+\subsection{Fault alternation}
+\subsubsection{Alternating on conjugate plate}
+\subsubsection{Secondary near-axis normal fault}
+
+The secondary near axis high angle normal fault is another common observation of the models. As shown in Figure~\ref{fig_Results1_1}, at the ridge axis with M$>0.5$ (i.e. Z$>10$), the existing normal fault will be pushed away from the ridge-axis due to excessive diking, as its mechanism has been mentioned in the introduction chapter, another new near axis normal fault is created at around 650kyr. As it evolve, the initial detachment fault become inactive (the transparant view of plastic strain shown in the rigth corner inset of time 880kyr). This secondary fault creates another dome and its composition is more likely to be volcanic rather than ultramafic, however, as is evolve, if it can last long, lower crust and upper mantle material can be exhumed to the surface. The composition of the domes observed at Kane magamullions is similar to this mechanism that ultramafic Babel dome is on the West and crustal inside-corner high on the East.    
+\subsection{Influence of healing}
+\subsection{Comparing model results with nature observation}
+\subsection{Parallel computing efficiency}
+\subsection{Model Limitation}
+\subsection{Reccommendation for Future Research}

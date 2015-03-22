@@ -5,9 +5,10 @@
 % Title: 3D Numerical Models for Along-axis Variations in Diking at Mid-Ocean Ridges
 % The format and structure according to: Thesis requirements from the University of Memphis: 
 % http://www.memphis.edu/gradschool/tdinfo_electronic.php#samplepages (referred as RQ(Requirements) in the code)
-% <> is refered as a symbol for question or problem needed to be answered or solved
+% "<>" is refered as a symbol for question or problem needed to be answered or solved
 % Samples of recent submitted Thesis can be found from:
 % https://umwa.memphis.edu/etd/
+% Copyright: Xiaochuan Tian, 2015. All rights reserved.
 
 %%-----------------------------------------------------
 %% Thesis Environments Setup
@@ -37,18 +38,17 @@
 
 \usepackage{natbib}  %for \citep
 
-\usepackage{graphics}
+\usepackage{graphics} % notation rule for figures: fig_Chaptername(e.g.Results)_SubSectionName_Number_Modelname(e.g. M28LinT1)_short_description_of_the_figure
 \usepackage{epsfig}
 
 \usepackage{amsmath}
 %\usepackage{float}  % for floating figures
 \usepackage{floatrow} %for caption of figures on its side
-\usepackage{gensymb} %for \degree
+\usepackage{gensymb} %for "\degree"
 \usepackage{subcaption} %for figures side by side
 
 \usepackage{diagbox} % for table cell with a diagonal line and 2 sub cells
 
-%\setcounter{secnumdepth}{5} %for \paragragh
 %%------------------------------------------------ 
 % For trackchanges.sty  (For co-revision)
 % Change the editor name as you like         
@@ -70,13 +70,13 @@
 %     faster processing during revision processes
 %%-------------------------------------------------
 
-% Uncomment the following line will process the whole file.
+% Uncomment the following line will process the whole Thesis files.
 
-\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, Introduction, Methods, Results, Discussion, Conclusions}
+%\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, Introduction, Methods, Results, Discussion, Conclusions}
 
-% Comment the previous line and type below the chapter you are frequently making changes.
+% Comment the previous line and type below the chapter name you are frequently making changes for faster processing.
 
-%\includeonly{Results}
+\includeonly{Results, Discussion}
 
 %%-----------------------------------------------------
 %% Thesis Begin
@@ -96,8 +96,8 @@
 %\include{Preface} % optional
 \include{Abstract}
 \include{Table_of_Contents}
-%\include{List_of_Tables} % for 5 or more
-%\include{List_of_Figures} % for 5 or more
+%\include{List_of_Tables} % for 5 or more  
+%\include{List_of_Figures} % for 5 or more (<>Needs to be added)
 %\include{Key_to_Symbols_or_Abbreviations} % optional
 
 %%--------------------------------------------------
@@ -121,6 +121,12 @@
 %\include{Appendices}
 
 \bibliographystyle{abbrvnat}
-\bibliography{References.bib}
+\bibliography{References.bib}  %Use Mendeley to directly extract bib for a specific paper and add to "References.bib"
 
 \end{document}
+
+
+% You are doing something great and worthwhile ! 
+% Being able to communicate by writing boost the delvelopment of human civilization. It is like you prepare a great speech and without geographical (internet) or temporal (as long as no one make it extinct(it is so hard to make a good writing become extinct)) limitation, once there is someone interested in your topic, they become a audience, joining your speech. But you only gave the speech once.
+
+% Latex and linux with emacs greatly increases the efficiency of this process. 
