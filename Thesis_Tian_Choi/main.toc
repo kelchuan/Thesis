@@ -10,47 +10,50 @@
 \contentsline {subsection}{\numberline {2.2}Model Setup}{9}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Parameters to control}{10}{subsection.2.3}
 \contentsline {section}{\numberline {3}3D Results}{12}{section.3}
-\contentsline {subsection}{\numberline {3.1}Reference models}{13}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}M varies along the ridge-axis (M28LinT1 Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}})}{13}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Constant M along the ridge-axis }{19}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Tables of all the data points}{20}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Variation of the functional form}{22}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Comparing M28 in terms of linear, sinusoidal and square root}{22}{subsubsection.3.3.1}
-\contentsline {paragraph}{Secondary Fault}{23}{section*.22}
-\contentsline {paragraph}{Cut back}{24}{figure.caption.28}
-\contentsline {subsection}{\numberline {3.4}Influence of weakening rate}{30}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}M57 sinusoidal Type one versus M57 sinusoidal Type two}{31}{subsubsection.3.4.1}
-\contentsline {paragraph}{M57SinT1}{32}{section*.36}
-\contentsline {paragraph}{M57SinT2}{33}{section*.38}
-\contentsline {subsubsection}{\numberline {3.4.2}M58SinT1 versus M58SinT2}{34}{subsubsection.3.4.2}
-\contentsline {paragraph}{M58SinT1}{34}{section*.40}
-\contentsline {paragraph}{M58SinT2}{35}{section*.42}
-\contentsline {subsubsection}{\numberline {3.4.3}M58SqrtT1 versus M58SqrtT2}{36}{subsubsection.3.4.3}
-\contentsline {paragraph}{M58SqrtT1}{36}{section*.43}
-\contentsline {paragraph}{M58SqrtT2}{37}{figure.caption.46}
-\contentsline {subsection}{\numberline {3.5}Variation of the range of M}{38}{subsection.3.5}
-\contentsline {subsubsection}{\numberline {3.5.1}M28SinT1 versus M57SinT1 versus M58SinT1}{38}{subsubsection.3.5.1}
-\contentsline {paragraph}{M57SinT1 versus M58SinT1}{39}{section*.47}
-\contentsline {paragraph}{M28SinT1}{39}{figure.caption.49}
-\contentsline {subsubsection}{\numberline {3.5.2}M57SinT2 versus M58SinT2}{40}{subsubsection.3.5.2}
-\contentsline {subsubsection}{\numberline {3.5.3}M28LinT1 versus M57LinT1}{40}{subsubsection.3.5.3}
-\contentsline {paragraph}{M57LinT1}{40}{figure.caption.51}
-\contentsline {subsubsection}{\numberline {3.5.4}M28SqrtT1 versus M58SqrtT1}{42}{subsubsection.3.5.4}
-\contentsline {subsubsection}{\numberline {3.5.5}M57SqrtT2 versus M58SqrtT2}{42}{subsubsection.3.5.5}
-\contentsline {paragraph}{M57SqrtT2}{42}{figure.caption.53}
-\contentsline {subsection}{\numberline {3.6}Summary of Findings}{43}{subsection.3.6}
-\contentsline {section}{\numberline {4}Discussion}{44}{section.4}
-\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{44}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Fault alternation}{44}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Alternating on conjugate plate}{44}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Secondary near-axis normal fault}{44}{subsubsection.4.2.2}
-\contentsline {subsubsection}{\numberline {4.2.3}Fault Alternation}{45}{subsubsection.4.2.3}
-\contentsline {subsection}{\numberline {4.3}Corrugations}{45}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Wavelength of corrugations}{45}{subsubsection.4.3.1}
-\contentsline {subsection}{\numberline {4.4}Influence of healing}{45}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Comparing model results with nature observation}{45}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Parallel computing efficiency}{45}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}Model Limitation}{45}{subsection.4.7}
-\contentsline {subsubsection}{\numberline {4.7.1}Fixed thermal structure effects and justification}{45}{subsubsection.4.7.1}
-\contentsline {subsection}{\numberline {4.8}Reccommendation for Future Research}{46}{subsection.4.8}
-\contentsline {section}{\numberline {5}Conclusions}{47}{section.5}
+\contentsline {subsection}{\numberline {3.1}Reference models}{12}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}M varies along the ridge-axis (M28LinT1 Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}})}{12}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Constant M along the ridge-axis }{16}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Tables of all the data points}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Variation of the functional form}{18}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Comparing M28 in terms of linear, sinusoidal and square root}{18}{subsubsection.3.3.1}
+\contentsline {paragraph}{Secondary Fault}{19}{section*.16}
+\contentsline {paragraph}{Cut back}{20}{figure.caption.20}
+\contentsline {subsection}{\numberline {3.4}Influence of weakening rate}{20}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}M57SinT1 versus M57SinT2}{21}{subsubsection.3.4.1}
+\contentsline {paragraph}{M57SinT1}{23}{section*.23}
+\contentsline {paragraph}{M57SinT2}{23}{section*.25}
+\contentsline {subsubsection}{\numberline {3.4.2}M58SinT1 versus M58SinT2}{24}{subsubsection.3.4.2}
+\contentsline {paragraph}{M58SinT1}{24}{section*.27}
+\contentsline {paragraph}{M58SinT2}{25}{section*.29}
+\contentsline {subsubsection}{\numberline {3.4.3}M58SqrtT1 versus M58SqrtT2}{26}{subsubsection.3.4.3}
+\contentsline {paragraph}{M58SqrtT1}{26}{section*.30}
+\contentsline {paragraph}{M58SqrtT2}{28}{figure.caption.33}
+\contentsline {subsection}{\numberline {3.5}Variation of the range of M}{28}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}M28SinT1 versus M57SinT1 versus M58SinT1}{29}{subsubsection.3.5.1}
+\contentsline {paragraph}{M57SinT1 versus M58SinT1}{29}{section*.34}
+\contentsline {paragraph}{M28SinT1}{30}{figure.caption.36}
+\contentsline {subsubsection}{\numberline {3.5.2}M57SinT2 versus M58SinT2}{30}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}M28LinT1 versus M57LinT1}{30}{subsubsection.3.5.3}
+\contentsline {paragraph}{M57LinT1}{30}{figure.caption.38}
+\contentsline {subsubsection}{\numberline {3.5.4}M28SqrtT1 versus M58SqrtT1}{32}{subsubsection.3.5.4}
+\contentsline {subsubsection}{\numberline {3.5.5}M57SqrtT2 versus M58SqrtT2}{32}{subsubsection.3.5.5}
+\contentsline {paragraph}{M57SqrtT2}{32}{figure.caption.40}
+\contentsline {subsection}{\numberline {3.6}Summary of Results}{33}{subsection.3.6}
+\contentsline {section}{\numberline {4}Discussion}{36}{section.4}
+\contentsline {subsection}{\numberline {4.1}Discussion on Reference models}{37}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Location of termination (M28LinT1)}{37}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Shear low (M28LinT1)}{38}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Cut Back}{39}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Faulting Patterns Evolution}{44}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Trade-off between bending and weakening}{44}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Alternating on conjugate plate}{46}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Secondary near-axis normal fault}{46}{subsubsection.4.3.3}
+\contentsline {subsection}{\numberline {4.4}Corrugations}{46}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Wavelength of corrugations}{47}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.5}Influence of healing}{47}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Comparing model results with nature observation}{47}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Parallel computing efficiency}{47}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Model Limitation}{47}{subsection.4.8}
+\contentsline {subsubsection}{\numberline {4.8.1}Fixed thermal structure effects and justification}{47}{subsubsection.4.8.1}
+\contentsline {subsection}{\numberline {4.9}Reccommendation for Future Research}{47}{subsection.4.9}
+\contentsline {section}{\numberline {5}Conclusions}{48}{section.5}

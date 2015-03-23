@@ -444,6 +444,8 @@ For description of M58SqrtT1 evolution with respect to time, please refer to Par
 
 For description of M58SqrtT2 evolution with respect to time, please refer to Paragraph~\hyperref[para_M58SqrtT2]{\ref{para_M58SqrtT2}} and Figure~\hyperref[fig_Results_Weakenging_8]{\ref{fig_Results_Weakenging_8}}.
 
+The major difference between M57SqrtT2 and M58SqrtT2 is that M57SqrtT2 keeps faulting at the same side of the ridge-axis while M58SqrtT2 alternates.
+
 \paragraph{M57SqrtT2}
 
 \begin{figure}[h]
@@ -453,8 +455,6 @@ For description of M58SqrtT2 evolution with respect to time, please refer to Par
 \label{fig_Results_MRange_3}
 \end{figure}
 
-As shown in Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}}
-
-The major difference between M57SqrtT2 and M58SqrtT2 is that M57SqrtT2 keeps faulting at the same side of the ridge-axis while M58SqrtT2 alternates.
+For M57SqrtT2, there are totally six small scale cut back happen at 282.5kyr, 290kyr, 365kyr, 452.5kyr, 482.5kyr and 540kyr respectively (the model stops at 540kyr). As shown in Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}}, the fault keeps on the left hand side of the ridge-axis. At 200kyr (Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}.b}), a new near ridge-axis high angle normal fault begin to evolve and take the place of the initial one. As the fault evolve, a transient stage of discontinuous abyssal hill is produced at the low Z side as seen at 225kyr (Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}.c}). The fault propagate toward high Z side and cut through the plate at $\sim$245kyr (Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}.d}) when sawtooth shape topography at the low Z side (2nd row) is created by sawtooth shape $\sigma_{xx}$ (6th row) and $\sigma_{zz}$ (7th row). Between 365kyr (Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}.e}) and 367.5kyr (Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}.f}), there is a cut back. At 490kyr (Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}.g}), there is new near ridge-axis antithetic fault on the hanging wall which terminates the old fault and develops into a vertical near ridge-axis tensile failure as seen at 540kyr (Figure~\hyperref[fig_Results_MRange_3]{\ref{fig_Results_MRange_3}.h}).
 
 \subsection{Summary of Findings}

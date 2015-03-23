@@ -26,7 +26,7 @@ For 3D diking processs, the expanding strain $\Delta\varepsilon_{xx}$ results fr
 \end{figure}
 
 \subsection{Model Setup}
-\add[XT]{Add a table for parameters in use.}
+
 The 3D models has a geometry of ($60km \times 20km \times 20km$) in X, Y and Z axes respectively with a resolution of dx$=1km$ (dx is the length scale for each hexahedron element). For pseudo-2D models, they have a geometry of ($60km \times 20km \times 1km$) in X, Y and Z axes respectively with a resolution of dx$=0.5km$. As shown in Figure~\ref{fig_Methods8_1}, temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at the depth of 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. Two sides perpendicular to the $z$ coordinate axis are free-slip. The top surface has a vertical traction from water column, of which height is locally determined as 4000-h(x,z) m, where h(x,z) is the topography at a location, (x,z). The bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of dry diabase\citep[e.g.,][]{Kirby1987, Buck2005}. 
 
 \begin{figure}[H]
@@ -41,7 +41,7 @@ The 3D models has a geometry of ($60km \times 20km \times 20km$) in X, Y and Z a
 \begin{table}[h]
  \centering
  \small
-  \begin{longtable}[h]{l l p{6.8cm} l l}
+  \begin{tabular}[h]{l l p{6.8cm} l l}
 \hline
 \hline
 Number & Variable & Description & Value & Units \\ 
@@ -120,7 +120,7 @@ Number & Variable & Description & Value & Units \\
 
 \hline
 \hline
-\end{longtable}
+\end{tabular}
 
 \caption{Summary of 3D Model Parameters}
 \label{Tab_ModelParameters}
