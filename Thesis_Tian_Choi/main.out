@@ -1,6 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Research Questions}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Review of Literature}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Statement of Research Purpose}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Findings}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{Methods}{}% 6
+\BOOKMARK [2][-]{subsection.2.1}{Method of approach}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Model Setup}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.3}{Parameters to control}{section.2}% 9
 \BOOKMARK [1][-]{section.3}{3D Results}{}% 10
 \BOOKMARK [2][-]{subsection.3.1}{Reference models}{section.3}% 11
-\BOOKMARK [3][-]{subsubsection.3.1.1}{M varies along the ridge-axis \(M28LinT1 Table [Tab11]1\)}{subsection.3.1}% 12
+\BOOKMARK [3][-]{subsubsection.3.1.1}{M varies along the ridge-axis \(M28LinT1 Table [Tab11]2\)}{subsection.3.1}% 12
 \BOOKMARK [3][-]{subsubsection.3.1.2}{Constant M along the ridge-axis }{subsection.3.1}% 13
 \BOOKMARK [2][-]{subsection.3.2}{Tables of all the data points}{section.3}% 14
 \BOOKMARK [2][-]{subsection.3.3}{Variation of the functional form}{section.3}% 15
@@ -30,3 +39,4 @@
 \BOOKMARK [2][-]{subsection.4.7}{Model Limitation}{section.4}% 39
 \BOOKMARK [3][-]{subsubsection.4.7.1}{Fixed thermal structure effects and justification}{subsection.4.7}% 40
 \BOOKMARK [2][-]{subsection.4.8}{Reccommendation for Future Research}{section.4}% 41
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 42

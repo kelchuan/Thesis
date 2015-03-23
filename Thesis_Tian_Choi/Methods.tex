@@ -26,7 +26,7 @@ For 3D diking processs, the expanding strain $\Delta\varepsilon_{xx}$ results fr
 \end{figure}
 
 \subsection{Model Setup}
-\add[XT]{Add a table for parameters in use.}
+
 The 3D models has a geometry of ($60km \times 20km \times 20km$) in X, Y and Z axes respectively with a resolution of dx$=1km$ (dx is the length scale for each hexahedron element). For pseudo-2D models, they have a geometry of ($60km \times 20km \times 1km$) in X, Y and Z axes respectively with a resolution of dx$=0.5km$. As shown in Figure~\ref{fig_Methods8_1}, temperature linearly increases from 0 \degree C at the top surface to 240 \degree C at the depth of 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. Two sides perpendicular to the $z$ coordinate axis are free-slip. The top surface has a vertical traction from water column, of which height is locally determined as 4000-h(x,z) m, where h(x,z) is the topography at a location, (x,z). The bottom surface is supported by the Winkler foundation. Temperature is fixed at 0\degree C on the top surface and at 1300\degree C on the bottom surface. We will adopt the power-law rheology of dry diabase\citep[e.g.,][]{Kirby1987, Buck2005}. 
 
 \begin{figure}[H]
@@ -37,6 +37,94 @@ The 3D models has a geometry of ($60km \times 20km \times 20km$) in X, Y and Z a
  \label{fig_Methods8_1}
 \end{figure}
 
+
+\begin{table}[h]
+ \centering
+ \small
+  \begin{tabular}[h]{l l p{6.8cm} l l}
+\hline
+\hline
+Number & Variable & Description & Value & Units \\ 
+\hline
+1    &  $W_{dike}$    &   Dike width        & 2   &  $km$\\
+\hline
+2    &  $D_{dike}$    &   Dike depth        & 8   &  $km$\\
+\hline
+3    &  $H$    &   Crustal thickness at dike   & 6   &  $km$ \\
+\hline
+4    &  $dT/dy$    &   Crustal thermal gradient        & 40   &  $K/km$ \\
+\hline
+5    &  $T_{1}$    &   Temperature at lower boundary of crust    & 240   &  $\degree C$ \\
+\hline
+6    &  $g$    &   Gravity acceleration    & 10   &  $m/s^{2}$ \\
+\hline
+7    &  $demf$    &   Dimensionless force damping factor   & 0.8   &  N/A  \\
+\hline
+8    &  $dt$    &   Time step    & 1.5768e+07   &  $second$  \\
+\hline
+9    &  $topo_kappa$    &   Parameter for topography smoothing    & 0   &  N/A   \\
+\hline
+10   &  $shadowDepth$    &   Ghost elements for parallel computing   & 2   &  N/A   \\
+\hline
+11   &  $meshI$    &   Mesh number in X direction   & 60   &  N/A   \\
+\hline
+12   &  $meshJ$    &   Mesh number in Y direction      & 20   & N/A  \\
+\hline
+13   &  $meshK$    &   Mesh number in Z direction      & 20   & N/A  \\
+\hline
+14   &  $L_{I}$    &   Length in X direction      & 20   & $km$  \\
+\hline
+15   &  $L_{J}$    &   Length in Y direction      & 20   & $km$  \\
+\hline
+16   &  $L_{K}$    &   Length in Z direction      & 20   & $km$  \\
+\hline
+17   &  $\rho$    &    Density      & 3000   & $kg/m^{3}$  \\
+\hline
+18   &  $\lambda$    &    Lam$\acute{e}$'s constant      & 30   & $Gpa$  \\
+\hline
+19   &  $\mu$    &    Shear modulus      & 30   & $Gpa$  \\
+\hline
+20   &  $refvisc$    &    Reference viscosity      & 0.125e-17   & $Pa^{-n}/s$  \\
+\hline
+21   &  $activationE$    &    Activation Energy      & 276.0e+3   & $kJ/mol$  \\
+\hline
+22   &  $vis_{min}$    &    viscosity minimum cutoff      & 1.0e+18   & $Pa*s$  \\
+\hline
+23   &  $vis_{max}$    &    viscosity maximum cutoff      & 1.0e+27   & $Pa*s$  \\
+\hline
+24   &  $srexponent$    &    Power of power law in viscosity       & 3.05   & N/A  \\
+\hline
+25   &  $\varepsilon_{p_{i}}^{1}$    &    initial plastic strain for piecewise Type one weakening       & $0$   & N/A  \\
+\hline
+26   &  $\varepsilon_{p_{i}}^{2}$    &    initial plastic strain for piecewise Type two weakening       & $0$   & N/A  \\
+\hline
+27   &  $\varepsilon_{p_{e}}^{1}$    &    end plastic strain for piecewise Type one weakening       & $0.1$   & N/A  \\
+\hline
+28   &  $\varepsilon_{p_{e}}^{2}$    &    end plastic strain for piecewise Type two weakening       & $0.33$   & N/A  \\
+\hline
+29   &  $C_{i}$    &    initial Cohesion for piecewise weakening       & 44   & $Mpa$  \\
+\hline
+30   &  $C_{e}$    &    end Cohesion for piecewise weakening       & 4   & $Mpa$  \\
+\hline
+31   &  $\phi$    &    Friction angle      & 30   & $\degree$  \\
+\hline
+32   &  $remesh_{timestep}$    &    Remesh when timestep reach its value      & 400000   & N/A  \\
+\hline
+33   &  $remesh_{length}$    &    Remesh when ratio between current global minimum of the ratio of a tetrahedron’s volume to one of its surface area to its initial value      & 0.6   & N/A  \\
+\hline
+34   &  $top_{Temp}$    &    Surface temperature      & 0   & $\degree C$  \\
+\hline
+35   &  $bottom_{Temp}$    &    Bottom temperature      & 1300   & $\degree C$  \\
+\hline
+36   &  $V_{x}$    &    Half spreading rate      & 7.9e-10   & $m/s$  \\
+
+\hline
+\hline
+\end{tabular}
+
+\caption{Summary of 3D Model Parameters}
+\label{Tab_ModelParameters}
+\end{table}
 
 \subsection{Parameters to control}
 Although how to estimate the M values from observations has not been well established, we do have constraints from a large dataset of bathymetry, gravity and seismic surveys as well as geological drilling. Generally, at slow spreading ridges, magma supplies mostly at the center of the ridge segment and decreases towards the end of the segment \citep{Tolstoy1993,Chen1999}. There is also evidence for shorter wavelength of 10 to 20 km discrete focus of magma accretion along the ridge axis \citep{Lin1990}. 

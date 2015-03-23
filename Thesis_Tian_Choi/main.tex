@@ -22,6 +22,9 @@
 \usepackage{setspace}
 \doublespacing                 % RQ 3.4
 \renewcommand{\contentsname}{\textit{\small{Table of Contents}}}  % Change from Contents to Table of Contents
+\renewcommand{\listfigurename}{\textit{\small{List of Figures}}}
+\renewcommand{\listtablename}{\textit{\small{List of Tables}}}
+
 \usepackage{hyperref}    % For hyperlinks to contents
 %Ref: http://en.wikibooks.org/wiki/LaTeX/Hyperlinks
 \hypersetup{
@@ -49,6 +52,7 @@
 
 \usepackage{diagbox} % for table cell with a diagonal line and 2 sub cells
 
+\usepackage{longtable} % for longer than page table
 %%------------------------------------------------ 
 % For trackchanges.sty  (For co-revision)
 % Change the editor name as you like         
@@ -72,11 +76,11 @@
 
 % Uncomment the following line will process the whole Thesis files.
 
-%\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, Introduction, Methods, Results, Discussion, Conclusions}
+\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, List_of_Tables, List_of_Figures, Introduction, Methods, Results, Discussion, Conclusions}
 
 % Comment the previous line and type below the chapter name you are frequently making changes for faster processing.
 
-\includeonly{Results, Discussion}
+%\includeonly{Methods, Results, Discussion}
 
 %%-----------------------------------------------------
 %% Thesis Begin
@@ -96,8 +100,8 @@
 %\include{Preface} % optional
 \include{Abstract}
 \include{Table_of_Contents}
-%\include{List_of_Tables} % for 5 or more  
-%\include{List_of_Figures} % for 5 or more (<>Needs to be added)
+\include{List_of_Tables} % for 5 or more  
+\include{List_of_Figures} % for 5 or more (<>Needs to be added)
 %\include{Key_to_Symbols_or_Abbreviations} % optional
 
 %%--------------------------------------------------
