@@ -48,12 +48,13 @@
 \contentsline {subsubsection}{\numberline {4.3.1}Trade-off between bending and weakening}{43}{subsubsection.4.3.1}
 \contentsline {subsubsection}{\numberline {4.3.2}Alternating on conjugate plate}{45}{subsubsection.4.3.2}
 \contentsline {subsubsection}{\numberline {4.3.3}Secondary near-axis normal fault}{45}{subsubsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.4}Effect of along ridge-axis coupling}{46}{subsubsection.4.3.4}
 \contentsline {subsection}{\numberline {4.4}Corrugations}{46}{subsection.4.4}
 \contentsline {subsubsection}{\numberline {4.4.1}Wavelength of corrugations}{46}{subsubsection.4.4.1}
 \contentsline {subsection}{\numberline {4.5}Influence of healing}{46}{subsection.4.5}
 \contentsline {subsection}{\numberline {4.6}Comparing model results with nature observation}{46}{subsection.4.6}
 \contentsline {subsubsection}{\numberline {4.6.1}Cut back at 13$\ensuremath {^\circ }$N Mid-Atlantic Ridge (M28SqrtT1)}{46}{subsubsection.4.6.1}
-\contentsline {subsubsection}{\numberline {4.6.2}Double dome at 23$\ensuremath {^\circ }$N Mid-Atlantic Ridge (Kane Megamullions) (Several models)}{47}{subsubsection.4.6.2}
+\contentsline {subsubsection}{\numberline {4.6.2}Double dome at 23$\ensuremath {^\circ }$N Mid-Atlantic Ridge (Kane Megamullions) (Several models)}{48}{subsubsection.4.6.2}
 \contentsline {subsubsection}{\numberline {4.6.3}Atlantis Massif Shape at 30$\ensuremath {^\circ }$N Mid-Atlantic Ridge ()}{48}{subsubsection.4.6.3}
 \contentsline {subsubsection}{\numberline {4.6.4}Shear low}{48}{subsubsection.4.6.4}
 \contentsline {subsubsection}{\numberline {4.6.5}Corrugations}{48}{subsubsection.4.6.5}

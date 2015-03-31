@@ -1,4 +1,4 @@
-\begin{thebibliography}{14}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -68,6 +68,15 @@ J.~Lin, G.~M. Purdy, H.~Schouten, J.-C. Sempere, and C.~Zervas.
 \newblock \emph{Nature}, 344:\penalty0 627--632, 1990.
 \newblock ISSN 0028-0836.
 \newblock \doi{10.1038/344627a0}.
+
+\bibitem[Olive et~al.(2010)Olive, Behn, and Tucholke]{Olive2010}
+J.-A. Olive, M.~D. Behn, and B.~E. Tucholke.
+\newblock The structure of oceanic core complexes controlled by the depth
+  distribution of magma emplacement.
+\newblock \emph{Nature Geoscience}, 3\penalty0 (7):\penalty0 491--495, June
+  2010.
+\newblock ISSN 1752-0894.
+\newblock \doi{10.1038/ngeo888}.
 
 \bibitem[Ryan et~al.(2009)Ryan, Carbotte, Coplan, O'Hara, Melkonian, Arko,
   Weissel, Ferrini, Goodwillie, Nitsche, Bonczkowski, and Zemsky]{Ryan2009}
