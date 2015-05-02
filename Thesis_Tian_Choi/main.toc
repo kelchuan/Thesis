@@ -3,35 +3,35 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}Research Questions}{1}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Review of Literature}{1}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Statement of Research Purpose}{5}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Findings}{6}{subsection.1.4}
-\contentsline {section}{\numberline {2}Methods}{7}{section.2}
-\contentsline {subsection}{\numberline {2.1}Method of approach}{7}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Model Setup}{9}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Parameters to control}{9}{subsection.2.3}
-\contentsline {section}{\numberline {3}Results}{11}{section.3}
-\contentsline {subsection}{\numberline {3.1}3D model results}{11}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Reference model description}{12}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}M varies along the ridge axis}{12}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Constant M along the ridge axis }{18}{subsubsection.3.2.2}
-\contentsline {subsection}{\numberline {3.3}Tables of all the data points}{19}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Variation of the functional form}{21}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}Comparing M28 in terms of linear, sinusoidal and square root}{21}{subsubsection.3.4.1}
-\contentsline {paragraph}{Secondary Fault}{22}{section*.18}
-\contentsline {paragraph}{Cut back behavior}{23}{figure.caption.22}
-\contentsline {subsection}{\numberline {3.5}Variation of the range of M}{24}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Influence of weakening rate}{25}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Fault Alternation}{25}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}Corrugation}{25}{subsection.3.8}
-\contentsline {subsection}{\numberline {3.9}Summary of Findings}{25}{subsection.3.9}
-\contentsline {section}{\numberline {4}Discussion}{26}{section.4}
-\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{26}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Fault alternation}{26}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Alternating on conjugate plate}{26}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Secondary near-axis normal fault}{26}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Influence of healing}{27}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Comparing model results with nature observation}{27}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Parallel computing efficiency}{27}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Model Limitation}{27}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}Reccommendation for Future Research}{27}{subsection.4.7}
-\contentsline {section}{\numberline {5}Conclusions}{28}{section.5}
+\contentsline {subsection}{\numberline {1.3}Statement of Research Purpose}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Findings}{7}{subsection.1.4}
+\contentsline {section}{\numberline {2}Methods}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Method of approach}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Model Setup}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Parameters to control}{11}{subsection.2.3}
+\contentsline {section}{\numberline {3}Results}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}3D model results}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}\change [EC]{Reference model description}{Description of the reference model}\note [EC]{Isn't this supposed to be a subsubsection since it's a part of the 3D model results?}}{14}{changenumber.14.2}
+\contentsline {subsubsection}{\numberline {3.2.1}M varies along the ridge axis\note [EC]{Need a more specific, relevant title}}{14}{changenumber.14.4}
+\contentsline {subsubsection}{\numberline {3.2.2}Constant M along the ridge axis }{20}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Tables of all the data points}{21}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Variation of the functional form}{23}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Comparing M28 in terms of linear, sinusoidal and square root}{23}{subsubsection.3.4.1}
+\contentsline {paragraph}{Secondary Fault}{24}{section*.18}
+\contentsline {paragraph}{Cut back behavior}{25}{figure.caption.22}
+\contentsline {subsection}{\numberline {3.5}Variation of the range of M}{26}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Influence of weakening rate}{27}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Fault Alternation}{27}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Corrugation}{27}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}Summary of Findings}{27}{subsection.3.9}
+\contentsline {section}{\numberline {4}Discussion}{28}{section.4}
+\contentsline {subsection}{\numberline {4.1}Discussion of Findings}{28}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Fault alternation}{28}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Alternating on conjugate plate}{28}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Secondary near-axis normal fault}{28}{subsubsection.4.2.2}
+\contentsline {subsection}{\numberline {4.3}Influence of healing}{29}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Comparing model results with nature observation}{29}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Parallel computing efficiency}{29}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Model Limitation}{29}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Reccommendation for Future Research}{29}{subsection.4.7}
+\contentsline {section}{\numberline {5}Conclusions}{30}{section.5}
