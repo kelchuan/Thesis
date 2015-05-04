@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  11 APR 2015 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  3 MAY 2015 10:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1035,11 +1035,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ] [13 <./Figures/fig_Results1_1.png>] [14]
 Package epstopdf Info: Source file: <./Figures/fig_Results1_3.eps>
-(epstopdf)                    date: 2015-03-03 23:01:16
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 253616 bytes
 (epstopdf)             Output file: <./Figures/fig_Results1_3-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2015-03-03 23:02:30
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 175453 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results1_3-e
 ps-converted-to.pdf ./Figures/fig_Results1_3.eps>
@@ -1059,11 +1059,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [16 <./Figures/fig_Results1_3-eps-converted-to.pdf>] [17]
 Package epstopdf Info: Source file: <./Figures/fig_Results3_1.eps>
-(epstopdf)                    date: 2015-03-11 21:49:18
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 10943 bytes
 (epstopdf)             Output file: <./Figures/fig_Results3_1-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2015-03-21 08:54:18
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 8867 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results3_1-e
 ps-converted-to.pdf ./Figures/fig_Results3_1.eps>
@@ -1079,11 +1079,11 @@ input line 106.
 (pdftex.def)             Requested size: 260.17465pt x 189.32483pt.
 Package epstopdf Info: Source file: <./Figures/fig_Results4_2_secondary_fault_l
 ength_comparison.eps>
-(epstopdf)                    date: 2015-03-12 11:37:44
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 57949 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_2_secondary_fault_l
 ength_comparison-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 11:45:39
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 42758 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_2_s
 econdary_fault_length_comparison-eps-converted-to.pdf ./Figures/fig_Results4_2_
@@ -1108,11 +1108,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [18 <./Figures/fig_Results3_1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results4_3_sqrt_vs_lin_cut_b
 ack_97kyr.eps>
-(epstopdf)                    date: 2015-03-12 11:43:50
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 1020664 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_3_sqrt_vs_lin_cut_b
 ack_97kyr-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 11:45:42
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 218581 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_3_s
 qrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf ./Figures/fig_Results4_3_sqrt_vs
@@ -1135,11 +1135,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package epstopdf Info: Source file: <./Figures/fig_Results4_3_sqrt_vs_lin_cut_b
 ack_100kyr.eps>
-(epstopdf)                    date: 2015-03-12 11:44:50
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 1705313 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_3_sqrt_vs_lin_cut_b
 ack_100kyr-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 11:45:45
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 273093 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_3_s
 qrt_vs_lin_cut_back_100kyr-eps-converted-to.pdf ./Figures/fig_Results4_3_sqrt_v
@@ -1163,11 +1163,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 o.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_2_M57SinT1
 VST2_CutbackVSsecondaryFault.eps>
-(epstopdf)                    date: 2015-03-21 09:52:50
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 384370 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_Weakening_2_M57SinT1
 VST2_CutbackVSsecondaryFault-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-21 09:57:06
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 375189 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_2_M57SinT1VST2_CutbackVSsecondaryFault-eps-converted-to.pdf ./Figures/fig
@@ -1192,11 +1192,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [20 <./Figures/fig_Results4_3_sqrt_vs_lin_cut_back_97kyr-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_3_M57SinT1
 _time_evolution.eps>
-(epstopdf)                    date: 2015-03-21 11:14:32
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 426895 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_Weakening_3_M57SinT1
 _time_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-21 11:14:40
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 524215 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_3_M57SinT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Weak
@@ -1222,11 +1222,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_4_M57SinT2
 _time_evolution.eps>
-(epstopdf)                    date: 2015-03-21 12:12:37
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 586004 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_Weakening_4_M57SinT2
 _time_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-21 12:14:05
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 707669 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_4_M57SinT2_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Weak
@@ -1250,11 +1250,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_5_M58SinT1
 _time_evolution.eps>
-(epstopdf)                    date: 2015-03-21 17:06:40
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 937242 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_Weakening_5_M58SinT1
 _time_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-21 17:06:48
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 1014068 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_5_M58SinT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Weak
@@ -1281,11 +1281,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 .pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_6_M58SinT2
 _time_evolution.eps>
-(epstopdf)                    date: 2015-03-21 15:58:42
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 447589 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_Weakening_6_M58SinT2
 _time_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-21 16:03:05
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 316869 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_6_M58SinT2_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Weak
@@ -1312,11 +1312,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 rted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_7_M58SqrtT
 1_time_evolution.eps>
-(epstopdf)                    date: 2015-03-21 22:42:11
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 956252 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_Weakening_7_M58SqrtT
 1_time_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-21 22:43:44
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 1591891 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_7_M58SqrtT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Wea
@@ -1340,11 +1340,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_8_M58SqrtT
 2_time_evolution.eps>
-(epstopdf)                    date: 2015-03-21 23:43:38
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 442591 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_Weakening_8_M58SqrtT
 2_time_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-21 23:45:11
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 312016 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_8_M58SqrtT2_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Wea
@@ -1372,11 +1372,11 @@ erted-to.pdf>] [28 <./Figures/fig_Results_Weakening_8_M58SqrtT2_time_evolution-
 eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_MRange_1_M28SinT1_ti
 me_evolution.eps>
-(epstopdf)                    date: 2015-03-22 10:28:44
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 509504 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_MRange_1_M28SinT1_ti
 me_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-22 10:31:02
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 369439 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_MRan
 ge_1_M28SinT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_MRange_
@@ -1398,11 +1398,11 @@ Package pdftex.def Info: ./Figures/fig_Results_MRange_1_M28SinT1_time_evolution
 df>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_MRange_2_M57LinT1_ti
 me_evolution.eps>
-(epstopdf)                    date: 2015-03-22 13:10:16
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 765870 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_MRange_2_M57LinT1_ti
 me_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-22 13:12:00
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 861137 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_MRan
 ge_2_M57LinT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_MRange_
@@ -1439,11 +1439,11 @@ e, please re-fer to Para-graph [][][][]3.4.3[][][][]
 
 Package epstopdf Info: Source file: <./Figures/fig_Results_MRange_3_M57SqrtT2_t
 ime_evolution.eps>
-(epstopdf)                    date: 2015-03-22 14:49:26
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 668280 bytes
 (epstopdf)             Output file: <./Figures/fig_Results_MRange_3_M57SqrtT2_t
 ime_evolution-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-22 14:50:45
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 736095 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_MRan
 ge_3_M57SqrtT2_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_MRange
@@ -1554,11 +1554,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
 ] [36]
 Package epstopdf Info: Source file: <./Figures/fig_Results1_2.eps>
-(epstopdf)                    date: 2015-03-12 11:27:40
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 116667 bytes
 (epstopdf)             Output file: <./Figures/fig_Results1_2-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2015-03-12 11:45:34
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 105189 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results1_2-e
 ps-converted-to.pdf ./Figures/fig_Results1_2.eps>
@@ -1573,11 +1573,11 @@ Package pdftex.def Info: ./Figures/fig_Results1_2-eps-converted-to.pdf used on
 input line 17.
 (pdftex.def)             Requested size: 260.17465pt x 193.93456pt.
 Package epstopdf Info: Source file: <./Figures/fig_Results1_4.eps>
-(epstopdf)                    date: 2015-03-12 11:32:05
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 872481 bytes
 (epstopdf)             Output file: <./Figures/fig_Results1_4-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2015-03-12 11:45:37
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 122636 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results1_4-e
 ps-converted-to.pdf ./Figures/fig_Results1_4.eps>
@@ -1598,11 +1598,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [37 <./Figures/fig_Results1_2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results4_4_sqrt_cut_back_wit
 h_time.eps>
-(epstopdf)                    date: 2015-03-12 12:51:26
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 3787454 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_4_sqrt_cut_back_wit
 h_time-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 12:51:34
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 529470 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_4_s
 qrt_cut_back_with_time-eps-converted-to.pdf ./Figures/fig_Results4_4_sqrt_cut_b
@@ -1625,11 +1625,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package epstopdf Info: Source file: <./Figures/fig_Results4_5_sqrt_cut_back_pre
 _accummulated_shear_zone.eps>
-(epstopdf)                    date: 2015-03-12 14:52:50
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 85993 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_5_sqrt_cut_back_pre
 _accummulated_shear_zone-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 14:52:56
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 63675 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_5_s
 qrt_cut_back_pre_accummulated_shear_zone-eps-converted-to.pdf ./Figures/fig_Res
@@ -1655,11 +1655,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 4_4_sqrt_cut_back_with_time-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results4_8_sqrt_cut_back_ben
 ding_cartoon.eps>
-(epstopdf)                    date: 2015-03-12 20:48:54
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 29597 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_8_sqrt_cut_back_ben
 ding_cartoon-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 20:49:05
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 13945 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_8_s
 qrt_cut_back_bending_cartoon-eps-converted-to.pdf ./Figures/fig_Results4_8_sqrt
@@ -1679,11 +1679,11 @@ Package pdftex.def Info: ./Figures/fig_Results4_8_sqrt_cut_back_bending_cartoon
 (pdftex.def)             Requested size: 260.17465pt x 147.01727pt.
 Package epstopdf Info: Source file: <./Figures/fig_Results4_6_sqrt_cut_back_ben
 ding_drop.eps>
-(epstopdf)                    date: 2015-03-12 21:10:57
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 98186 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_6_sqrt_cut_back_ben
 ding_drop-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 21:12:33
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 82048 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_6_s
 qrt_cut_back_bending_drop-eps-converted-to.pdf ./Figures/fig_Results4_6_sqrt_cu
@@ -1710,11 +1710,11 @@ erted-to.pdf>] [41 <./Figures/fig_Results4_6_sqrt_cut_back_bending_drop-eps-con
 verted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results4_9_sqrt_cut_back_new
 _fault_chase.eps>
-(epstopdf)                    date: 2015-03-12 23:32:38
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 535677 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_9_sqrt_cut_back_new
 _fault_chase-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 23:34:11
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 749482 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_9_s
 qrt_cut_back_new_fault_chase-eps-converted-to.pdf ./Figures/fig_Results4_9_sqrt
@@ -1736,11 +1736,11 @@ Package pdftex.def Info: ./Figures/fig_Results4_9_sqrt_cut_back_new_fault_chase
 df>]
 Package epstopdf Info: Source file: <./Figures/fig_Results4_7_sqrt_cut_back_con
 jugate_Sxx.eps>
-(epstopdf)                    date: 2015-03-12 19:51:43
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 68396 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_7_sqrt_cut_back_con
 jugate_Sxx-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-12 19:55:10
+(epstopdf)                    date: 2015-05-02 12:26:09
 (epstopdf)                    size: 49846 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_7_s
 qrt_cut_back_conjugate_Sxx-eps-converted-to.pdf ./Figures/fig_Results4_7_sqrt_c
@@ -1790,11 +1790,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 Package epstopdf Info: Source file: <./Figures/fig_Discussion_Observation_1_13N
 _MAR_CutBack.eps>
-(epstopdf)                    date: 2015-03-23 10:27:32
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 1353748 bytes
 (epstopdf)             Output file: <./Figures/fig_Discussion_Observation_1_13N
 _MAR_CutBack-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-23 10:29:35
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 224646 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Discussion_O
 bservation_1_13N_MAR_CutBack-eps-converted-to.pdf ./Figures/fig_Discussion_Obse
@@ -1835,11 +1835,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 Package epstopdf Info: Source file: <./Figures/fig_Discussion_Observation_1_13N
 _MAR_CutBack.eps>
-(epstopdf)                    date: 2015-03-23 10:27:32
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 1353748 bytes
 (epstopdf)             Output file: <./Figures/fig_Discussion_Observation_1_13N
 _MAR_CutBack-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-23 10:29:35
+(epstopdf)                    date: 2015-05-02 12:26:08
 (epstopdf)                    size: 224646 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Discussion_O
 bservation_1_13N_MAR_CutBack-eps-converted-to.pdf ./Figures/fig_Discussion_Obse
@@ -1927,7 +1927,7 @@ f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fon
 ts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (65 pages, 18440239 bytes).
+Output written on main.pdf (65 pages, 18440357 bytes).
 PDF statistics:
  1894 PDF objects out of 2073 (max. 8388607)
  1425 compressed objects within 15 object streams
