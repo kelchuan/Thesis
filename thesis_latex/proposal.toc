@@ -1,6 +1,0 @@
-\contentsline {section}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {2}Proposed Work}{5}
-\contentsline {subsection}{\numberline {2.1}Method of Approach}{5}
-\contentsline {subsection}{\numberline {2.2}Model Setup}{6}
-\contentsline {subsection}{\numberline {2.3}Parameters to Control}{7}
-\contentsline {section}{\numberline {3}Work Plan}{8}
