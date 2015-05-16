@@ -1,0 +1,43 @@
+* Introduction
+** Research Questions
+** Review of Literature
+** Statement of Research Purpose
+** Findings
+* Methods
+** Method of approach
+** Model Setup
+** Parameters to control
+** Table of run models
+* Results (Direct observation without much logical reasoning, more objective)
+** Reference model
+*** Constant M88
+** Main characteristics of the models (order from most frequently happen behavior)
+*** Second Fault
+*** Cut-Back
+*** Corrugation
+**** Corrugation due to anastomosing
+**** Corrugation due to asynchronous in faulting
+
+*** Location of termination (M28LinT1)
+*** geometry of trough(find a term for it or define myself) (M28LinT1)
+
+*** Fault Alternation (? better name of it (ask brian, trevor))
+**** Trade-off between bending and weakening
+**** Alternating on conjugate plate
+**** Effect of along ridge-axis couplin
+** Influence of weakening rate
+** Variation of the functional form
+** Variation of the range of M
+* Discussion (Can include many logical reasoning and discussion on the results with including other people work and your reasoning)
+** Summary of Results
+
+** Comparing model results with nature observation
+*** Cut-back
+*** Corrugations
+** Influence of healing
+** Model Limitation
+** Recommendation for Future Research
+* Conclusion (an abstract of the Abstract)(Basically, I did this, I found that.)
+Only describe the finding. dif to abstract that abs is about the whole work with motivation ....
+
+I did this, I found that.

@@ -16,9 +16,12 @@
 
 \documentclass[12pt]{article}  % RQ 3.1
 
-\usepackage{times}             % RQ 3.1 (this is not exactly times new roman but very similar)
-\usepackage[top=1.0in, right=1.0in, bottom=1.0in, left=1.5in]{geometry} % RQ 3.2
-% <> RQ 3.2 0.5inches for page numbers postistion haven't been added
+\usepackage{times}             % RQ 3.1 (this is not exactly times new roman but 99% same and cannot be distinguished with eyes)
+%\usepackage{fontspec}
+%\setmainfont{Times New Roman} % RQ 3.1  ref: http://tex.stackexchange.com/questions/67768/times-new-roman-font
+
+\usepackage[top=1.0in, right=1.0in, bottom=1.0in, left=1.5in, footskip=0.5in]{geometry} % RQ 3.2
+% footskip=0.5in is for RQ 3.2 0.5inches for page numbers postistion 
 \usepackage{setspace}
 \doublespacing                 % RQ 3.4
 \renewcommand{\contentsname}{\textit{\small{Table of Contents}}}  % Change from Contents to Table of Contents
@@ -57,6 +60,16 @@
 \usepackage{diagbox} % for table cell with a diagonal line and 2 sub cells
 
 \usepackage{longtable} % for longer than page table
+
+\usepackage{CJK} %for Chinese input
+
+\usepackage{ragged2e} % for RQ 3.3 ragged right without removing the paragraph indentation
+\setlength{\RaggedRightParindent}{\parindent} % for RQ 3.3 ragged right without removing the paragraph indentation
+
+\usepackage[nottoc,notlot,notlof]{tocbibind} % RQ 3.5.1
+%for Bibliography to appear in table of contents without numbering
+%ref http://tex.stackexchange.com/questions/71129/bibliography-in-table-of-contents
+
 %%------------------------------------------------ 
 % For trackchanges.sty  (For co-revision)
 % Change the editor name as you like         
@@ -80,17 +93,20 @@
 
 % Uncomment the following line will process the whole Thesis files.
 
-\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Table_of_Contents, List_of_Tables, List_of_Figures, Introduction, Methods, Results, Discussion, Conclusions}
+\includeonly{Title_Page, Copyright_Notice, Dedication, Acknowledgements, Abstract, Quotes, Table_of_Contents, List_of_Tables, List_of_Figures, Introduction, Methods, Results, Discussion, Conclusions}
 
 % Comment the previous line and type below the chapter name you are frequently making changes for faster processing.
 
-%\includeonly{Results, Discussion}
+%\includeonly{Quotes}
 
 %%-----------------------------------------------------
 %% Thesis Begin
 %%-----------------------------------------------------
 
 \begin{document}
+%\raggedright % for RQ 3.3 right-hand margin must be right ragged
+\RaggedRight% for RQ 3.3 ragged right without removing the paragraph indentation
+%ref: http://tex.stackexchange.com/questions/185970/raggedright-removes-paragraph-indentation
 
 %%--------------------------------------------------
 % Preleminary Pages
@@ -102,6 +118,7 @@
 \include{Dedication} % optional
 \include{Acknowledgements} % optional
 %\include{Preface} % optional
+\include{Quotes}  % added by myself, quotes that have guide me through these two years
 \include{Abstract}
 \include{Table_of_Contents}
 \include{List_of_Tables} % for 5 or more  

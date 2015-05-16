@@ -5,6 +5,7 @@ A level-1 auxiliary file: Title_Page.aux
 A level-1 auxiliary file: Copyright_Notice.aux
 A level-1 auxiliary file: Dedication.aux
 A level-1 auxiliary file: Acknowledgements.aux
+A level-1 auxiliary file: Quotes.aux
 A level-1 auxiliary file: Abstract.aux
 A level-1 auxiliary file: Table_of_Contents.aux
 A level-1 auxiliary file: List_of_Tables.aux
@@ -16,13 +17,9 @@ A level-1 auxiliary file: Discussion.aux
 A level-1 auxiliary file: Conclusions.aux
 The style file: abbrvnat.bst
 Database file #1: References.bib.bib
-Repeated entry---line 163 of file References.bib.bib
- : @article{Ryan2009
- :                  ,
-I'm skipping whatever remains of this entry
 You've used 15 entries,
             2773 wiz_defined-function locations,
-            742 strings with 8279 characters,
+            743 strings with 8286 characters,
 and the built_in function-call counts, 8776 in all, are:
 = -- 772
 > -- 673
@@ -61,4 +58,3 @@ warning$ -- 0
 while$ -- 66
 width$ -- 0
 write$ -- 239
-(There was 1 error message)

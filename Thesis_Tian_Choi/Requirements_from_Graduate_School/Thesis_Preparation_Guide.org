@@ -1,0 +1,93 @@
+from: http://www.memphis.edu/gradschool/tdinfo_electronic.php#review
+(x) means no need to consider, already good after read it, (N/A) means not relevant
+* 1. INTRODUCTION (x)
+This preparation guide specifies Graduate School requirements pertaining to style, organization, and formatting for electronic theses and dissertations. Students should become familiar with this guide at the time they begin the first draft of their thesis or dissertation.
+
+Students are encouraged to use publications within their discipline (i.e., refereed journals) for help with formatting author reference citations, setting up bibliographic form and content, tables and figures, the use of numbers and mathematical equations, etc. In addition, academic departments may have additional formatting requirements or may specify requirements.
+
+*Requirements set forth in this guide take precedence over certain requirements in style manuals or refereed journals.*
+
+* 2. POLICIES (double check 2.5.1)
+** 2.1 Continuous Enrollment (x)
+The continuous enrollment policy applies to all students writing a master's thesis or a doctoral dissertation. Students must be enrolled in thesis or dissertation credit for each Fall and Spring semester until the document is complete. Once students have enrolled in the maximum number of hours allowed, they may continue to enroll in one additional hour. Students planning to defend during the summer semester must also be enrolled in thesis or dissertation credit. Failure to register will result in the student being charged tuition for each semester he/she did not enroll, along with applicable late registration fees.
+
+The only exception to this policy is if the student's major professor is on leave or otherwise unavailable. In such cases, the approval of the appropriate college director of graduate studies and the Dean of the Graduate School is required. In case of serious medical circumstances, students may request a leave of absence, subject to the approval of the program graduate studies coordinator, the college director of graduate studies, and the Dean of the Graduate School. Retroactive approval will not be granted. A leave of absence does not extend the time limitations for a degree program.
+** 2.2 Thesis/Dissertation Faculty Committees (x)
+Before undertaking any work on your document, a faculty committee must be formed, and the Graduate School must be notified of said committee (minimum of three members for a master's thesis committee; minimum of four members for a doctoral dissertation committee). It is the student's responsibility to ensure that all committee members are current members of the graduate faculty.  Students should not defend their final document until all faculty members, whether on campus or outside the university, have been granted graduate faculty status. (Click here for a current listing of all graduate faculty members). 
+The University of Memphis maintains six levels of graduate faculty: full, associate, affiliate, adjunct, research co-mentor, and teaching adjunct. Only full graduate faculty members may chair doctoral committees. Full or associate graduate faculty may chair master's committees. Associate members may direct theses in an academic unit other than their own at the discretion of the graduate coordinator and/or the chair of that unit. If the chair of a student's committee leaves the University of Memphis, that person can no longer serve as chair and must be replaced by another graduate faculty member.
+
+Affiliate or adjunct graduate faculty may be members of doctoral and master's committees in their areas of expertise, but may not serve as chair. Faculty members employed outside the University of Memphis must apply for Adjunct Graduate Faculty Status.
+
+No more than one adjunct or affiliate graduate faculty member may serve as a voting member of a student's committee. If a student has two adjuncts or an adjunct and an affiliate member on their committee, both members can participate in the final defense meeting, but only one of the two can sign the final thesis or dissertation approval page.
+Teaching adjuncts members may not serve on committees.
+** 2.3 Institutional Review Board (N/A)
+*** 2.3.1 Human Subjects (x)
+All University of Memphis faculty, staff, or students who propose to engage in any research activity involving the use of human subjects must have prior approval from the Institutional Review Board (IRB). The IRB is responsible for safeguarding rights and welfare of all persons participating in research projects, whether funded or non-funded.
+
+Human subjects means a living individual about whom an investigator (whether a professional in the field or a student) conducting research obtains (1) data through intervention or interaction with the individual or (2) identifiable private information. Research means a systematic investigation, including research development, testing, and evaluation, designed to develop or contribute to generalized knowledge.
+Students who fail to comply with University policy may jeopardize the awarding of the degree they seek.
+
+The appropriate IRB or IACUC approval form must accompany an approved Thesis/Dissertation Proposal form. In addition, a copy of the IRB or IACUC approval form and examples of informed consent forms must be submitted with your thesis or dissertation. For further information, contact the IRB coordinator in the Office of Research Support Services at (901) 678-2533.
+*** 2.3.2 Vertebrate Animals (x)
+All uses of vertebrate animals must receive prior approval from the Institutional Animal Care and Use Committee (IACUC). 
+*** 2.3.4 Biohazards (x)
+Research involving recombinant DNA, radioisotopes, or other hazardous material must receive prior approval by the Institutional Biosafety Committee.
+** 2.4 Use of Copyright Materials (x)
+Excerpts to be reprinted from other sources, such as maps, figures, tables, or text, must meet the same paper and margin requirements for the thesis or dissertation. Students must obtain permission from the author or publisher of copyrighted materials used beyond the limits of the "Fair Use" doctrine. The general fair use practice states that quotations of a brief prose passage or several lines of verse do not require permission. However, fair use nowhere is spelled out exactly. Check the U.S.Copyright Office for further information. In any case, the student must quote accurately and credit the source. An explanation of copyright law and fair use, along with a guide to obtaining written permission from copyright owners, may be found in The Chicago Manual of Style, 16th ed. Chicago: The University of Chicago Press.
+
+For doctoral dissertations, University Microfilms International (ProQuest) requires the author to sign a certificate that use of copyrighted material beyond brief excerpts has the written permission of copyright owners and that the student is responsible for any copyright violations. A copy of all letters of permission for use of copyrighted materials must be submitted along with the microfilming/copyright agreement form (given to the student AFTER the defended, corrected copy has been reviewed by the Graduate School).
+
+Master's students may write to the Information Section, U.S. Copyright Office, Library of Congress, Washington, DC 20559 to request forms. Telephone: (202) 707-3000 or the forms may be downloaded and printed for use in registering or renewing a claim to copyright. The forms and the information may also be accessed and downloaded through the Copyright Office web site.
+** 2.5 Plagiarism (x)
+The term plagiarism includes, but is not limited to, the use, by paraphrase or direct quotation, of the published or unpublished work of another person without full or clear acknowledgment. It also includes the unacknowledged use of materials prepared by another person or agency engaged in the selling of term papers or other academic materials. Published or unpublished work might include art, graphics, computer programs, raw data, web sites, music and any other type of creative expression. The most obvious form of plagiarism is copying word-for-word without enclosing the copied work in quotation marks and without citing the original source in the text.  For University of Memphis's plagiarism policy, see this website: http://saweb.memphis.edu/judicialaffairs/
+*** TODO 2.5.1 Guidelines for Avoiding Plagiarism (double check to make sure) 
+Use Your Own Words and Ideas. 
+Give Credit for Copied, Adapted, or Paraphrased Material. If you repeat another's *exact words*, you *MUST use quotation marks* AND cite the source. If you adapt a chart or paraphrase a sentence, you must still cite the source. *Paraphrase* means that you restate the author's ideas, meaning, and information in your own words.
+*Avoid Using Others' Work with Minor Cosmetic Changes*. Examples: using "less" for "fewer", reversing the order of a sentence, changing terms in a computer code, or altering a spreadsheet layout. If the work is essentially the same, you must give credit.
+There Are No Freebies. ALWAYS cite words, information, and ideas you use if they are new to you (learned in your research). No matter where you find it--even in an encyclopedia or on the Internet -- you must cite it.
+*Beware of Common Knowledge. You don't have to cite "common knowledge," but the fact must be commonly known.*
+Source: Student Judicial Affairs, October 1999-2001. The University of California, Davis.
+*
+* 3. REFERENCE GUIDE FOR FORMATTING
+Under no circumstances should a previously submitted thesis or dissertation copy, whether electronic, library or departmental copies, be used to format your document because formatting requirements do change over time, and you could be copying someone's mistakes.
+** 3.1 Font Type and Size (x)
+Arial or Times New Roman (Including page numbers and footnote numbers) (x)
+12-point font size (x)
+** 3.2 Margins (x)
+1.0" top, right, and bottom
+1.5" left
+.5" page numbers
+** 3.3 Justification and Hyphenation (x)
+Align all text with the left-hand margin, except centered headings, paragraph indentations (at least 5 spaces required, although most styles require 10 spaces or .5" indentations for paragraphs), or block quotations (indent 5 spaces only, not 10). (x)
+Full justification of margins is *NOT* acceptable; the *right-hand margin must be jagged*. (x)
+Hyphenation at the right-hand margin is allowed as long as it does not cause difficulty in reading. (x)
+** TODO 3.4 Spacing (x)(might or might not work)
+Double space all text. Double space between all footnote entries. Double space between all bibliography or reference entriesDouble space between all paragraphs within centered/and or subheadings. (x)
+EXCEPTION: You may single space data in long tables, quotations more than 4 lines in length (block quotations), multi-line figure captions, and bibliography or reference entries. (x)
+Triple space before and after all tables and figures within the text. (not sure is triple before figures) 
+** 3.5 Page Numbers (x)
+All page numbers should stand alone without any form of punctuation and should be 1/2" from the bottom of a page. The last line of text must be 1" from the bottom. (x)
+Preliminary pages, such as the Copyright, Dedication, Acknowledgement, Abstract, Preface, Table of Contents, List of Tables, List of Figures, or List of Abbreviations, etc. must be numbered in small Roman numerals beginning with "ii" and must be centered on the page. (x)
+Pages in the body of text must be numbered using Arabic numerals and must be centered at the bottom of each page. (x)
+*** 3.5.1 PAGINATION AND SEQUENCING TABLE (x)
+** TODO 3.6 Subheadings (need extra double check) 
+Chapter and section heads should be consistent throughout the entire document.  (x)
+Preliminary page titles (i.e. Abstract, Table of Contents, etc.) should each be treated as chapter titles in terms of formatting. (?)
+Do not begin any subheading or other divisions on separate pages.(?)
+If a subheading falls at the end of a page without any accompanying text, move it to the top of the next page. (double check it)
+Do NOT include any extra lines between sections.
+** 3.7 Running Headers, Footnotes, and Endnotes (N/A) 
+Running headers and endnotes are NOT allowed.
+If footnotes are used, they must conform to margin requirements. They must also begin on the page they are cited.
+Footnotes must be in size 11 font (whereas all other text must be size 12).
+Indent the footnote number and first line footnote text .5", then flush each subsequent line with the left margin.
+Double space between each footnote entry.
+Footnotes are NOT to be numbered consecutively throughout the text. At the beginning of each new chapter, begin each footnote number with the Arabic number "1."
+** TODO 3.8 Widows and Orphans (need extra double check)
+A thesis or dissertation will *not be accepted* if it contains "*widows or orphans*." *Widow* lines occur when the last line of a paragraph appears alone at the top of a page. *Orphan* lines occur when the first line of a paragraph appears alone at the bottom of a page. Most word processing programs have an "Orphan and Widow Control" feature that will automatically manage this once it is activated.  Instances in which you might have to manually correct orphans and widows include:
+
+*A subheading at the bottom of a page must have two lines of text below it*. Otherwise, the subheading and text must begin at the top of the next page.
+*A new paragraph at the bottom of a page, must include two lines of text*. Otherwise, the entire paragraph should begin at the top of the next page.
+*When ending a paragraph at the top of a page*, there must be at least two lines of text.
+You may allow more than 1" at the bottom of a page in order to avoid widows and orphan lines. 
+* 4. PRELIMINARY PAGES & MATERIALS

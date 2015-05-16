@@ -1,0 +1,28 @@
+* Formatting
+** Add value to figures color scale
+** Change Z to M value or length km
+** Check consistency of units. 
+*** 5 km
+*** 100 kyr
+** Check Consistency of tense (use present tense for now). 
+*** Reference
+- Day, Robert A. 1998. How to Write and Publish a Scientific Paper. Oryx. 275 p. :: 
+"There is one special convention of writing scientific papers that is very tricky. It has to do with tense, and it is important because its proper usage derives from scientific ethics.
+
+- "When a scientific paper has been validly published in a primary journal, it thereby becomes knowledge. Therefore, whenever you quote previously published work, ethics require you to treat that work with respect. You do this by using the present tense. It is correct ot say, 'Streptomycin inhibits the growth of M. tuberculosis (13).' Whenever you quote or discuss *previously published work*, you should use the *present tense*; you are quoting established knowledge.
+
+"Your *own present work* must be referred to in the *past tense*. Your work is not presumed to be established knowledge until after it has been published. If you determined that the optimal growth temperature for Streptomyces everycolor was 37°C, you should say, 'S. everycolor grew best at 37°C.'
+
+"In the typical paper, you will normally go back and forth between the past and present tenses. Most of the *Abstract* should be in the *past tense*, because you are referring to your own present results. Likewise, the *Materials* and *Methods* and the *Results* sections should be in the *past tense*, as you describe what you did and what you found. On the other hand, much of the *Introduction* and much of the *Discussion* should be in the *present tense*, because these sections often emphasize previously established knowledge.
+
+"The principal exception to this rule is in the area of attribution and presentation. It is correct to say, 'Smith (9) showed that streptomycin inhibits S. nocolor.' It is also correct to say 'Table 4 shows that streptomycin inhibited S. everycolor at all pH levels.' Another exception is that the results of calculations and statistical analyses should be in the present tense, even though statements about the object to which they refer are in the past tense; e.g., 'These values are significantly greater than those of the females of the same age, indicating that the males grew more rapidly.' Still another exception is a general statement or known truth. Simply put, you could say 'Water was added and the towels became damp, which proves again that water is wet.' More commonly, you will need to use this kind of tense variation: 'Significant amounts of type IV procollagen were isolated. These results indicate that type IV procollagen is a major constituent of the Schwann cell ECM.' "
+
+
+
+
+* Structure 
+** Learn from Thesis_jaolive
+*** Add a page to cite something from Dao De Jing in Chinese.
+*** Acknowledgements part
+- Way of writing ::
+- Learn that, acknowlegement to mum can be in Chinese.

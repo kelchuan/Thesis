@@ -112,7 +112,7 @@ Number & Variable & Description & Value & Units \\
 \hline
 32   &  $remesh_{timestep}$    &    Remesh when timestep reach its value      & 400000   & N/A  \\
 \hline
-33   &  $remesh_{length}$    &    Remesh when ratio between current global minimum of the ratio of a tetrahedron’s volume to one of its surface area to its initial value      & 0.6   & N/A  \\
+33   &  $remesh_{length}$    &    Remesh when the global minimum of the ratio of the volume of a tetrahedron to one of its surface area      & 0.6   & N/A  \\
 \hline
 34   &  $top_{Temp}$    &    Surface temperature      & 0   & $\degree C$  \\
 \hline
@@ -136,4 +136,54 @@ Based on these constraints, we can start considering only a few end-member scena
 Preliminary pseudo-2D results show that the model behavior in faulting pattern is sensitive to the rate of strain weakening. Two cases of strain weakening are tested in this study. In one case (denoted as Type 1), cohesion linearly decreases from 44 MPa (denoted as $C_{i}$) to 4 MPa ($C_{e}$) for plastic strain accumulating from 0 ($\varepsilon_{p_{i}}$) to 0.1 ($\varepsilon_{p_{e}}$). It has a characteristic fault slip of 150 meters for pseudo-2D models and 300 meters for 3D models. The other case (Type 2) assumes cohesion linearly decreasing from 44 MPa to 4 MPa for plastic strain accumulating from 0 to 0.33. In this case, the characteristic fault slip for Pseudo-2D models is 500 meters and for 3D models is 1km.
 
 The characteristic fault slip $\Delta X_{c}=3 \times dx \times \varepsilon_{p_{e}}$ (3 is because the thickness of the shear bands is usually 2 to 4 times of the dx \citep{Lavier2000}) means when $\Delta X_{c}$ amount of displacement takes place at the fault interface, the Cohesion of the material at the faulting interface will decrease to $C_{e}$. In this way, under same amount of $\Delta X_{c}$, models with different resolution should behave in the same way in terms of strain weakening and faulting patterns. 
+
+\subsection{\change[EC]{Tables of all the data points}{Models with variable M}}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l l l l l}
+\hline
+\hline
+Model& M range & Functional Form & Type of weakening & For short \\ 
+\hline
+1    &  M28    &   Linear        & Type one   &  M28LinT1\\
+\hline
+2    &  M28    &   Sinusoidal    & Type one   &  M28SinT1\\
+\hline
+3    &  M28    &   Square Root   & Type one   &  M28SqrtT1 \\
+\hline
+4    &  M57    &   Linear        & Type one   &  M57LinT1 \\
+\hline
+5    &  M57    &   Sinusoidal    & Type one   &  M57SinT1 \\
+\hline
+6    &  M57    &   Sinusoidal    & Type two   &  M57SinT2 \\
+\hline
+7    &  M57    &   Square Root   & Type two   &  M57SqrtT2  \\
+\hline
+8    &  M58    &   Sinusoidal    & Type one   &  M58SinT1  \\
+\hline
+9    &  M58    &   Sinusoidal    & Type two   &  M58SinT2   \\
+\hline
+10   &  M58    &   Square Root   & Type one   &  M58SqrtT1   \\
+\hline
+11   &  M58    &   Square Root   & Type two   &  M58SqrtT2   \\
+\hline
+12   &  M88    &   Constant      & Type two   &  M88ConT2 \\
+\hline
+\hline
+\end{tabular}
+\caption{List of 3D numerical experiments. M28 means M value varies from 0.2 to 0.8 along the ridge axis.}
+\label{Tab1_1}
+\end{table}
+
+Currently, we have run hundreds of psedudo-2D models for initial setup and benchmarking with previous studies \citep[e.g.,][]{Buck2005, Tucholke2008}. Based on those pseudo-2D models, we further ran 11$+$1 3D models (11 models with M varying along the ridge-axis and 1 model with constant M$=0.8$. The complete list of 3D models is given in Table~\hyperref[Tab1_1]{\ref{Tab1_1}}. 
+
+The numerical cost of a 3D model is non-trivial. For 2 Myr of model time, each model usually runs on 192 cores for about 48 hours (i.e., around 10$^{4}$ core-hours). %\add[XT]{use 96 cores can improve the efficiency a little bit (Longer time but smaller amount of SUs needed).})
+
+Under this constraint of numerical cost, I decided to control only the following three parameters while fixing all the others: 1) the functional forms of M variation; 2) the range of M variation; 3) the rate of strain weakening. 
+
+%\subsubsection{\change[EC]{Variation of the functional form}{Functional forms of M variation}}
+How magma supply varies along the MORs ridge-axis has not been directly observed and thus remains as a topic of active research. However, indirect geophysical studies using gravity and seismology suggest a general pattern that at 20 to 50 km-long second-order ridge segments, magma supply mostly at the segment center and decreases to the segment tip \citep{Carbotte2015}. Since we still do not know exatly how magma supply varies along the ridge, we try three functional forms: linear, sinusoidal and square root.
+
+\note[EC]{You'll need similar paragraphs for the range of M variation and the rate of strain weakening. In other words, explain what are the ranges or types of these parameters you tested and why you chose them. Also explain the notations like M28 and Type one here. Also consider using Type 1 rather than Type one.}
 
