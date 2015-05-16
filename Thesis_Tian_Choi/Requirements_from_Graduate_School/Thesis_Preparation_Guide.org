@@ -48,7 +48,7 @@ There Are No Freebies. ALWAYS cite words, information, and ideas you use if they
 *Beware of Common Knowledge. You don't have to cite "common knowledge," but the fact must be commonly known.*
 Source: Student Judicial Affairs, October 1999-2001. The University of California, Davis.
 *
-* 3. REFERENCE GUIDE FOR FORMATTING
+* TODO 3. REFERENCE GUIDE FOR FORMATTING
 Under no circumstances should a previously submitted thesis or dissertation copy, whether electronic, library or departmental copies, be used to format your document because formatting requirements do change over time, and you could be copying someone's mistakes.
 ** 3.1 Font Type and Size (x)
 Arial or Times New Roman (Including page numbers and footnote numbers) (x)
@@ -90,4 +90,184 @@ A thesis or dissertation will *not be accepted* if it contains "*widows or orpha
 *A new paragraph at the bottom of a page, must include two lines of text*. Otherwise, the entire paragraph should begin at the top of the next page.
 *When ending a paragraph at the top of a page*, there must be at least two lines of text.
 You may allow more than 1" at the bottom of a page in order to avoid widows and orphan lines. 
-* 4. PRELIMINARY PAGES & MATERIALS
+* TODO 4. PRELIMINARY PAGES & MATERIALS
+** TODO 4.1 [[./etd_approval_form.pdf][Final Committee Approval Form]] for Electronic Thesis/Dissertation Submission
+This forms serves as the *official approval page for an electronic thesis* or dissertation. This form must have *original signatures of all committee members* and must be submitted *to the Graduate School* with the *paper copy for review*. Please do NOT submit to the Graduate School prior to review copy submission. 
+*** The approval form must *NOT* be included in the electronic submission document.
+** 4.2 Checklists
+*** APA Checklist (For students using the American Psychological Association Style Manual) (N/A)
+Non-APA Checklist (For students using journals or style manuals other than the APA Style Manual)
+*** TODO [[./Non_APA_checklist.pdf][Non_APA_checklist]] Checklist (For students using journals or style manuals other than the APA Style Manual)
+** 4.3 Title Page (x)
+The title page must exactly match the wording, spacing, and formatting of th[[./etd_title_page.pdf][is example_title_page]].
+** 4.4 Copyright Page (optional). (x)
+   The copyright page (if included) must exactly match the wording, spacing, and formatting of [[http://www.memphis.edu/gradschool/copyright.php][this example page]].
+** 4.5 Preface. (N/A)
+If a Preface is included in your document, it should contain a brief statement of the scope or purpose in writing the paper. It may also explain the author's choice of subject and his/her belief in its importance.
+The Preface must not contain any material covered elsewhere in the paper, in the Abstract, the Introduction, or the Summary and Conclusions.
+If articles submitted for publication are used as sections or chapters in your manuscript, the Preface should specify which journal(s) each section or chapter have been submitted to or accepted for publication.
+** TODO 4.6 Abstract Page 
+The abstract page must exactly match the wording, spacing, and formatting of [[http://www.memphis.edu/gradschool/abstract.php][this example page]].  
+*** The abstract should be the last part to be written. It must show the reader both the context and content of the work and must include the purpose of the work, including any hypothesis to be tested or major question asked; the approach used; the main findings; and the conclusions.
+*** The abstract must NOT include internal headings or author citations.
+*** Mathematical formulas, diagrams, and other illustrative materials must be avoided at all costs.
+*** If using journal articles as chapters, do NOT include additional abstracts or other information that the journal might require.
+** 4.7 Table of Contents 
+*** The Table of Contents must reflect the outline and organization of the thesis or dissertation. (x)
+*** Headings included in the Table of Contents must be worded exactly as stated in your document. (x)
+*** Page numbers in the Table of Contents must correspond to the page numbers in the document. (x)
+*** TODO Single space within each chapter listing, but double space between chapters. 
+*** TODO The Table of Contents formatting must match [[./sample_table_of_contents.pdf][the example sheet]] (see link above).
+** 4.8 List of Tables (Required for 5 or more)
+*** A separate page (inserted after the Table of Contents) must be titled "List of Tables." (x)
+*** TODO Single space each table title more than one line in length and align the second and subsequent lines with the text on the first line.
+*** Double space between each title entry. (x)
+*** The wording of table titles must be consistent with your document. (x)
+*** Page numbers in the List of Tables must correspond to the page numbers in the document. (x)
+*** TODO List of Tables formatting should match the Table of Contents example sheet (see link above).
+** TODO 4.9 List of Figures (Required for 5 or more) (Whether contain all the caption content which is very long?)
+*** A separate page (inserted after the List of Tables) must be titled "List of Figures." (x)
+*** All other requirements for the List of Figures is the same as the List of Tables.
+** 4.10 Copyright Permission Letter. (N/A)
+This must be included if any materials in the paper are under copyright and extend beyond the Fair Use Policy.
+* 5. MANUSCRIPT TEXT
+** 5.1 Main Body
+If appropriate to your discipline, the following format should be used; *otherwise, adhere to* the guidelines in the style manual or journal preferred *by your department*.)
+*** Introduction.
+The introduction should contain a clear *statement of the purpose or hypothesis* to be tested, an *overview of the problem* or subject as it is known from the literature, and a *broad statement summarizing the findings*.
+*** Literature review.
+The literature review should be a comprehensive discussion. It should provide a unique and valuable reference resource for other scholars in your field.
+*** Statement of research objectives (if not explicitly stated in the introduction)
+This statement should consist of specific objectives to be addressed by the research published in the thesis or dissertation.
+*** Body of the work
+(methods and materials, results, and discussion in scientific disciplines).
+*** Overall conclusion (if not explicitly stated in the discussion).
+The discussion or last chapter or section should be followed by an overall conclusion. This section should include a brief restatement of your conclusions presented in the body of the text.
+*** Bibliography or References section.
+The bibliography or reference section should appear in one location at the end of the thesis or dissertation BEFORE any appendices (unless specified differently in a scientific discipline) and should include ALL cited references. Citations should be *listed alphabetically* and should *conform to a single format* that is accepted as standard within your discipline. Try to *avoid breaking bibliographic entries onto a following page*. All sources that are cited in the body of the text should appear in the bibliography, and all sources that are cited in the bibliography must also be cited in text.  Separate bibliographies for each chapter are NOT acceptable, unless your manuscript consists of articles submitted or accepted for publication.
+*** Appendices (if needed). 
+The majority of the materials included should represent the work of the student. The format may include individual tables and/or figures with legends, text alone, or whole chapters. The same format rules that apply to the text of the thesis or dissertation must also apply to all appendices. References included in the appendices must be included in the comprehensive bibliography or reference section.
+** 5.2 Using Journal Articles as Chapters or Sections (N/A)
+*** In some departments, the document may include, as chapters, articles that have been published or have been submitted to journals for publication. A thesis may include one or more articles; a dissertation may include two or more.
+*** The student MUST be the primary author of each article submitted.
+*** Individual manuscripts serving as chapters may not all have the same internal structure. Instead, each chapter should be presented in the style appropriate to the refereed journal.
+*** A Preface MUST be included in your manuscript and must state the name of the journal(s) to which the articles have been accepted or have been submitted for publication.  The preface should also indicate which chapter each article is now listed as in the Table of Contents.
+*** The document must include a chapter introducing the research and a concluding chapter that ties the results together. Do NOT include the preliminary material (such as title page, abstract, authors' contact information, running heads, etc.) required by the journal.The Graduate School's requirements for margins, figures, tables, and other items covered in this guide will still apply and take precedence over the journal's guidelines. 
+*** The Introduction should contain a clear statement of the purpose or hypothesis to be tested and a brief overview of the problem or subject. The Introduction should also contain an explanation of the theme tying the articles together. The Introduction need only be 2 or 3 pages long.
+*** The last chapter should be followed by an overall 1 to 2 page Conclusion. This section should include an explanation of the student's contribution to the research and a brief restatement of your conclusions presented in the body of the text.
+*** The Introduction and Conclusion may be presented in the style of one of the journals in the document.
+*** References will follow the style of the journal to which the article was submitted.
+*** Continuous pagination is required throughout the entire manuscript.
+*** When submitting your document to the Graduate School for review, include sample articles for each chapter and the journal's style guide or "Instructions to Author" to serve as a guideline for formatting references and citations.
+** 5.3 Tables and Figures
+*** All tables and figures, including the caption, must meet margin, font, and format requirements.
+*** TODO Triple space before and after all tables and figures within the text.
+*** The table number and its corresponding caption must be typed *ABOVE* the table. Use Arabic numbers and single space the caption.
+*** The figure number and its corresponding caption must be typed *BELOW* the figure. Use Arabic numbers and single space the caption.
+*** The figure caption must appear on the same page as the figure; the figure may be reduced to accommodate the caption but still must be readable.
+*** If a table and/or figure is continued onto one or more pages, repeat both the table title and the table column header row. 
+*** TODO Do NOT show full grid lines within the actual table, the only lines in a table should be the ones above and below the column header row and at the bottom of the table. They may, however, be used only for needed visual clarity.
+*** All tables, figures, diagrams, drawings, illustrations, etc. must be explicitly mentioned in the text.  
+*** All diagrams, drawings, and figures must be clear, sharp, and large enough to be readable.
+*** Color figures, illustrations, or charts are acceptable.
+*** Tables and/or figures one half page or less in length must appear on the same page with text either above or below. If a table and/or figure is larger than one half page, it should be inserted on a single page.
+*** Two small tables or figures should be placed together on a single page, with a triple space between them.
+*** Extra-wide tables or figures should be placed in landscape orientation (broadside). The table number and title should be closest to the 1.50" left margin AND the page number should also be placed in landscape orientation.
+*** Master's students may place tables and/or figures in the body of the text or in a separate appendix UNLESS several tables and/or figures are listed together and interrupt the flow of the text, then they MUST be placed in a separate appendix.Due to the required microfilming of all doctoral dissertations, tables and figures MUST be incorporated within the text. Insert each table and/or figure as close as possible after it has been referenced in the text.
+*** If tables and/or figures are placed in a separate appendix, please be sure to reference this information in the text.  For example: "Please see Table 1 in Appendix A."
+** 5.4 Images (N/A)
+All images (color or grayscale) included in your document must be clearly readable both onscreen and when printed.
+The format embedded in the PDF version should be bitmaps, GIFs, or JPEG images.
+Large images, including maps, plates or charts, which require high resolution must be included in the main document.
+** 5.5 Mathematical Equations
+Include an extra double space before and after all mathematical equations.
+Equations should be centered or aligned with the left-hand margin.
+Equation numbers (typed in either parentheses or brackets) must be aligned with the right-hand margin.
+** 5.6 Citations (x)
+All theses and dissertations must use the standard citation style guide for their respective disciplines to cite their sources. Examples of these guises include, but are not limited to, APA, ASA, MLA, Chicago, and Turabian styles.  For some disciplines, the accepted style guide is one of a particular journal.  
+
+In keeping with plagiarism guidelines, any and all ideas, words, images, etc. that come from another source MUST be cited according to a standard style guide.  Most style guides offer citation rules for the major types of source information: books, journal articles, etc.  If the style guide does not cover a particular type of source, follow the standard format for the other types of sources. Always include as much information about each source as possible so that the reader could find the source again if need be.
+*** TODO 5.6.1 Citation Generators
+Citation software can be a great time-saver when working on a major project, but they are not perfect.  All citations must be proofread carefully to catch any mistakes.
+*** 5.6.2 Citing Electronic Sources (N/A)
+Some style guides have not caught up with the technology.  For internet and electronic sources, use the following list as a guide when citing:
+
+The author's name (if known) or screen name/alias
+The full title of the document or webpage cited as a journal article
+The title of the complete work (the entire website)
+The name of the party responsible for the website 
+Version or file numbers (if applicable or known)
+The date of the document's publication or last revision (if applicable or known--the copyright date is sometimes acceptable)
+The full http address (URL)--some style manuals may require you to put the address in brackets
+The date you most recently accessed the materials  
+* TODO 6. REVIEW PROCESS
+Submit the following items to the Graduate School to begin the review process, *AFTER* you have defended and made all corrections given to you at the time of your final defense:
+** A *paper copy printed* on standard computer paper must be submitted.
+** A completed *Final Committee Approval for Electronic Thesis* or Dissertation Submission form signed by ALL committee members.
+** A *Thesis/Dissertation Defense form*, if one has not been previously submitted by your department.The IRB or IACUC approval form or waiver, if human or animal subjects were used for your research.
+** An APA or *Non-APA checklist* appropriate to your discipline. *Both the student and major professor* must check all applicable items and *sign the form*.
+** REMINDER: The Graduate School is required to have a *Comprehensive Exam Results form* for ALL degree seeking students. If you have not been administered a separate oral and/or written comprehensive exam by your department, the oral defense of your thesis will satisfy this requirement; therefore, this form must be submitted to Graduate School by your department.
+The checklists are NOT to be used as a style guide for formatting purposes. They are used to ensure that you have followed specific Graduate School requirements, in addition to what is required in your style manual or refereed journal.
+If you did not use the Chicago Manual of Style, APA, ASA, ADA, MLA, or Kate Turabian manuals for formatting purposes, you must submit a sample article from the refereed journal and the journal's style guide or "Instructions to Author" to serve as a guideline for formatting references and citations.
+* 7. FINAL SUBMISSION PROCESS
+** 7.1 EMBEDDING DOCUMENT FONTS (N/A for Latex)
+All document fonts must be embedded. Embedding fonts simply means that your font information used to create your document will always look the exact same way it does when stored in a PDF file. If your fonts are not embedded, Adobe Acrobat will substitute fonts available on a reader's computer. Any type of font substitution can result in significant differences between the original document and what the reader sees. Fonts can be embedded when you convert from Word to PDF. Embedding fonts will significantly increase your file size.  When converting Word documents to PDF, ensure that the "scale to fit" box is NOT selected as it creates problems with the document's margins.
+*** 7.1.1 How to Embed Fonts Using Microsoft Word 2010 on a PC:
+You will need to first visit Word Options. To get there, click the File tab > Options > Save, and make sure that "Embed fonts in the file" in the textbox is checked.
+*** 7.1.2 How to Embed Fonts Using Microsoft Word 2007 on a PC:
+Create your manuscript using either Times New Roman or Ariel fonts. 
+Click the circular Office Button in the upper left-hand corner of Microsoft Word. A new window will open.
+In the bottom right-hand corner is a button called Word Options. Click that button. 
+Choose Save from the left sidebar. 
+Check the box next to Embed Fonts in the file. Click the OK button. 
+Save your document. 
+*** 7.1.3 How to Embed Fonts in Earlier Versions of Microsoft Word:
+Create your manuscript using a TrueType font.
+On the Tools Menu, choose Options.
+Click the Save tab.
+Select the Embed TrueType Fonts check box.
+Save the document.
+*** 7.1.4 Using Microsoft Word on a Mac using Word 2011:
+Convert your document to PDF.
+Open the original PDF in the Preview application of your Mac.
+Select File: Print
+Click on the Preview button - a new document should be generated.
+Select File: Print again (you should be in the newly-created document when you do this).
+Click the PDF button, and then select "Save as PDF" from the pop-up menu.
+Choose a filename and save the file; the file you just saves should have all of the fonts embedded.
+*** 7.1.5 Using Microsoft Word on an Earlier Version:
+Microsoft Word for Mac does not have a feature that allows for embedding fonts. Consider using OpenOffice (which embeds fonts automatically while converting to PDF) or using a PC to embed fonts in your manuscript.
+** 7.2 INSTRUCTIONS FOR ELECTRONIC SUBMISSION (N/A)
+After all Graduate School corrections have been made, embed document fonts, and convert to a PDF file. Carefully review your document before submitting to the ETD site.
+Do *NOT* assume that if the final Word document looks fine, the PDF will look fine. In particular, may close attention to charts, graphs, tables, equations, special accent marks, and any graphics you imported into your Word document. If something looks incorrect, re-convert your document again to PDF. There should be no difficulty including accent marks or special characters in your abstract as long as they are the basic ASCI character set (numbers 0-9, upper and lowercase letters A-Z, and typical English punctuation).
+If you decide to use Adobe Acrobat Professional to convert your document instead of using Word, include bookmarks for all preliminary pages, for the first page of each new chapter, and for the first page of the bibliography or reference section and any appendices.
+*** Log into the U of M ETD site at: https://umwa.memphis.edu/etd/
+**** Click on the My Submissions tab.
+**** Log in using your U of M UUID (Email) username and password.
+**** Choose the "Add New ETD" option.
+**** At the top of the front matter page, you will be able to set an access level  (unrestricted, restricted, or no access). (A brief summary of the restriction levels can be found at the end of this section). We recommended unrestricted access so that your research and scholarship will be most widely distributed. However, if, upon consultation with your committee, you want to change the access level, you may do so.
+**** Indicate whether your manuscript is a thesis or dissertation.
+**** Your e-mail address and name will automatically populate (if this information is incorrect, please call 901-678-8888 or go to your account at my.memphis.edu to update your University records). You MUST use your U of M e-mail account during the electronic process.
+**** To complete the remainder of the form, you will need to have the following information handy: Please type your abstract from scratch. Do not copy and paste your Word document abstract into the text box. If you do copy and paste, HTML code will appear and could cut off sentences in the middle.  Remove the header paragraph containing your name, degree, university, date conferred, title, etc. The entire abstract must be single spaced; however, indent seven spaces at the beginning of each new paragraph. The font type and font size must be Arial, 12 point.
+**** the names and e-mail addresses of your committee members;
+**** the exact title of your document, which must be entered using BOTH uppercase and lowercase letters (no ALL uppercase letters, please);
+**** TODO up to 10 keywords that describe your document's contents for search engines;
+**** and the exact abstract from your document--350 words or fewer for dissertations; *150 words* or fewer for theses.
+**** Complete as much of the front matter form as you wish and then select "Add." After the front matter has been completed, upload your document and any audio/visual supporting files. Your document MUST be a single PDF file and must include all figures, graphics, and tables; you may submit up to 6 audio/visual supporting files.Once your document has completely uploaded, click the "Submit" button. Your document will be sent to the ETD manager in the Graduate School for final approval.
+**** When you access the form a second time, you will be asked to Save rather than Add. DO NOT ADD A NEW FORM TO THE SYSTEM. Work with your original submission.
+**** After submission, you will *NOT be able to change your file*. (NOTE: If you do not click the "Submit" button, your document will go to the "In Progress" queue and will never be submitted to the Graduate School).
+**** You will receive e-mail notification once your document has been opened for review by the ETD manager. Notification will be sent only to your U of M e-mail account.
+**** If your document is not approved, you will receive e-mail notification of further needed changes.
+**** Make these changes in the original version of your Word document. Convert once again to PDF format, connect to the ETD web site, and log in.
+**** Click "View" to get to your document; click "Edit" and "Delete" the previously uploaded file (look for a "Trash Can" icon at the bottom of the form). "Add" your revised document, click the "Back" button in the ETD system, not your browser Back button, then click "Submit" again.
+**** You will receive e-mail notification when your document has been approved by the ETD manager. Your document on the ETD server will be available immediately for public viewing, depending on your requested access level (see next section).
+** TODO 7.3 Access Restrictions and Embargoes (Ask Eunseo about this)
+Access to the University of Memphis Electronic Theses and Dissertations is determined by the student author and may fall into the following categories:
+
+*** Open Access - open to anyone with Internet access.
+*** Embargoed - The author has chosen to prevent online access for 3 or 5 years from the date of creation to protect their creative rights.
+*** No Access - Due to patents included or other intellectual properties, the author has chosen not to make their work available online.
+
+Eighty to 90% of publishers of professional journals (e.g., Elsevier) have decided that theses or dissertations that are made available online do not qualify as a prior publication, and therefore do not deter future publications. However, other publishers have reached the opposite conclusion.
+If you have patent concerns or concerns that posting to the ETD site might prevent later acceptance of your work by professional journals or book publishers, consult with your committee and with possible future publishers to make an informed decision. Most professional journals publish "Instructions for Authors" on their website where this specific issue is addressed.
+** 7.4 Final Requirements for Doctoral Students (N/A)
