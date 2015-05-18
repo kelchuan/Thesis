@@ -5,9 +5,9 @@
 \contentsline {subsection}{\numberline {1.2}Statement of Research Purpose}{6}{subsection.1.2}
 \contentsline {section}{\numberline {2}Methods}{8}{section.2}
 \contentsline {subsection}{\numberline {2.1}Method of approach}{8}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Model Setup}{10}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Parameters to control}{11}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}\change [EC]{Tables of all the data points}{Models with variable M}}{12}{changenumber.11.1}
+\contentsline {subsection}{\numberline {2.2}Model Setup}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Parameters to control}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}\change [EC]{Tables of all the data points}{Models with variable M}}{11}{changenumber.11.1}
 \contentsline {section}{\numberline {3}3D Results}{15}{section.3}
 \contentsline {subsection}{\numberline {3.1}Reference models (M28LinT1 Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}})}{15}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Constant M along the ridge-axis (M88ConT2 Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}})}{18}{subsection.3.2}
