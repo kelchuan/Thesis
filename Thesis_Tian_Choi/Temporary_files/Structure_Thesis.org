@@ -1,6 +1,18 @@
 * Introduction
-** Research Questions
 ** Review of Literature
+*** TODO clarify and draw mindmap for relation between the four factors for controlling the topography. Find original refs for each relationship.
+
+- 1 magmatic supply :: Is affected by spreading rate, thermal structure and whether hot plume presents. (partial melting is a passive process)  
+     *ref*:
+     It releases tectonic stress.
+- 2 hydrothermal circulation :: Are affected by faulting. Highly affects the thermal structure. 
+     *ref:*
+- 3 tectonic strain :: Affected by spreading rate and magmatic supply. Direct reason for normal faulting. And faulting is the first-order control facotr for the topography.   
+     *ref:*
+- 4 spreading rate :: mainly affected by far field slab pull, ridge push(magma supply) is second order. Affect magmatic supply, hydrothermal 
+     *ref:*
+They are interelated, the relation is very complex. But it is essential in understanding the research question.
+
 ** Statement of Research Purpose
 ** Findings
 * Methods
