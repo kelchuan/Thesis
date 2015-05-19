@@ -14,35 +14,41 @@
 They are interelated, the relation is very complex. But it is essential in understanding the research question.
 
 ** Statement of Research Purpose
-** Findings
 * Methods
 ** Method of approach
 ** Model Setup
 ** Parameters to control
-** Table of run models
 * Results (Direct observation without much logical reasoning, more objective)
 ** Reference model
 *** Constant M88
 ** Main characteristics of the models (order from most frequently happen behavior)
 *** Second Fault
+*** Fault Alternation (? better name of it (ask brian, trevor)) (alternate is perfect fit by searching dictionary.com 1 and 3 item)
+ 1. to interchange repeatedly and regularly with one another in time or place;
+ 2. to take turns
+**** Trade-off between bending and weakening
+**** Alternating on conjugate plate
+**** Effect of along ridge-axis couplin
+*** Location of termination (M28LinT1)
+**** Where termination shows up
+- Canales 2004  :: Seismic reflection imaging of an oceanic detachment fault: Atlantis megamullion
+- Escartin 2008 (Nature) :: Central role of detachment faults in accretion of slow-spreading oceanic lithosphere.
+- choolmeesters 2012 G Cube :: The cooling history and the depth of detachment faulting at the Atlantis Massif oceanic core complex
+- Escartin 2003 G cube :: Constraints on deformation conditions and the origin of oceanic detachments: The Mid-Atlantic Ridge core complex at 15°45′N
+Dick 2010 :: Mantle Melting, Melt Transport, and Delivery Beneath a Slow-Spreading Ridge: The Paleo-MAR from 23 15'N to 23 45'N
+*** geometry of troughs inside the median valley(find a term for it or define myself) (M28LinT1)
+mostly refer to fast spreading ridges. But trough inside the median valley make sense.
 *** Cut-Back
 *** Corrugation
 **** Corrugation due to anastomosing
 **** Corrugation due to asynchronous in faulting
 
-*** Location of termination (M28LinT1)
-*** geometry of trough(find a term for it or define myself) (M28LinT1)
 
-*** Fault Alternation (? better name of it (ask brian, trevor))
-**** Trade-off between bending and weakening
-**** Alternating on conjugate plate
-**** Effect of along ridge-axis couplin
-** Influence of weakening rate
-** Variation of the functional form
-** Variation of the range of M
+** Effects of the functional forms of M variation
+** Effects of the weakening rate
+** Effects of the range of M variation
 * Discussion (Can include many logical reasoning and discussion on the results with including other people work and your reasoning)
 ** Summary of Results
-
 ** Comparing model results with nature observation
 *** Cut-back
 *** Corrugations
