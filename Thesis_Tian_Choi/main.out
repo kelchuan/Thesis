@@ -6,8 +6,8 @@
 \BOOKMARK [2][-]{subsection.2.2}{Model Setup}{section.2}% 6
 \BOOKMARK [2][-]{subsection.2.3}{Parameters to control}{section.2}% 7
 \BOOKMARK [1][-]{section.3}{Results}{}% 8
-\BOOKMARK [2][-]{subsection.3.1}{Reference models \(M28LinT1 Table [Tab11]2\)}{section.3}% 9
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Constant M along the ridge-axis \(M88ConT2 Table [Tab11]2\)}{subsection.3.1}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Reference model \(M28LinT1 Table [Tab11]2\)}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Constant M along the ridge axis \(M88ConT2 Table [Tab11]2\)}{subsection.3.1}% 10
 \BOOKMARK [2][-]{subsection.3.2}{Main characteristics of the models}{section.3}% 11
 \BOOKMARK [3][-]{subsubsection.3.2.1}{Second fault}{subsection.3.2}% 12
 \BOOKMARK [3][-]{subsubsection.3.2.2}{Fault alternation}{subsection.3.2}% 13
@@ -45,9 +45,8 @@
 \BOOKMARK [3][-]{subsubsection.4.6.3}{Atlantis Massif Shape at 30N Mid-Atlantic Ridge \(\)}{subsection.4.6}% 45
 \BOOKMARK [3][-]{subsubsection.4.6.4}{Shear low}{subsection.4.6}% 46
 \BOOKMARK [3][-]{subsubsection.4.6.5}{Corrugations}{subsection.4.6}% 47
-\BOOKMARK [2][-]{subsection.4.7}{Parallel computing efficiency}{section.4}% 48
-\BOOKMARK [2][-]{subsection.4.8}{Model Limitation}{section.4}% 49
-\BOOKMARK [3][-]{subsubsection.4.8.1}{Fixed thermal structure effects and justification}{subsection.4.8}% 50
-\BOOKMARK [2][-]{subsection.4.9}{Recommendation for Future Research}{section.4}% 51
-\BOOKMARK [1][-]{section.5}{Conclusions}{}% 52
-\BOOKMARK [1][-]{section*.59}{Bibliography}{}% 53
+\BOOKMARK [2][-]{subsection.4.7}{Model Limitation}{section.4}% 48
+\BOOKMARK [3][-]{subsubsection.4.7.1}{Fixed thermal structure effects and justification}{subsection.4.7}% 49
+\BOOKMARK [2][-]{subsection.4.8}{Recommendation for Future Research}{section.4}% 50
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 51
+\BOOKMARK [1][-]{section*.59}{Bibliography}{}% 52
