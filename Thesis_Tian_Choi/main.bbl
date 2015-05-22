@@ -1,4 +1,4 @@
-\begin{thebibliography}{15}
+\begin{thebibliography}{16}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -77,6 +77,12 @@ J.-A. Olive, M.~D. Behn, and B.~E. Tucholke.
   2010.
 \newblock ISSN 1752-0894.
 \newblock \doi{10.1038/ngeo888}.
+
+\bibitem[Olive et~al.(2014)Olive, Behn, and Malatesta]{Olive2014}
+J.-a. Olive, M.~D. Behn, and L.~C. Malatesta.
+\newblock Modes of extensional faulting controlled by surface processes.
+\newblock \emph{Geochemistry Geophysics Geosystems}, pages 1--9, 2014.
+\newblock \doi{10.1002/2014GL061507}.
 
 \bibitem[Ryan et~al.(2009)Ryan, Carbotte, Coplan, O'Hara, Melkonian, Arko,
   Weissel, Ferrini, Goodwillie, Nitsche, Bonczkowski, and Zemsky]{Ryan2009}

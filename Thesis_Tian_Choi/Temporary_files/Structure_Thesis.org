@@ -54,6 +54,11 @@ mostly refer to fast spreading ridges. But trough inside the median valley make 
 ** Comparing model results with nature observation
 *** Cut-back
 *** Corrugations
+** Difference between 3D and 2D previous studies
+*** 2D cannot produce corrugation
+*** 2D cannot produce cut-back (think about the along ridge effect that is essential for cut-back)
+*** range of M allowing OCC formation is increased, 
+another way other than Olive2010 to reconcile the gap between large M and OCC (observation) and 2Dmodel M0.3~0.5 to produce OCC
 ** Influence of healing
 ** Model Limitation
 ** Recommendation for Future Research
