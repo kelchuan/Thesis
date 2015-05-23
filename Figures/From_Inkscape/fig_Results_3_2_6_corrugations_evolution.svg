@@ -15,7 +15,7 @@
    id="svg6102"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="fig_Results_3_2_6_corrugations_evolution.svg">
+   sodipodi:docname="fig_Results_3_2_6_corrugations_evolution.eps">
   <defs
      id="defs6104">
     <marker
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
