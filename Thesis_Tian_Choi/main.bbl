@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -126,5 +126,13 @@ B.~E. Tucholke, M.~D. Behn, W.~R. Buck, and J.~Lin.
 D.~L. Turcotte and G.~Schubert.
 \newblock \emph{Geodynamics}.
 \newblock Cambridge, 2002.
+
+\bibitem[Whitney et~al.(2012)Whitney, Teyssier, Rey, and Buck]{Whitney2012}
+D.~L. Whitney, C.~Teyssier, P.~Rey, and W.~R. Buck.
+\newblock Continental and oceanic core complexes.
+\newblock \emph{Geological Society of America Bulletin}, 125\penalty0
+  (3-4):\penalty0 273--298, Dec. 2012.
+\newblock ISSN 0016-7606.
+\newblock \doi{10.1130/B30754.1}.
 
 \end{thebibliography}
