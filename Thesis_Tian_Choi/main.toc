@@ -9,41 +9,44 @@
 \contentsline {subsection}{\numberline {2.3}Parameters to control}{9}{subsection.2.3}
 \contentsline {section}{\numberline {3}Results}{13}{section.3}
 \contentsline {subsection}{\numberline {3.1}Reference model M28LinT1}{13}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Constant M along the ridge axis (M88ConT2 Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}})}{17}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Constant M model M88ConT2}{17}{subsubsection.3.1.1}
 \contentsline {subsection}{\numberline {3.2}Main characteristics of the models}{18}{subsection.3.2}
 \contentsline {subsubsection}{\numberline {3.2.1}Location of termination}{19}{subsubsection.3.2.1}
 \contentsline {subsubsection}{\numberline {3.2.2}Geometry of the trough}{20}{subsubsection.3.2.2}
 \contentsline {subsubsection}{\numberline {3.2.3}Inward fault jump}{20}{subsubsection.3.2.3}
 \contentsline {subsubsection}{\numberline {3.2.4}Fault alternation}{21}{subsubsection.3.2.4}
 \contentsline {subsubsection}{\numberline {3.2.5}Cut-back}{21}{subsubsection.3.2.5}
-\contentsline {subsubsection}{\numberline {3.2.6}Hourglass shape median valley}{25}{subsubsection.3.2.6}
+\contentsline {subsubsection}{\numberline {3.2.6}Hourglass shape median valley}{26}{subsubsection.3.2.6}
 \contentsline {subsubsection}{\numberline {3.2.7}Corrugations and mullion structures}{27}{subsubsection.3.2.7}
 \contentsline {paragraph}{Corrugations}{27}{figure.caption.29}
-\contentsline {paragraph}{Mullion structures}{28}{figure.caption.31}
-\contentsline {subsection}{\numberline {3.3}Effects of the functional forms of M variation}{29}{subsection.3.3}
-\contentsline {paragraph}{Second Fault}{30}{section*.33}
-\contentsline {paragraph}{Cut-back}{31}{changenumber.31.1}
-\contentsline {subsection}{\numberline {3.4}Effects of the weakening rate}{32}{subsection.3.4}
-\contentsline {paragraph}{M57SinT1 versus M57SinT2}{32}{figure.caption.39}
-\contentsline {paragraph}{M57SinT1}{33}{section*.41}
-\contentsline {paragraph}{M57SinT2}{34}{section*.43}
-\contentsline {subsubsection}{\numberline {3.4.1}M58SinT1 versus M58SinT2}{35}{subsubsection.3.4.1}
-\contentsline {paragraph}{M58SinT1}{35}{section*.45}
-\contentsline {paragraph}{M58SinT2}{36}{section*.47}
-\contentsline {subsubsection}{\numberline {3.4.2}M58SqrtT1 versus M58SqrtT2}{37}{subsubsection.3.4.2}
-\contentsline {paragraph}{M58SqrtT1}{37}{section*.48}
-\contentsline {paragraph}{M58SqrtT2}{39}{figure.caption.51}
-\contentsline {subsection}{\numberline {3.5}Effects of the range of M variation}{40}{subsection.3.5}
-\contentsline {subsubsection}{\numberline {3.5.1}M28SinT1 versus M57SinT1 versus M58SinT1}{40}{subsubsection.3.5.1}
-\contentsline {paragraph}{M57SinT1 versus M58SinT1}{40}{section*.52}
-\contentsline {paragraph}{M28SinT1}{41}{figure.caption.54}
-\contentsline {subsubsection}{\numberline {3.5.2}M57SinT2 versus M58SinT2}{42}{subsubsection.3.5.2}
-\contentsline {subsubsection}{\numberline {3.5.3}M28LinT1 versus M57LinT1}{42}{subsubsection.3.5.3}
-\contentsline {paragraph}{M57LinT1}{42}{figure.caption.56}
+\contentsline {paragraph}{Mullion structures}{29}{figure.caption.31}
+\contentsline {subsection}{\numberline {3.3}Effects of the functional forms of M variation}{30}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}M28(Lin, Sin, Sqrt)T1}{30}{subsubsection.3.3.1}
+\contentsline {paragraph}{Inward fault jump}{30}{section*.33}
+\contentsline {paragraph}{Cut-back}{31}{figure.caption.36}
+\contentsline {paragraph}{Hourglass shape median valley}{31}{section*.37}
+\contentsline {subsubsection}{\numberline {3.3.2}M58(Lin,Sin,Sqrt)T2}{32}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Effects of the weakening rate}{33}{subsection.3.4}
+\contentsline {paragraph}{M57SinT1 versus M57SinT2}{34}{figure.caption.41}
+\contentsline {paragraph}{M57SinT1}{35}{section*.43}
+\contentsline {paragraph}{M57SinT2}{35}{section*.45}
+\contentsline {subsubsection}{\numberline {3.4.1}M58SinT1 versus M58SinT2}{36}{subsubsection.3.4.1}
+\contentsline {paragraph}{M58SinT1}{36}{section*.47}
+\contentsline {paragraph}{M58SinT2}{38}{section*.49}
+\contentsline {subsubsection}{\numberline {3.4.2}M58SqrtT1 versus M58SqrtT2}{39}{subsubsection.3.4.2}
+\contentsline {paragraph}{M58SqrtT1}{39}{section*.50}
+\contentsline {paragraph}{M58SqrtT2}{39}{figure.caption.53}
+\contentsline {subsection}{\numberline {3.5}Effects of the range of M variation}{41}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}M28SinT1 versus M57SinT1 versus M58SinT1}{41}{subsubsection.3.5.1}
+\contentsline {paragraph}{M57SinT1 versus M58SinT1}{41}{section*.54}
+\contentsline {paragraph}{M28SinT1}{42}{figure.caption.56}
+\contentsline {subsubsection}{\numberline {3.5.2}M57SinT2 versus M58SinT2}{43}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}M28LinT1 versus M57LinT1}{43}{subsubsection.3.5.3}
+\contentsline {paragraph}{M57LinT1}{43}{figure.caption.58}
 \contentsline {subsubsection}{\numberline {3.5.4}M28SqrtT1 versus M58SqrtT1}{44}{subsubsection.3.5.4}
-\contentsline {subsubsection}{\numberline {3.5.5}M57SqrtT2 versus M58SqrtT2}{44}{subsubsection.3.5.5}
-\contentsline {paragraph}{M57SqrtT2}{44}{figure.caption.58}
-\contentsline {subsection}{\numberline {3.6}Summary of Results}{45}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.5.5}M57SqrtT2 versus M58SqrtT2}{45}{subsubsection.3.5.5}
+\contentsline {paragraph}{M57SqrtT2}{45}{figure.caption.60}
+\contentsline {subsection}{\numberline {3.6}Summary of Results}{46}{subsection.3.6}
 \contentsline {section}{\numberline {4}Discussion}{48}{section.4}
 \contentsline {subsection}{\numberline {4.1}Discussion on Reference models}{49}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Fault Alternation}{49}{subsection.4.2}
@@ -64,4 +67,4 @@
 \contentsline {subsubsection}{\numberline {4.6.1}Fixed thermal structure effects and justification}{54}{subsubsection.4.6.1}
 \contentsline {subsection}{\numberline {4.7}Recommendation for Future Research}{54}{subsection.4.7}
 \contentsline {section}{\numberline {5}Conclusions}{55}{section.5}
-\contentsline {section}{Bibliography}{56}{section*.66}
+\contentsline {section}{Bibliography}{56}{section*.68}
