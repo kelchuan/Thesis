@@ -15,7 +15,7 @@
    id="svg6402"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 52">
+   sodipodi:docname="fig_Results_3_4_2_3D_Antithetic_fault.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -208,7 +208,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -251,7 +251,7 @@
          sodipodi:role="line"
          id="tspan4932-9-4"
          x="-859.37415"
-         y="-185.77226">M28LinT1</tspan></text>
+         y="-185.77226">M58SinT1</tspan></text>
     <text
        transform="matrix(0.99973238,-0.02313388,0.02313388,0.99973238,0,0)"
        xml:space="preserve"
