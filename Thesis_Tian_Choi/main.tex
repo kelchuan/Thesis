@@ -28,7 +28,11 @@
 \renewcommand{\listfigurename}{\textit{\small{List of Figures}}}
 \renewcommand{\listtablename}{\textit{\small{List of Tables}}}
 
-\usepackage[usenames,dvipsnames]{xcolor} % For different colors used in hyperref
+%\usepackage{color}
+\usepackage[table,usenames,dvipsnames]{xcolor} % [table] is for \cellcolor in table
+%\usepackage[usenames,dvipsnames]{xcolor} % [usenames,dvipsnames] is For different colors used in hyperref
+%[][table] and [usenames,dvipsnames] needs to be combined together for xcolor package or will show error message:
+%... clash for xcolor
 %ref:http://en.wikibooks.org/wiki/LaTeX/Colors
 %ref:https://www.sharelatex.com/learn/Using_colours_in_LaTeX
 
