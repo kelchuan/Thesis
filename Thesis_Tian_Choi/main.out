@@ -1,3 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Review of Literature}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Statement of Research Purpose}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Methods}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Method of approach}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Model Setup}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Parameters to control}{section.2}% 7
 \BOOKMARK [1][-]{section.3}{Results}{}% 8
 \BOOKMARK [2][-]{subsection.3.1}{Reference model M28LinT1}{section.3}% 9
 \BOOKMARK [3][-]{subsubsection.3.1.1}{Constant M model M88ConT2}{subsection.3.1}% 10
@@ -17,29 +24,29 @@
 \BOOKMARK [3][-]{subsubsection.3.4.2}{M58SinT1 versus M58SinT2}{subsection.3.4}% 24
 \BOOKMARK [3][-]{subsubsection.3.4.3}{M58SqrtT1 versus M58SqrtT2}{subsection.3.4}% 25
 \BOOKMARK [2][-]{subsection.3.5}{Effects of the range of M variation}{section.3}% 26
-\BOOKMARK [3][-]{subsubsection.3.5.1}{M28SinT1 versus M57SinT1 versus M58SinT1}{subsection.3.5}% 27
+\BOOKMARK [3][-]{subsubsection.3.5.1}{\(M28 M57 M58\)SinT1}{subsection.3.5}% 27
 \BOOKMARK [3][-]{subsubsection.3.5.2}{M57SinT2 versus M58SinT2}{subsection.3.5}% 28
 \BOOKMARK [3][-]{subsubsection.3.5.3}{M28LinT1 versus M57LinT1}{subsection.3.5}% 29
 \BOOKMARK [3][-]{subsubsection.3.5.4}{M28SqrtT1 versus M58SqrtT1}{subsection.3.5}% 30
 \BOOKMARK [3][-]{subsubsection.3.5.5}{M57SqrtT2 versus M58SqrtT2}{subsection.3.5}% 31
-\BOOKMARK [2][-]{subsection.3.6}{Summary of Results}{section.3}% 32
-\BOOKMARK [1][-]{section.4}{Discussion}{}% 33
-\BOOKMARK [2][-]{subsection.4.1}{Discussion on Reference models}{section.4}% 34
-\BOOKMARK [2][-]{subsection.4.2}{Fault Alternation}{section.4}% 35
-\BOOKMARK [3][-]{subsubsection.4.2.1}{Trade-off between bending and weakening}{subsection.4.2}% 36
-\BOOKMARK [3][-]{subsubsection.4.2.2}{Alternating on conjugate plate}{subsection.4.2}% 37
-\BOOKMARK [3][-]{subsubsection.4.2.3}{Secondary near-axis normal fault}{subsection.4.2}% 38
-\BOOKMARK [3][-]{subsubsection.4.2.4}{Effect of along ridge-axis coupling}{subsection.4.2}% 39
-\BOOKMARK [2][-]{subsection.4.3}{Corrugations}{section.4}% 40
-\BOOKMARK [3][-]{subsubsection.4.3.1}{Wavelength of corrugations}{subsection.4.3}% 41
-\BOOKMARK [2][-]{subsection.4.4}{Influence of healing}{section.4}% 42
-\BOOKMARK [2][-]{subsection.4.5}{Comparing model results with nature observation}{section.4}% 43
-\BOOKMARK [3][-]{subsubsection.4.5.1}{Cut back at 13N Mid-Atlantic Ridge \(M28SqrtT1\)}{subsection.4.5}% 44
-\BOOKMARK [3][-]{subsubsection.4.5.2}{Double dome at 23N Mid-Atlantic Ridge \(Kane Megamullions\) \(Several models\)}{subsection.4.5}% 45
-\BOOKMARK [3][-]{subsubsection.4.5.3}{Atlantis Massif Shape at 30N Mid-Atlantic Ridge \(\)}{subsection.4.5}% 46
-\BOOKMARK [3][-]{subsubsection.4.5.4}{Shear low}{subsection.4.5}% 47
-\BOOKMARK [3][-]{subsubsection.4.5.5}{Corrugations}{subsection.4.5}% 48
-\BOOKMARK [2][-]{subsection.4.6}{Model Limitation}{section.4}% 49
-\BOOKMARK [3][-]{subsubsection.4.6.1}{Fixed thermal structure effects and justification}{subsection.4.6}% 50
-\BOOKMARK [2][-]{subsection.4.7}{Recommendation for Future Research}{section.4}% 51
-\BOOKMARK [1][-]{section*.57}{Bibliography}{}% 53
+\BOOKMARK [1][-]{section.4}{Discussion}{}% 32
+\BOOKMARK [2][-]{subsection.4.1}{Summary of Results}{section.4}% 33
+\BOOKMARK [2][-]{subsection.4.2}{Fault Alternation}{section.4}% 34
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Trade-off between bending and weakening}{subsection.4.2}% 35
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Alternating on conjugate plate}{subsection.4.2}% 36
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Secondary near-axis normal fault}{subsection.4.2}% 37
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Effect of along ridge-axis coupling}{subsection.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.3}{Corrugations}{section.4}% 39
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Wavelength of corrugations}{subsection.4.3}% 40
+\BOOKMARK [2][-]{subsection.4.4}{Influence of healing}{section.4}% 41
+\BOOKMARK [2][-]{subsection.4.5}{Comparing model results with nature observation}{section.4}% 42
+\BOOKMARK [3][-]{subsubsection.4.5.1}{Cut back at 13N Mid-Atlantic Ridge \(M28SqrtT1\)}{subsection.4.5}% 43
+\BOOKMARK [3][-]{subsubsection.4.5.2}{Double dome at 23N Mid-Atlantic Ridge \(Kane Megamullions\) \(Several models\)}{subsection.4.5}% 44
+\BOOKMARK [3][-]{subsubsection.4.5.3}{Atlantis Massif Shape at 30N Mid-Atlantic Ridge \(\)}{subsection.4.5}% 45
+\BOOKMARK [3][-]{subsubsection.4.5.4}{Shear low}{subsection.4.5}% 46
+\BOOKMARK [3][-]{subsubsection.4.5.5}{Corrugations}{subsection.4.5}% 47
+\BOOKMARK [2][-]{subsection.4.6}{Model Limitation}{section.4}% 48
+\BOOKMARK [3][-]{subsubsection.4.6.1}{Fixed thermal structure effects and justification}{subsection.4.6}% 49
+\BOOKMARK [2][-]{subsection.4.7}{Recommendation for Future Research}{section.4}% 50
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 51
+\BOOKMARK [1][-]{section*.69}{Bibliography}{}% 52
