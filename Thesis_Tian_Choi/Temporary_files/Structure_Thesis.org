@@ -1,3 +1,4 @@
+* Abstract
 * Introduction
 ** Review of Literature
 *** TODO clarify and draw mindmap for relation between the four factors for controlling the topography. Find original refs for each relationship.
@@ -45,16 +46,20 @@ mostly refer to fast spreading ridges. But trough inside the median valley make 
 **** Corrugation due to anastomosing
 **** Corrugation due to asynchronous in faulting
 
-
 ** Effects of the functional forms of M variation
 ** Effects of the weakening rate
 ** Effects of the range of M variation
 * Discussion (Can include many logical reasoning and discussion on the results with including other people work and your reasoning)
 ** Summary of Results
 ** Comparing model results with nature observation
+*** Location of termination
+*** Geometry of trough
+*** Inward fault jump
+*** Fault Alternation
 *** Cut-back
-*** Corrugations
-** Difference between 3D and 2D previous studies
+*** Hourglass shape of median valley
+*** Corrugations and mullion structures
+** Difference between 3D and 2D previous studies (withhold)
 *** 2D cannot produce corrugation
 *** 2D cannot produce cut-back (think about the along ridge effect that is essential for cut-back)
 *** range of M allowing OCC formation is increased, 

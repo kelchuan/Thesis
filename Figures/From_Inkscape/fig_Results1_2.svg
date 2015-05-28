@@ -29,13 +29,13 @@
      inkscape:window-height="755"
      id="namedview3006"
      showgrid="false"
-     inkscape:zoom="1.0987799"
+     inkscape:zoom="1.5539094"
      inkscape:cx="152.26695"
-     inkscape:cy="214.02054"
+     inkscape:cy="184.27628"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g3012" /><metadata
+     inkscape:current-layer="g3094" /><metadata
      id="metadata3010"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -301,56 +301,59 @@
 </g><g
          id="g3094"
          transform="scale(10,10)"><text
-           transform="matrix(1,0,0,-1,16.066,225.242)"
-           id="text3096"><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="0 8.8576 19.9552 29.056"
-             y="0"
+           transform="scale(1,-1)"
+           id="text3096"
+           x="1.6507455"
+           y="-241.71657"
+           style="font-size:14.39999962px;fill:#ffff00"><tspan
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
              sodipodi:role="line"
-             id="tspan3098">Z=20</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="0 12.1344 23.232 32.3328 36.9536"
-             y="16"
+             id="tspan3098"
+             x="1.6507455"
+             y="-241.71657" /><tspan
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
+             x="1.6507455 1.6507455 13.785146 24.882746 33.983547 38.604347"
+             y="-225.71657"
              sodipodi:role="line"
-             id="tspan3100">M=0.8</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="0 8.8576 19.9552"
-             y="160"
+             id="tspan3100">M =0.8</tspan><tspan
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
              sodipodi:role="line"
-             id="tspan3102">Z=0</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="0 12.1344 23.232 32.3328 36.9536"
-             y="176"
+             id="tspan3102"
+             x="1.6507455"
+             y="-145.71657" /><tspan
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
+             x="1.6507455 13.785146 24.882746 33.983547 38.604347"
+             y="-65.716576"
              sodipodi:role="line"
              id="tspan3104">M=0.2</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="-0.628516 8.229084 19.326684 28.427484"
-             y="40"
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
              sodipodi:role="line"
-             id="tspan3106">Z=15</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="-0.628516 11.505884 22.603484 31.704284 36.325084 45.425884"
-             y="56"
+             id="tspan3106"
+             x="1.6507455"
+             y="0" /><tspan
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
+             x="1.0222294 13.15663 24.254229 33.35503 37.97583 47.07663"
+             y="-185.71657"
              sodipodi:role="line"
              id="tspan3108">M=0.65</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="0 8.8576 19.9552 29.056"
-             y="80"
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
              sodipodi:role="line"
-             id="tspan3110">Z=10</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="0 12.1344 23.232 32.3328 36.9536"
-             y="96"
+             id="tspan3110"
+             x="1.6507455"
+             y="0" /><tspan
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
+             x="1.6507455 13.785146 24.882746 33.983547 38.604347"
+             y="-145.71657"
              sodipodi:role="line"
              id="tspan3112">M=0.5</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="0 8.8576 19.9552"
-             y="120"
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
              sodipodi:role="line"
-             id="tspan3114">Z=5</tspan><tspan
-             style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;font-variant:normal;font-weight:bold;font-size:12.8;writing-mode:lr;-inkscape-font-specification:Verdana-Bold"
-             x="0 12.1344 23.232 32.3328 36.9536 46.0544"
-             y="136"
+             id="tspan3114"
+             x="1.6507455"
+             y="0" /><tspan
+             style="font-size:14.39999962px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana-Bold"
+             x="1.6507455 13.785146 24.882746 33.983547 38.604347 47.705147"
+             y="-105.71658"
              sodipodi:role="line"
              id="tspan3116">M=0.35</tspan></text>
 </g><path

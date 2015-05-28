@@ -1,4 +1,4 @@
-\begin{thebibliography}{17}
+\begin{thebibliography}{32}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -14,12 +14,52 @@ G.~Baines, M.~J. Cheadle, B.~E. John, and J.~J. Schwartz.
 \newblock ISSN 0012821X.
 \newblock \doi{10.1016/j.epsl.2008.06.013}.
 
+\bibitem[Behn et~al.(2006)Behn, Buck, and Sacks]{Behn2006}
+M.~Behn, W.~Buck, and I.~Sacks.
+\newblock Topographic controls on dike injection in volcanic rift zones.
+\newblock \emph{Earth and Planetary Science Letters}, 246\penalty0
+  (3-4):\penalty0 188--196, June 2006.
+\newblock \doi{10.1016/j.epsl.2006.04.005}.
+
+\bibitem[Behn and Ito(2008)]{Behn2008}
+M.~D. Behn and G.~Ito.
+\newblock Magmatic and tectonic extension at mid-ocean ridges: 1. controls on
+  fault characteristics.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 9\penalty0 (8):\penalty0
+  n/a--n/a, Aug. 2008.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2008GC001965}.
+
+\bibitem[Blackman et~al.(2002)Blackman, Karson, and Kelley]{Blackman2004}
+D.~Blackman, J.~Karson, and D.~Kelley.
+\newblock Geology of the atlantis massif (mid-atlantic ridge, 30 n):
+  Implications for the evolution of an ultramafic oceanic core complex.
+\newblock \emph{Marine Geophysical \ldots}, 2002.
+
+\bibitem[Blackman et~al.(2009)Blackman, Canales, and Harding]{Blackman2009}
+D.~K. Blackman, J.~P. Canales, and A.~Harding.
+\newblock Geophysical signatures of oceanic core complexes.
+\newblock \emph{Geophysical Journal International}, 178\penalty0 (2):\penalty0
+  593--613, 2009.
+\newblock ISSN 0956540X.
+\newblock \doi{10.1111/j.1365-246X.2009.04184.x}.
+
 \bibitem[Buck et~al.(2005)Buck, Lavier, and Poliakov]{Buck2005}
 R.~Buck, L.~Lavier, and A.~Poliakov.
 \newblock Modes of faulting at mid-ocean ridges.
 \newblock \emph{Nature}, 434\penalty0 (7034):\penalty0 719--23, 2005.
 \newblock ISSN 1476-4687.
 \newblock \doi{10.1038/nature03358}.
+
+\bibitem[Canales et~al.(2008)Canales, Tucholke, Xu, Collins, and
+  DuBois]{Canales2008}
+J.~P. Canales, B.~E. Tucholke, M.~Xu, J.~a. Collins, and D.~L. DuBois.
+\newblock Seismic evidence for large-scale compositional heterogeneity of
+  oceanic core complexes.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 9\penalty0 (8):\penalty0
+  n/a--n/a, Aug. 2008.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2008GC002009}.
 
 \bibitem[Carbotte et~al.(2015)Carbotte, Smith, Cannat, and Klein]{Carbotte2015}
 S.~M. Carbotte, D.~K. Smith, M.~Cannat, and E.~M. Klein.
@@ -43,10 +83,50 @@ E.~Choi, L.~Lavier, and M.~Gurnis.
 \newblock ISSN 00319201.
 \newblock \doi{10.1016/j.pepi.2008.08.010}.
 
+\bibitem[Dannowski et~al.(2010)Dannowski, Grevemeyer, Ranero, Ceuleneer, Maia,
+  Morgan, and Gente]{Dannowski2010}
+A.~Dannowski, I.~Grevemeyer, C.~R. Ranero, G.~Ceuleneer, M.~Maia, J.~P. Morgan,
+  and P.~Gente.
+\newblock Seismic structure of an oceanic core complex at the mid-atlantic
+  ridge, 22 $\degree$ 19$'$n.
+\newblock \emph{Journal of Geophysical Research}, 115\penalty0 (B7):\penalty0
+  B07106, July 2010.
+\newblock ISSN 0148-0227.
+\newblock \doi{10.1029/2009JB006943}.
+
+\bibitem[Dick et~al.(2008)Dick, Tivey, and Tucholke]{Dick2008}
+H.~J.~B. Dick, M.~a. Tivey, and B.~E. Tucholke.
+\newblock Plutonic foundation of a slow-spreading ridge segment: Oceanic core
+  complex at kane megamullion, 23 $\degree$30$'$n, 45 $\degree$20$'$w.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 9\penalty0 (5):\penalty0
+  n/a--n/a, May 2008.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2007GC001645}.
+
+\bibitem[Escart\'{\i}n et~al.(2008)Escart\'{\i}n, Smith, Cann, Schouten,
+  Langmuir, and Escrig]{Escartin2008}
+J.~Escart\'{\i}n, D.~K. Smith, J.~Cann, H.~Schouten, C.~H. Langmuir, and
+  S.~Escrig.
+\newblock Central role of detachment faults in accretion of slow-spreading
+  oceanic lithosphere.
+\newblock \emph{Nature}, 455\penalty0 (7214):\penalty0 790--794, 2008.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/nature07333}.
+
 \bibitem[Fowler(2004)]{Fowler2004}
 C.~M.~R. Fowler.
 \newblock \emph{The solid earth: an introduction to global geophysics}.
 \newblock Cambridge University Press, 2004.
+
+\bibitem[Ito and Behn(2008)]{Ito2008}
+G.~Ito and M.~D. Behn.
+\newblock Magmatic and tectonic extension at mid-ocean ridges: 2. origin of
+  axial morphology.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 9\penalty0 (9):\penalty0
+  n/a--n/a, Sept. 2008.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2008GC001970}.
+\newblock URL \url{http://doi.wiley.com/10.1029/2008GC001970}.
 
 \bibitem[Kirby and Kronenberg(1987)]{Kirby1987}
 S.~Kirby and A.~K. Kronenberg.
@@ -69,6 +149,15 @@ J.~Lin, G.~M. Purdy, H.~Schouten, J.-C. Sempere, and C.~Zervas.
 \newblock ISSN 0028-0836.
 \newblock \doi{10.1038/344627a0}.
 
+\bibitem[Mallows and Searle(2012)]{Mallows2012}
+C.~Mallows and R.~C. Searle.
+\newblock A geophysical study of oceanic core complexes and surrounding
+  terrain, mid-atlantic ridge 13 $\degree$n-14 $\degree$n.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 13\penalty0
+  (6):\penalty0 n/a--n/a, June 2012.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2012GC004075}.
+
 \bibitem[Olive et~al.(2010)Olive, Behn, and Tucholke]{Olive2010}
 J.-A. Olive, M.~D. Behn, and B.~E. Tucholke.
 \newblock The structure of oceanic core complexes controlled by the depth
@@ -84,6 +173,22 @@ J.-a. Olive, M.~D. Behn, and L.~C. Malatesta.
 \newblock \emph{Geochemistry Geophysics Geosystems}, pages 1--9, 2014.
 \newblock \doi{10.1002/2014GL061507}.
 
+\bibitem[Reston and McDermott(2011)]{Reston2011b}
+T.~J. Reston and K.~G. McDermott.
+\newblock Successive detachment faults and mantle unroofing at magma-poor
+  rifted margins.
+\newblock \emph{Geology}, 39\penalty0 (11):\penalty0 1071--1074, Oct. 2011.
+\newblock ISSN 0091-7613.
+\newblock \doi{10.1130/G32428.1}.
+
+\bibitem[Reston and Ranero(2011)]{Reston2011a}
+T.~J. Reston and C.~R. Ranero.
+\newblock The 3-d geometry of detachment faulting at mid-ocean ridges.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 12\penalty0
+  (7):\penalty0 n/a--n/a, July 2011.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2011GC003666}.
+
 \bibitem[Ryan et~al.(2009)Ryan, Carbotte, Coplan, O'Hara, Melkonian, Arko,
   Weissel, Ferrini, Goodwillie, Nitsche, Bonczkowski, and Zemsky]{Ryan2009}
 W.~B.~F. Ryan, S.~M. Carbotte, J.~O. Coplan, S.~O'Hara, A.~Melkonian, R.~Arko,
@@ -93,6 +198,15 @@ W.~B.~F. Ryan, S.~M. Carbotte, J.~O. Coplan, S.~O'Hara, A.~Melkonian, R.~Arko,
 \newblock \emph{Geochemistry, Geophysics, Geosystems}, 10, 2009.
 \newblock ISSN 15252027.
 \newblock \doi{10.1029/2008GC002332}.
+
+\bibitem[Schouten et~al.(2010)Schouten, Smith, Cann, and
+  Escartin]{Schouten2010}
+H.~Schouten, D.~K. Smith, J.~R. Cann, and J.~Escartin.
+\newblock Tectonic versus magmatic extension in the presence of core complexes
+  at slow-spreading ridges from a visualization of faulted seafloor topography.
+\newblock \emph{Geology}, 38\penalty0 (7):\penalty0 615--618, June 2010.
+\newblock ISSN 0091-7613.
+\newblock \doi{10.1130/G30803.1}.
 
 \bibitem[Smith et~al.(2014)Smith, Schouten, Dick, Cann, Salters, Marschall, Ji,
   Yoerger, Sanfilippo, Parnell-turner, Palmiotto, Zheleznov, Bai, Junkin,
@@ -113,6 +227,21 @@ M.~Tolstoy, A.~J. Harding, and J.~A. Orcutt.
 \newblock \emph{Science}, 262\penalty0 (October):\penalty0 726--729, 1993.
 \newblock ISSN 0036-8075.
 \newblock \doi{10.1126/science.262.5134.726}.
+
+\bibitem[Tucholke and Lin(1994)]{Tucholke1994}
+B.~E. Tucholke and J.~Lin.
+\newblock A geological model for the structure of ridge segments in slow
+  spreading ocean crust.
+\newblock \emph{Journal of Geophysical Research}, 99\penalty0 (B6):\penalty0
+  11937, 1994.
+\newblock ISSN 0148-0227.
+\newblock \doi{10.1029/94JB00338}.
+
+\bibitem[Tucholke et~al.(1998)Tucholke, Lin, and Kleinrock]{Tucholke1998}
+B.~E. Tucholke, J.~Lin, and M.~C. Kleinrock.
+\newblock Megamullions and mullion structure defining oceanic metamorphic core
+  complexes on the mid-atlantic ridge, 1998.
+\newblock ISSN 0148-0227.
 
 \bibitem[Tucholke et~al.(2008)Tucholke, Behn, Buck, and Lin]{Tucholke2008}
 B.~E. Tucholke, M.~D. Behn, W.~R. Buck, and J.~Lin.

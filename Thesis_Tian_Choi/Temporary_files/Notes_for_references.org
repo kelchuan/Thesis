@@ -1,0 +1,7 @@
+*
+** for Kane megamullion
+*** Dick2008
+**** Fig2 
+- 1 :: shows distance between breakaway and termination at the low M side (near transform) larger than high M side. 
+- 2 :: Mullion structure created by trace of termination 
+*** 
