@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-308.21429"
-     inkscape:cy="870.85395"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="499.90775"
+     inkscape:cy="790.04175"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -267,52 +267,52 @@
     <text
        transform="matrix(0.99556359,0.12755151,-0.1285294,0.987989,0,0)"
        xml:space="preserve"
-       style="font-size:95.84217071999999860px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="217.86186"
-       y="-293.10403"
+       style="font-size:95.84217072px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="392.99692"
+       y="-136.97432"
        id="text4930"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4932"
-         x="217.86186"
-         y="-293.10403">X</tspan></text>
+         x="392.99692"
+         y="-136.97432">X</tspan></text>
     <text
        transform="matrix(0.99556359,0.12755151,-0.1285294,0.987989,0,0)"
        xml:space="preserve"
        style="font-size:95.84217072px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="464.67471"
-       y="-102.53856"
+       x="553.48804"
+       y="-348.24658"
        id="text4930-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4932-0"
-         x="464.67471"
-         y="-102.53856">Y</tspan></text>
+         x="553.48804"
+         y="-348.24658">Y</tspan></text>
     <text
        transform="matrix(0.99556359,0.12755151,-0.1285294,0.987989,0,0)"
        xml:space="preserve"
-       style="font-size:95.84217071999999860px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="309.08902"
-       y="-442.28647"
+       style="font-size:95.84217072px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="388.79581"
+       y="-247.25351"
        id="text4930-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4932-2"
-         x="309.08902"
-         y="-442.28647">Z</tspan></text>
+         x="388.79581"
+         y="-247.25351">Z</tspan></text>
     <path
-       style="stroke-linejoin:miter;marker-end:url(#Arrow1Mend1Q);stroke-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:10;fill:#000000"
-       d="M 594.70236,-273.01556 428.21367,-371.46454"
+       style="fill:#000000;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend1Q)"
+       d="M 648.98807,-70.158417 482.49938,-168.6074"
        id="path3050-7"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend1Q)"
-       d="m 588.93213,-271.0621 -193.08911,11.28259"
+       d="m 643.21784,-68.204957 -193.08911,11.28259"
        id="path3050-7-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend1Q)"
-       d="m 594.1706,-272.18872 -19.601,192.422702"
+       d="m 649.98652,-66.603217 19.601,-192.422703"
        id="path3050-7-2-7"
        inkscape:connector-curvature="0" />
     <text

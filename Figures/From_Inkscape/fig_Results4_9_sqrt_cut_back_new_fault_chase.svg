@@ -167,7 +167,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-157.69553"
+     inkscape:cx="482.30447"
      inkscape:cy="400.58875"
      inkscape:current-layer="layer1"
      id="namedview3262"
@@ -285,38 +285,38 @@
          y="329.04742">500kyr</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
-       d="m 873.58999,167.06092 -46.9128,0"
+       d="m 825.67719,165.06092 46.9128,0"
        id="path4456"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
-       d="m 872.2102,165.68143 0,44.14389"
+       d="m 826.2102,166.68143 0,44.14389"
        id="path4640"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:17.6051712px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="808.65454"
-       y="172.59712"
+       x="863.64874"
+       y="183.59828"
        id="text4824"
        sodipodi:linespacing="125%"
        transform="scale(1.0001056,0.99989441)"><tspan
          sodipodi:role="line"
          id="tspan4826"
-         x="808.65454"
-         y="172.59712">X</tspan></text>
+         x="863.64874"
+         y="183.59828">X</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.6051712px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="866.59949"
-       y="227.78282"
+       x="832.60309"
+       y="214.78145"
        id="text4828"
        sodipodi:linespacing="125%"
        transform="scale(1.0001056,0.99989441)"><tspan
          sodipodi:role="line"
          id="tspan4830"
-         x="866.59949"
-         y="227.78282">Z</tspan></text>
+         x="832.60309"
+         y="214.78145">Z</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"

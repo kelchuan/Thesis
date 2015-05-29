@@ -7,64 +7,64 @@
 \contentsline {subsection}{\numberline {2.1}Method of approach}{7}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Model Setup}{8}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Parameters to control}{9}{subsection.2.3}
-\contentsline {section}{\numberline {3}Results}{14}{section.3}
-\contentsline {subsection}{\numberline {3.1}Reference model M28LinT1}{14}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Constant M model M88ConT2}{18}{subsubsection.3.1.1}
-\contentsline {subsection}{\numberline {3.2}Main characteristics of the models}{19}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Location of \annote [EC]{termination}{I think ``fault trace'' is what you mean.}}{20}{changenumber.19.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Geometry of axial trough}{21}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Inward fault jump}{21}{subsubsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.4}Fault alternation}{21}{subsubsection.3.2.4}
-\contentsline {subsubsection}{\numberline {3.2.5}Cut-back}{22}{subsubsection.3.2.5}
-\contentsline {subsubsection}{\numberline {3.2.6}Hourglass-shaped median valley}{24}{subsubsection.3.2.6}
-\contentsline {subsubsection}{\numberline {3.2.7}Corrugations and mullion structures}{27}{subsubsection.3.2.7}
-\contentsline {paragraph}{Corrugations}{27}{figure.caption.29}
-\contentsline {paragraph}{Corrugations}{27}{section*.30}
-\contentsline {paragraph}{Mullion structures}{28}{figure.caption.32}
-\contentsline {subsection}{\numberline {3.3}Effects of the functional forms of M variation}{29}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}M28(Lin, Sin, Sqrt)T1}{29}{subsubsection.3.3.1}
-\contentsline {paragraph}{Inward fault jump}{30}{section*.34}
-\contentsline {paragraph}{Cut-back}{31}{figure.caption.37}
-\contentsline {paragraph}{Hourglass shape median valley}{31}{section*.38}
-\contentsline {subsubsection}{\numberline {3.3.2}M58(Lin,Sin,Sqrt)T2}{32}{subsubsection.3.3.2}
-\contentsline {subsection}{\numberline {3.4}Effects of the weakening rate}{33}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}M57SinT1 versus M57SinT2}{33}{subsubsection.3.4.1}
-\contentsline {paragraph}{M57SinT1}{34}{section*.43}
-\contentsline {paragraph}{M57SinT2}{35}{section*.45}
-\contentsline {subsubsection}{\numberline {3.4.2}M58SinT1 versus M58SinT2}{36}{subsubsection.3.4.2}
-\contentsline {paragraph}{M58SinT1}{36}{figure.caption.48}
-\contentsline {paragraph}{M58SinT2}{39}{figure.caption.51}
-\contentsline {subsubsection}{\numberline {3.4.3}M58SqrtT1 versus M58SqrtT2}{40}{subsubsection.3.4.3}
-\contentsline {paragraph}{M58SqrtT1}{40}{figure.caption.53}
-\contentsline {paragraph}{M58SqrtT2}{42}{figure.caption.55}
-\contentsline {subsection}{\numberline {3.5}Effects of the range of M variation}{42}{subsection.3.5}
-\contentsline {subsubsection}{\numberline {3.5.1}(M28 M57 M58)SinT1}{43}{subsubsection.3.5.1}
-\contentsline {paragraph}{M57SinT1 versus M58SinT1}{43}{section*.56}
-\contentsline {paragraph}{M28SinT1}{43}{figure.caption.58}
-\contentsline {subsubsection}{\numberline {3.5.2}M57SinT2 versus M58SinT2}{44}{subsubsection.3.5.2}
-\contentsline {subsubsection}{\numberline {3.5.3}M28LinT1 versus M57LinT1}{44}{subsubsection.3.5.3}
-\contentsline {paragraph}{M57LinT1}{44}{figure.caption.60}
-\contentsline {subsubsection}{\numberline {3.5.4}M28SqrtT1 versus M58SqrtT1}{46}{subsubsection.3.5.4}
-\contentsline {subsubsection}{\numberline {3.5.5}M57SqrtT2 versus M58SqrtT2}{46}{subsubsection.3.5.5}
-\contentsline {paragraph}{M57SqrtT2}{46}{figure.caption.62}
-\contentsline {section}{\numberline {4}Discussion}{48}{section.4}
-\contentsline {subsection}{\numberline {4.1}Summary of Results}{48}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Fault Alternation}{50}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Trade-off between bending and weakening}{50}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Alternating on conjugate plate}{52}{subsubsection.4.2.2}
-\contentsline {subsubsection}{\numberline {4.2.3}Secondary near-axis normal fault}{52}{subsubsection.4.2.3}
-\contentsline {subsubsection}{\numberline {4.2.4}Effect of along ridge-axis coupling}{52}{subsubsection.4.2.4}
-\contentsline {subsection}{\numberline {4.3}Corrugations}{53}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Wavelength of corrugations}{53}{subsubsection.4.3.1}
-\contentsline {subsection}{\numberline {4.4}Influence of healing}{53}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Comparing model results with nature observation}{53}{subsection.4.5}
-\contentsline {subsubsection}{\numberline {4.5.1}Cut back at 13$\ensuremath {^\circ }$N Mid-Atlantic Ridge (M28SqrtT1)}{53}{subsubsection.4.5.1}
-\contentsline {subsubsection}{\numberline {4.5.2}Double dome at 23$\ensuremath {^\circ }$N Mid-Atlantic Ridge (Kane Megamullions) (Several models)}{54}{subsubsection.4.5.2}
-\contentsline {subsubsection}{\numberline {4.5.3}Atlantis Massif Shape at 30$\ensuremath {^\circ }$N Mid-Atlantic Ridge ()}{54}{subsubsection.4.5.3}
-\contentsline {subsubsection}{\numberline {4.5.4}Shear low}{54}{subsubsection.4.5.4}
-\contentsline {subsubsection}{\numberline {4.5.5}Corrugations}{54}{subsubsection.4.5.5}
-\contentsline {subsection}{\numberline {4.6}Model Limitation}{54}{subsection.4.6}
-\contentsline {subsubsection}{\numberline {4.6.1}Fixed thermal structure effects and justification}{54}{subsubsection.4.6.1}
-\contentsline {subsection}{\numberline {4.7}Recommendation for Future Research}{55}{subsection.4.7}
-\contentsline {section}{\numberline {5}Conclusions}{56}{section.5}
-\contentsline {section}{Bibliography}{57}{section*.70}
+\contentsline {section}{\numberline {3}Results}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}Reference model M28LinT1}{13}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Constant M model M88ConT2}{17}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Main characteristics of the models}{18}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Location of \annote [EC]{termination}{I think ``fault trace'' is what you mean.}}{18}{changenumber.18.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Geometry of axial trough}{19}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Inward fault jump}{20}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Fault alternation}{20}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Cut-back}{21}{subsubsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.6}Hourglass-shaped median valley}{23}{subsubsection.3.2.6}
+\contentsline {subsubsection}{\numberline {3.2.7}Corrugations and mullion structures}{25}{subsubsection.3.2.7}
+\contentsline {paragraph}{Corrugations}{26}{figure.caption.29}
+\contentsline {paragraph}{Corrugations}{26}{section*.30}
+\contentsline {paragraph}{Mullion structures}{27}{figure.caption.32}
+\contentsline {subsection}{\numberline {3.3}Effects of the functional forms of M variation}{28}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}M28(Lin, Sin, Sqrt)T1}{28}{subsubsection.3.3.1}
+\contentsline {paragraph}{Inward fault jump}{28}{section*.34}
+\contentsline {paragraph}{Cut-back}{29}{figure.caption.37}
+\contentsline {paragraph}{Hourglass shape median valley}{30}{section*.38}
+\contentsline {subsubsection}{\numberline {3.3.2}M58(Lin,Sin,Sqrt)T2}{31}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Effects of the weakening rate}{32}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}M57SinT1 versus M57SinT2}{32}{subsubsection.3.4.1}
+\contentsline {paragraph}{M57SinT1}{33}{section*.43}
+\contentsline {paragraph}{M57SinT2}{34}{section*.45}
+\contentsline {subsubsection}{\numberline {3.4.2}M58SinT1 versus M58SinT2}{35}{subsubsection.3.4.2}
+\contentsline {paragraph}{M58SinT1}{35}{figure.caption.48}
+\contentsline {paragraph}{M58SinT2}{38}{figure.caption.51}
+\contentsline {subsubsection}{\numberline {3.4.3}M58SqrtT1 versus M58SqrtT2}{39}{subsubsection.3.4.3}
+\contentsline {paragraph}{M58SqrtT1}{39}{figure.caption.53}
+\contentsline {paragraph}{M58SqrtT2}{40}{figure.caption.55}
+\contentsline {subsection}{\numberline {3.5}Effects of the range of M variation}{41}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}(M28 M57 M58)SinT1}{41}{subsubsection.3.5.1}
+\contentsline {paragraph}{M57SinT1 versus M58SinT1}{41}{section*.56}
+\contentsline {paragraph}{M28SinT1}{42}{figure.caption.58}
+\contentsline {subsubsection}{\numberline {3.5.2}M57SinT2 versus M58SinT2}{43}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}M28LinT1 versus M57LinT1}{43}{subsubsection.3.5.3}
+\contentsline {paragraph}{M57LinT1}{43}{figure.caption.60}
+\contentsline {subsubsection}{\numberline {3.5.4}M28SqrtT1 versus M58SqrtT1}{44}{subsubsection.3.5.4}
+\contentsline {subsubsection}{\numberline {3.5.5}M57SqrtT2 versus M58SqrtT2}{45}{subsubsection.3.5.5}
+\contentsline {paragraph}{M57SqrtT2}{45}{figure.caption.62}
+\contentsline {section}{\numberline {4}Discussion}{47}{section.4}
+\contentsline {subsection}{\numberline {4.1}Summary of Results}{47}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Fault Alternation}{49}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Trade-off between bending and weakening}{49}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Alternating on conjugate plate}{51}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Secondary near-axis normal fault}{51}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Effect of along ridge-axis coupling}{51}{subsubsection.4.2.4}
+\contentsline {subsection}{\numberline {4.3}Corrugations}{52}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Wavelength of corrugations}{52}{subsubsection.4.3.1}
+\contentsline {subsection}{\numberline {4.4}Influence of healing}{52}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Comparing model results with nature observation}{52}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Cut back at 13$\ensuremath {^\circ }$N Mid-Atlantic Ridge (M28SqrtT1)}{52}{subsubsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.5.2}Double dome at 23$\ensuremath {^\circ }$N Mid-Atlantic Ridge (Kane Megamullions) (Several models)}{53}{subsubsection.4.5.2}
+\contentsline {subsubsection}{\numberline {4.5.3}Atlantis Massif Shape at 30$\ensuremath {^\circ }$N Mid-Atlantic Ridge ()}{53}{subsubsection.4.5.3}
+\contentsline {subsubsection}{\numberline {4.5.4}Shear low}{53}{subsubsection.4.5.4}
+\contentsline {subsubsection}{\numberline {4.5.5}Corrugations}{53}{subsubsection.4.5.5}
+\contentsline {subsection}{\numberline {4.6}Model Limitation}{53}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Fixed thermal structure effects and justification}{53}{subsubsection.4.6.1}
+\contentsline {subsection}{\numberline {4.7}Recommendation for Future Research}{54}{subsection.4.7}
+\contentsline {section}{\numberline {5}Conclusions}{55}{section.5}
+\contentsline {section}{Bibliography}{56}{section*.70}
