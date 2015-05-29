@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  28 MAY 2015 23:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 MAY 2015 02:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1172,9 +1172,9 @@ arked by green bold line)
  []
 
 
-Overfull \hbox (7.83295pt too wide) in paragraph at lines 9--9
- \OT1/ptm/m/n/12 and de-pressed nar-row zone (``ax-ial trough'') along the ridg
-e axis (red dashed 
+Overfull \hbox (2.50502pt too wide) in paragraph at lines 9--9
+ \OT1/ptm/m/n/12 and de-pressed nar-row zone (``trough'') along the ridge axis 
+(red dashed line 
  []
 
 [14
@@ -1384,14 +1384,14 @@ ut back for-ma-tion
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 
-<./Figures/fig_Intro1_1.png, id=617, 1491.5725pt x 1148.29pt>
+<./Figures/fig_Intro1_1.png, id=616, 1491.5725pt x 1148.29pt>
 File: ./Figures/fig_Intro1_1.png Graphic file (type png)
 
 <use ./Figures/fig_Intro1_1.png>
 Package pdftex.def Info: ./Figures/fig_Intro1_1.png used on input line 18.
 (pdftex.def)             Requested size: 173.44865pt x 133.51361pt.
 
-<./Figures/fig_Intro1_3.png, id=618, 1262.7175pt x 937.5025pt>
+<./Figures/fig_Intro1_3.png, id=617, 1262.7175pt x 937.5025pt>
 File: ./Figures/fig_Intro1_3.png Graphic file (type png)
 
 <use ./Figures/fig_Intro1_3.png>
@@ -1401,7 +1401,7 @@ Package pdftex.def Info: ./Figures/fig_Intro1_3.png used on input line 24.
 
 
 ]
-<./Figures/fig_Intro2_1.png, id=643, 1905.1175pt x 676.5275pt>
+<./Figures/fig_Intro2_1.png, id=642, 1905.1175pt x 676.5275pt>
 File: ./Figures/fig_Intro2_1.png Graphic file (type png)
 
 <use ./Figures/fig_Intro2_1.png>
@@ -1413,7 +1413,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
 oss the Mid-Atlantic Ridge around 30$[]$N with ver-ti-cal
  []
 
-<./Figures/fig_Intro3_1.png, id=644, 606.265pt x 486.81876pt>
+<./Figures/fig_Intro3_1.png, id=643, 606.265pt x 486.81876pt>
 File: ./Figures/fig_Intro3_1.png Graphic file (type png)
 
 <use ./Figures/fig_Intro3_1.png>
@@ -1434,7 +1434,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--44
 
 [2 <./Figures/fig_Intro1_1.png> <./Figures/fig_Intro1_3.png> <./Figures/fig_Int
 ro2_1.png>] [3 <./Figures/fig_Intro3_1.png>]
-<./Figures/fig_Intro5_1.png, id=666, 412.54124pt x 344.28625pt>
+<./Figures/fig_Intro5_1.png, id=665, 412.54124pt x 344.28625pt>
 File: ./Figures/fig_Intro5_1.png Graphic file (type png)
 
 <use ./Figures/fig_Intro5_1.png>
@@ -1467,7 +1467,7 @@ ke2008-eps-converted-to.pdf ./Figures/fig_Intro_Tucholke2008.eps>
 (epstopdf)             \includegraphics on input line 77.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Intro_Tucholke2008-eps-converted-to.pdf, id=671, 1196.47pt x 825
+<./Figures/fig_Intro_Tucholke2008-eps-converted-to.pdf, id=670, 1196.47pt x 825
 .0825pt>
 File: ./Figures/fig_Intro_Tucholke2008-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -1534,7 +1534,7 @@ Overfull \hbox (8.80396pt too wide) in paragraph at lines 14--15
 changes, 
  []
 
-<./Figures/fig_Methods7_3.png, id=733, 1173.38374pt x 576.1525pt>
+<./Figures/fig_Methods7_3.png, id=732, 1173.38374pt x 576.1525pt>
 File: ./Figures/fig_Methods7_3.png Graphic file (type png)
 
 <use ./Figures/fig_Methods7_3.png>
@@ -1553,7 +1553,7 @@ l_Setup-eps-converted-to.pdf ./Figures/fig_Methods_Model_Setup.eps>
 (epstopdf)             \includegraphics on input line 34.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Methods_Model_Setup-eps-converted-to.pdf, id=752, 984.67876pt x 
+<./Figures/fig_Methods_Model_Setup-eps-converted-to.pdf, id=751, 984.67876pt x 
 441.65pt>
 File: ./Figures/fig_Methods_Model_Setup-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -1621,7 +1621,7 @@ ference_model-eps-converted-to.pdf ./Figures/fig_Results_1_reference_model.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_1_reference_model-eps-converted-to.pdf, id=806, 1805.746
+<./Figures/fig_Results_1_reference_model-eps-converted-to.pdf, id=805, 1805.746
 25pt x 745.78625pt>
 File: ./Figures/fig_Results_1_reference_model-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -1676,7 +1676,7 @@ ps-converted-to.pdf ./Figures/fig_Results1_4.eps>
 (epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results1_4-eps-converted-to.pdf, id=860, 583.17876pt x 424.58624
+<./Figures/fig_Results1_4-eps-converted-to.pdf, id=858, 583.17876pt x 424.58624
 pt>
 File: ./Figures/fig_Results1_4-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Figures/fig_Results1_4-eps-converted-to.pdf>
@@ -1691,18 +1691,18 @@ marked by green bold line) and
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 28--28
-\OT1/ptm/m/n/12 de-pressed nar-row zone (``ax-ial trough'') along the ridge axi
-s (red dashed line in (a)). This
+\OT1/ptm/m/n/12 de-pressed nar-row zone (``trough'') along the ridge axis (red 
+dashed line in (a)). This fig-ure
  []
 
 Package epstopdf Info: Source file: <./Figures/fig_Results4_8_sqrt_cut_back_ben
 ding_cartoon.eps>
-(epstopdf)                    date: 2015-05-28 23:14:19
-(epstopdf)                    size: 47342 bytes
+(epstopdf)                    date: 2015-05-29 00:15:25
+(epstopdf)                    size: 69083 bytes
 (epstopdf)             Output file: <./Figures/fig_Results4_8_sqrt_cut_back_ben
 ding_cartoon-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-05-28 23:14:39
-(epstopdf)                    size: 20503 bytes
+(epstopdf)                    date: 2015-05-29 00:15:33
+(epstopdf)                    size: 26769 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_8_s
 qrt_cut_back_bending_cartoon-eps-converted-to.pdf ./Figures/fig_Results4_8_sqrt
 _cut_back_bending_cartoon.eps>
@@ -1710,7 +1710,7 @@ _cut_back_bending_cartoon.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results4_8_sqrt_cut_back_bending_cartoon-eps-converted-to.pdf, i
-d=865, 271.0125pt x 149.55875pt>
+d=863, 263.98625pt x 146.5475pt>
 File: ./Figures/fig_Results4_8_sqrt_cut_back_bending_cartoon-eps-converted-to.p
 df Graphic file (type pdf)
 
@@ -1718,7 +1718,7 @@ df Graphic file (type pdf)
 f>
 Package pdftex.def Info: ./Figures/fig_Results4_8_sqrt_cut_back_bending_cartoon
 -eps-converted-to.pdf used on input line 34.
-(pdftex.def)             Requested size: 260.17465pt x 143.5839pt.
+(pdftex.def)             Requested size: 260.17465pt x 144.44067pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1735,20 +1735,20 @@ Package epstopdf Info: Source file: <./Figures/fig_Results_1_velocity_field.eps
 (epstopdf)                    size: 94946 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_1_ve
 locity_field-eps-converted-to.pdf ./Figures/fig_Results_1_velocity_field.eps>
-(epstopdf)             \includegraphics on input line 62.
+(epstopdf)             \includegraphics on input line 63.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_1_velocity_field-eps-converted-to.pdf, id=937, 442.65375
+<./Figures/fig_Results_1_velocity_field-eps-converted-to.pdf, id=939, 442.65375
 pt x 396.48125pt>
 File: ./Figures/fig_Results_1_velocity_field-eps-converted-to.pdf Graphic file 
 (type pdf)
 
 <use ./Figures/fig_Results_1_velocity_field-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_1_velocity_field-eps-converted-t
-o.pdf used on input line 62.
+o.pdf used on input line 63.
 (pdftex.def)             Requested size: 216.81pt x 194.19885pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
 []\OT1/ptm/m/n/12 Figure 11: |Bird's-eye view of ve-loc-ity field with plas-tic
  strain ploted with []$[]$[]opac[]-[]ity[] [why
  []
@@ -1762,15 +1762,15 @@ to.pdf>
 (epstopdf)                    size: 57699 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_1_Sx
 z-eps-converted-to.pdf ./Figures/fig_Results_1_Sxz.eps>
-(epstopdf)             \includegraphics on input line 69.
+(epstopdf)             \includegraphics on input line 70.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_1_Sxz-eps-converted-to.pdf, id=942, 514.92375pt x 186.69
+<./Figures/fig_Results_1_Sxz-eps-converted-to.pdf, id=944, 514.92375pt x 186.69
 75pt>
 File: ./Figures/fig_Results_1_Sxz-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Figures/fig_Results_1_Sxz-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_1_Sxz-eps-converted-to.pdf used 
-on input line 69.
+on input line 70.
 (pdftex.def)             Requested size: 346.89732pt x 125.77892pt.
 
 
@@ -1786,37 +1786,32 @@ pdf>
 (epstopdf)                    size: 179156 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results1_3-e
 ps-converted-to.pdf ./Figures/fig_Results1_3.eps>
-(epstopdf)             \includegraphics on input line 81.
+(epstopdf)             \includegraphics on input line 83.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results1_3-eps-converted-to.pdf, id=962, 845.1575pt x 296.10625p
+<./Figures/fig_Results1_3-eps-converted-to.pdf, id=966, 845.1575pt x 296.10625p
 t>
 File: ./Figures/fig_Results1_3-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Figures/fig_Results1_3-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results1_3-eps-converted-to.pdf used on 
-input line 81.
+input line 83.
 (pdftex.def)             Requested size: 433.62001pt x 151.92485pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []\OT1/ptm/m/n/12 Figure 13: |Evo-lu-tion of plas-tic strain and sur-face to-po
 g-ra-phy of the model: M88ConT2
  []
 
-[17 <./Figures/fig_Results_1_Sxz-eps-converted-to.pdf> <./Figures/fig_Results1_
-3-eps-converted-to.pdf>]
-Overfull \hbox (1.30357pt too wide) in paragraph at lines 91--92
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./Figures/fig_Results_1_Sxz-eps-converted-to.pdf>]
+Overfull \hbox (1.30357pt too wide) in paragraph at lines 94--95
 \OT1/ptm/m/n/12 tion, ge-om-e-try of the trough, in-ward fault jump, fault al-t
 er-na-tion, mass wast-ing, hourglass- 
  []
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 93.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 93.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\annote' on input line 93.
-
+[18 <./Figures/fig_Results1_3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results1_2.eps>
 (epstopdf)                    date: 2015-05-28 23:14:18
 (epstopdf)                    size: 142571 bytes
@@ -1826,32 +1821,26 @@ pdf>
 (epstopdf)                    size: 114362 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results1_2-e
 ps-converted-to.pdf ./Figures/fig_Results1_2.eps>
-(epstopdf)             \includegraphics on input line 104.
+(epstopdf)             \includegraphics on input line 110.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results1_2-eps-converted-to.pdf, id=1021, 327.2225pt x 282.05376
+<./Figures/fig_Results1_2-eps-converted-to.pdf, id=1017, 327.2225pt x 282.05376
 pt>
 File: ./Figures/fig_Results1_2-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Figures/fig_Results1_2-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results1_2-eps-converted-to.pdf used on 
-input line 104.
+input line 110.
 (pdftex.def)             Requested size: 260.17465pt x 224.26178pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []\OT1/ptm/m/n/12 Figure 14: |The sec-ond in-vari-ant of strain rates plot-ted 
 on the ref-er-ence model's ver-ti-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 \OT1/ptm/m/n/12 cross-sections along the ridge at 107.5 kyr. Ter-mi-na-tions an
 d break-aways are marked by
- []
-
-[18]
-Overfull \hbox (1.01265pt too wide) in paragraph at lines 109--115
-[]\OT1/ptm/m/n/12 The lo-ca-tion of a fault trace is de-lin-eated by black dash
-ed lines in Fig-ure [][][][]8[][][][] and marked 
  []
 
 [19 <./Figures/fig_Results1_2-eps-converted-to.pdf>] [20]
@@ -1866,21 +1855,21 @@ _accummulated_shear_zone-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_5_s
 qrt_cut_back_pre_accummulated_shear_zone-eps-converted-to.pdf ./Figures/fig_Res
 ults4_5_sqrt_cut_back_pre_accummulated_shear_zone.eps>
-(epstopdf)             \includegraphics on input line 142.
+(epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-convert
-ed-to.pdf, id=1092, 384.43625pt x 131.49126pt>
+ed-to.pdf, id=1076, 384.43625pt x 131.49126pt>
 File: ./Figures/fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-co
 nverted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-con
 verted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results4_5_sqrt_cut_back_pre_accummulate
-d_shear_zone-eps-converted-to.pdf used on input line 142.
+d_shear_zone-eps-converted-to.pdf used on input line 148.
 (pdftex.def)             Requested size: 260.17465pt x 88.99553pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--143
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 []\OT1/ptm/m/n/12 Figure 15: |The weak de-tach-ment fault tip reaches the pre-e
 xisting shear stress. Plas-tic
  []
@@ -1896,29 +1885,32 @@ ity-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_2_
 5_Cut-back_velocity-eps-converted-to.pdf ./Figures/fig_Results_3_2_5_Cut-back_v
 elocity.eps>
-(epstopdf)             \includegraphics on input line 149.
+(epstopdf)             \includegraphics on input line 155.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_3_2_5_Cut-back_velocity-eps-converted-to.pdf, id=1093, 6
+<./Figures/fig_Results_3_2_5_Cut-back_velocity-eps-converted-to.pdf, id=1077, 6
 79.53876pt x 391.4625pt>
 File: ./Figures/fig_Results_3_2_5_Cut-back_velocity-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use ./Figures/fig_Results_3_2_5_Cut-back_velocity-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_2_5_Cut-back_velocity-eps-conv
-erted-to.pdf used on input line 149.
+erted-to.pdf used on input line 155.
 (pdftex.def)             Requested size: 260.17465pt x 149.88025pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []\OT1/ptm/m/n/12 Figure 16: |Ve-loc-ity of the mass wast-ing hang-ing wall. Ma
 g-ni-tudes of the ve-loc-ity are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \OT1/ptm/m/n/12 shown by the col-ors of the ar-row heads. Plas-tic strain is pl
 ot-ted with opac-ity lin-early
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package epstopdf Info: Source file: <./Figures/fig_Results4_4_sqrt_cut_back_wit
 h_time_1.eps>
@@ -1931,25 +1923,22 @@ h_time_1-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_4_s
 qrt_cut_back_with_time_1-eps-converted-to.pdf ./Figures/fig_Results4_4_sqrt_cut
 _back_with_time_1.eps>
-(epstopdf)             \includegraphics on input line 156.
+(epstopdf)             \includegraphics on input line 162.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results4_4_sqrt_cut_back_with_time_1-eps-converted-to.pdf, id=10
-94, 566.115pt x 513.92pt>
+78, 566.115pt x 513.92pt>
 File: ./Figures/fig_Results4_4_sqrt_cut_back_with_time_1-eps-converted-to.pdf G
 raphic file (type pdf)
 
 <use ./Figures/fig_Results4_4_sqrt_cut_back_with_time_1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results4_4_sqrt_cut_back_with_time_1-eps
--converted-to.pdf used on input line 156.
+-converted-to.pdf used on input line 162.
 (pdftex.def)             Requested size: 346.89732pt x 314.91794pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <./Figures/fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-con
-verted-to.pdf> <./Figures/fig_Results_3_2_5_Cut-back_velocity-eps-converted-to.
-pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_2_5_sqrt_cut_back_
 Sxz_beneath.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -1961,27 +1950,27 @@ Sxz_beneath-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_2_
 5_sqrt_cut_back_Sxz_beneath-eps-converted-to.pdf ./Figures/fig_Results_3_2_5_sq
 rt_cut_back_Sxz_beneath.eps>
-(epstopdf)             \includegraphics on input line 173.
+(epstopdf)             \includegraphics on input line 179.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_3_2_5_sqrt_cut_back_Sxz_beneath-eps-converted-to.pdf, id
-=1136, 517.935pt x 290.08376pt>
+=1083, 517.935pt x 290.08376pt>
 File: ./Figures/fig_Results_3_2_5_sqrt_cut_back_Sxz_beneath-eps-converted-to.pd
 f Graphic file (type pdf)
 
 <use ./Figures/fig_Results_3_2_5_sqrt_cut_back_Sxz_beneath-eps-converted-to.pdf
 >
 Package pdftex.def Info: ./Figures/fig_Results_3_2_5_sqrt_cut_back_Sxz_beneath-
-eps-converted-to.pdf used on input line 173.
+eps-converted-to.pdf used on input line 179.
 (pdftex.def)             Requested size: 433.62001pt x 242.87195pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
 []\OT1/ptm/m/n/12 Figure 18: |Along ridge axis $\OML/cmm/m/it/12 ^^[[]$ \OT1/pt
 m/m/n/12 (bird's-eye view of three lay-ers of model do-main) (pos-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
 \OT1/ptm/m/n/12 tive(red) means clock-wise). Plas-tic strain is plot-ted with o
 pac-ity lin-early pro-por-tional to
  []
@@ -2000,20 +1989,20 @@ ding_drop-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_6_s
 qrt_cut_back_bending_drop-eps-converted-to.pdf ./Figures/fig_Results4_6_sqrt_cu
 t_back_bending_drop.eps>
-(epstopdf)             \includegraphics on input line 184.
+(epstopdf)             \includegraphics on input line 190.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf, id=1
-137, 690.58pt x 403.5075pt>
+084, 690.58pt x 403.5075pt>
 File: ./Figures/fig_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf 
 Graphic file (type pdf)
 
 <use ./Figures/fig_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results4_6_sqrt_cut_back_bending_drop-ep
-s-converted-to.pdf used on input line 184.
+s-converted-to.pdf used on input line 190.
 (pdftex.def)             Requested size: 260.17465pt x 152.023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--185
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 []\OT1/ptm/m/n/12 Figure 19: |M28SqrtT1 (Ta-ble [][][][]2[][][][]). Bend-ing st
 ress drop (a ver-sus b) at the lower M side due
  []
@@ -2032,24 +2021,25 @@ _fault_chase-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_9_s
 qrt_cut_back_new_fault_chase-eps-converted-to.pdf ./Figures/fig_Results4_9_sqrt
 _cut_back_new_fault_chase.eps>
-(epstopdf)             \includegraphics on input line 194.
+(epstopdf)             \includegraphics on input line 200.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-converted-to.pdf, i
-d=1142, 848.16875pt x 369.38pt>
+d=1089, 848.16875pt x 369.38pt>
 File: ./Figures/fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-converted-to.p
 df Graphic file (type pdf)
 
 <use ./Figures/fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-converted-to.pd
 f>
 Package pdftex.def Info: ./Figures/fig_Results4_9_sqrt_cut_back_new_fault_chase
--eps-converted-to.pdf used on input line 194.
+-eps-converted-to.pdf used on input line 200.
 (pdftex.def)             Requested size: 433.62001pt x 188.84348pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22 <./Figures/fig_Results4_4_sqrt_cut_back_with_time_1-eps-converted-to.pdf>]
+[21 <./Figures/fig_Results4_5_sqrt_cut_back_pre_accummulated_shear_zone-eps-con
+verted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_2_hourglass_evolut
 ion.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2061,26 +2051,26 @@ ion-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_2_
 hourglass_evolution-eps-converted-to.pdf ./Figures/fig_Results_3_2_hourglass_ev
 olution.eps>
-(epstopdf)             \includegraphics on input line 211.
+(epstopdf)             \includegraphics on input line 217.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_3_2_hourglass_evolution-eps-converted-to.pdf, id=1185, 6
+<./Figures/fig_Results_3_2_hourglass_evolution-eps-converted-to.pdf, id=1123, 6
 42.4pt x 152.57pt>
 File: ./Figures/fig_Results_3_2_hourglass_evolution-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use ./Figures/fig_Results_3_2_hourglass_evolution-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_2_hourglass_evolution-eps-conv
-erted-to.pdf used on input line 211.
+erted-to.pdf used on input line 217.
 (pdftex.def)             Requested size: 433.62001pt x 102.98729pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--212
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 []\OT1/ptm/m/n/12 Figure 21: |Bird's-eye view of the evo-lu-tion of the hour-gl
 ass shape me-dian val-ley. It is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--212
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
 \OT1/ptm/m/n/12 gen-er-ated by at-tach-ing the to-pog-ra-phy of the M28SqrtT1 m
 odel to its mir-ror re-flec-tion by
  []
@@ -2088,8 +2078,7 @@ odel to its mir-ror re-flec-tion by
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23 <./Figures/fig_Results_3_2_5_sqrt_cut_back_Sxz_beneath-eps-converted-to.pdf
->]
+[22 <./Figures/fig_Results_3_2_5_Cut-back_velocity-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results4_7_sqrt_cut_back_con
 jugate_Sxx.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2101,20 +2090,20 @@ jugate_Sxx-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_7_s
 qrt_cut_back_conjugate_Sxx-eps-converted-to.pdf ./Figures/fig_Results4_7_sqrt_c
 ut_back_conjugate_Sxx.eps>
-(epstopdf)             \includegraphics on input line 221.
+(epstopdf)             \includegraphics on input line 227.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf, id=
-1220, 488.82625pt x 160.6pt>
+1142, 488.82625pt x 160.6pt>
 File: ./Figures/fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf
  Graphic file (type pdf)
 
 <use ./Figures/fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results4_7_sqrt_cut_back_conjugate_Sxx-e
-ps-converted-to.pdf used on input line 221.
+ps-converted-to.pdf used on input line 227.
 (pdftex.def)             Requested size: 260.17465pt x 85.48027pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 []\OT1/ptm/m/n/12 Figure 22: |Higher $\OML/cmm/m/it/12 ^^[[]$ \OT1/ptm/m/n/12 s
 hows in-side the me-dian val-ley on the neg-a-tive $\OML/cmm/m/it/12 x$\OT1/ptm
 /m/n/12 -axis di-rec-tion of
@@ -2123,10 +2112,9 @@ hows in-side the me-dian val-ley on the neg-a-tive $\OML/cmm/m/it/12 x$\OT1/ptm
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <./Figures/fig_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf> 
-<./Figures/fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-converted-to.pdf>]
-[25 <./Figures/fig_Results_3_2_hourglass_evolution-eps-converted-to.pdf> <./Fig
-ures/fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf>]
+[23 <./Figures/fig_Results4_4_sqrt_cut_back_with_time_1-eps-converted-to.pdf>]
+[24 <./Figures/fig_Results_3_2_5_sqrt_cut_back_Sxz_beneath-eps-converted-to.pdf
+>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_2_6_corrugations_e
 volution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2138,44 +2126,29 @@ volution-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_2_
 6_corrugations_evolution-eps-converted-to.pdf ./Figures/fig_Results_3_2_6_corru
 gations_evolution.eps>
-(epstopdf)             \includegraphics on input line 236.
+(epstopdf)             \includegraphics on input line 242.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_3_2_6_corrugations_evolution-eps-converted-to.pdf, id=13
-11, 1041.8925pt x 345.29pt>
+<./Figures/fig_Results_3_2_6_corrugations_evolution-eps-converted-to.pdf, id=12
+09, 1041.8925pt x 345.29pt>
 File: ./Figures/fig_Results_3_2_6_corrugations_evolution-eps-converted-to.pdf G
 raphic file (type pdf)
 
 <use ./Figures/fig_Results_3_2_6_corrugations_evolution-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_2_6_corrugations_evolution-eps
--converted-to.pdf used on input line 236.
+-converted-to.pdf used on input line 242.
 (pdftex.def)             Requested size: 433.62001pt x 143.70363pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
 []\OT1/ptm/m/n/12 Figure 23: |Bird's-eye view of the evo-lu-tion of the cor-ru-
 ga-tions. Color scales for the
  []
 
 
-Overfull \hbox (20.57605pt too wide) in paragraph at lines 248--250
-\OT1/ptm/m/n/12 Cor-ru-ga-tions are ob-served in most of the mod-els ex-cept fo
-r the con-stant M model M88ContT2 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (18.50278pt too wide) in paragraph at lines 248--250
-\OT1/ptm/m/n/12 kyr at the lower M side (0.5 $\OML/cmm/m/it/12 <$ \OT1/ptm/m/n/
-12 M $\OML/cmm/m/it/12 <$ \OT1/ptm/m/n/12 0.65) (Fig-ure [][][][]23[][].a)[][])
-. How-ever, cor-ru-ga-tions in M28LinT1 
- []
-
-
-Overfull \hbox (22.27995pt too wide) in paragraph at lines 248--250
-\OT1/ptm/m/n/12 time and they are less reg-u-lar along the ridge ((Fig-ure [][]
-[][]8[][].h[][])). But the cor-ru-ga-tions in M58SinT1 
- []
-
-[26 <./Figures/fig_Results_3_2_6_corrugations_evolution-eps-converted-to.pdf>]
+[25 <./Figures/fig_Results4_6_sqrt_cut_back_bending_drop-eps-converted-to.pdf> 
+<./Figures/fig_Results4_9_sqrt_cut_back_new_fault_chase-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_2_6_mullion_evolut
 ion.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2187,20 +2160,24 @@ ion-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_2_
 6_mullion_evolution-eps-converted-to.pdf ./Figures/fig_Results_3_2_6_mullion_ev
 olution.eps>
-(epstopdf)             \includegraphics on input line 256.
+(epstopdf)             \includegraphics on input line 260.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_3_2_6_mullion_evolution-eps-converted-to.pdf, id=1355, 5
+<./Figures/fig_Results_3_2_6_mullion_evolution-eps-converted-to.pdf, id=1265, 5
 64.1075pt x 220.825pt>
 File: ./Figures/fig_Results_3_2_6_mullion_evolution-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use ./Figures/fig_Results_3_2_6_mullion_evolution-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_2_6_mullion_evolution-eps-conv
-erted-to.pdf used on input line 256.
+erted-to.pdf used on input line 260.
 (pdftex.def)             Requested size: 433.62001pt x 169.74599pt.
 
-[27 <./Figures/fig_Results_3_2_6_mullion_evolution-eps-converted-to.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26 <./Figures/fig_Results_3_2_hourglass_evolution-eps-converted-to.pdf> <./Fig
+ures/fig_Results4_7_sqrt_cut_back_conjugate_Sxx-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_3_M_variation.eps>
 
 (epstopdf)                    date: 2015-05-24 15:18:53
@@ -2211,25 +2188,29 @@ converted-to.pdf>
 (epstopdf)                    size: 8561 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_3_
 M_variation-eps-converted-to.pdf ./Figures/fig_Results_3_3_M_variation.eps>
-(epstopdf)             \includegraphics on input line 272.
+(epstopdf)             \includegraphics on input line 276.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_3_3_M_variation-eps-converted-to.pdf, id=1381, 880.28876
+<./Figures/fig_Results_3_3_M_variation-eps-converted-to.pdf, id=1303, 880.28876
 pt x 573.14125pt>
 File: ./Figures/fig_Results_3_3_M_variation-eps-converted-to.pdf Graphic file (
 type pdf)
 
 <use ./Figures/fig_Results_3_3_M_variation-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_3_M_variation-eps-converted-to
-.pdf used on input line 272.
+.pdf used on input line 276.
 (pdftex.def)             Requested size: 346.89732pt x 225.8592pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--273
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 []\OT1/ptm/m/n/12 Figure 25: |Three func-tional forms of M vari-a-tion. M be-gi
 ns to ex-ceed the M $\OT1/cmr/m/n/12 =$ \OT1/ptm/m/n/12 0.5 black
  []
 
-[28 <./Figures/fig_Results_3_3_M_variation-eps-converted-to.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27 <./Figures/fig_Results_3_2_6_corrugations_evolution-eps-converted-to.pdf> <
+./Figures/fig_Results_3_2_6_mullion_evolution-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results4_2_secondary_fault_l
 ength_comparison1.eps>
 (epstopdf)                    date: 2015-05-28 23:31:38
@@ -2241,19 +2222,24 @@ ength_comparison1-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results4_2_s
 econdary_fault_length_comparison1-eps-converted-to.pdf ./Figures/fig_Results4_2
 _secondary_fault_length_comparison1.eps>
-(epstopdf)             \includegraphics on input line 287.
+(epstopdf)             \includegraphics on input line 291.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results4_2_secondary_fault_length_comparison1-eps-converted-to.p
-df, id=1401, 404.51125pt x 242.9075pt>
+df, id=1347, 404.51125pt x 242.9075pt>
 File: ./Figures/fig_Results4_2_secondary_fault_length_comparison1-eps-converted
 -to.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results4_2_secondary_fault_length_comparison1-eps-converted-
 to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results4_2_secondary_fault_length_compar
-ison1-eps-converted-to.pdf used on input line 287.
+ison1-eps-converted-to.pdf used on input line 291.
 (pdftex.def)             Requested size: 260.17465pt x 156.23491pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[28 <./Figures/fig_Results_3_3_M_variation-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_3_1_M_type_plot_dM
 _dZ.eps>
 (epstopdf)                    date: 2015-05-24 15:08:39
@@ -2265,24 +2251,21 @@ _dZ-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_3_
 1_M_type_plot_dM_dZ-eps-converted-to.pdf ./Figures/fig_Results_3_3_1_M_type_plo
 t_dM_dZ.eps>
-(epstopdf)             \includegraphics on input line 298.
+(epstopdf)             \includegraphics on input line 302.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_3_3_1_M_type_plot_dM_dZ-eps-converted-to.pdf, id=1406, 8
+<./Figures/fig_Results_3_3_1_M_type_plot_dM_dZ-eps-converted-to.pdf, id=1365, 8
 80.28876pt x 573.14125pt>
 File: ./Figures/fig_Results_3_3_1_M_type_plot_dM_dZ-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use ./Figures/fig_Results_3_3_1_M_type_plot_dM_dZ-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_3_1_M_type_plot_dM_dZ-eps-conv
-erted-to.pdf used on input line 298.
+erted-to.pdf used on input line 302.
 (pdftex.def)             Requested size: 346.89732pt x 225.8592pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 [29 <./Figures/fig_Results4_2_secondary_fault_length_comparison1-eps-converted-
-to.pdf>]
+to.pdf> <./Figures/fig_Results_3_3_1_M_type_plot_dM_dZ-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_3_1_hourglass.eps>
 
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2293,26 +2276,24 @@ converted-to.pdf>
 (epstopdf)                    size: 599074 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_3_
 1_hourglass-eps-converted-to.pdf ./Figures/fig_Results_3_3_1_hourglass.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 330.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_3_3_1_hourglass-eps-converted-to.pdf, id=1427, 815.045pt
+<./Figures/fig_Results_3_3_1_hourglass-eps-converted-to.pdf, id=1397, 815.045pt
  x 349.305pt>
 File: ./Figures/fig_Results_3_3_1_hourglass-eps-converted-to.pdf Graphic file (
 type pdf)
  <use ./Figures/fig_Results_3_3_1_hourglass-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_3_1_hourglass-eps-converted-to
-.pdf used on input line 326.
+.pdf used on input line 330.
 (pdftex.def)             Requested size: 433.62001pt x 185.83965pt.
 
-[30 <./Figures/fig_Results_3_3_1_M_type_plot_dM_dZ-eps-converted-to.pdf> <./Fig
-ures/fig_Results_3_3_1_hourglass-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
 []\OT1/ptm/m/n/12 Table 3: |Av-er-age M val-ues of the 20 km seg-ment. (The val
 ue is cal-cu-lated by in-te-grat-ing
  []
 
-[31]
+[30 <./Figures/fig_Results_3_3_1_hourglass-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_2_M57SinT1
 VST2_CutbackVSsecondaryFault.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2324,21 +2305,24 @@ VST2_CutbackVSsecondaryFault-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_2_M57SinT1VST2_CutbackVSsecondaryFault-eps-converted-to.pdf ./Figures/fig
 _Results_Weakening_2_M57SinT1VST2_CutbackVSsecondaryFault.eps>
-(epstopdf)             \includegraphics on input line 366.
+(epstopdf)             \includegraphics on input line 370.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_Weakening_2_M57SinT1VST2_CutbackVSsecondaryFault-eps-con
-verted-to.pdf, id=1464, 877.2775pt x 334.24875pt>
+verted-to.pdf, id=1423, 877.2775pt x 334.24875pt>
 File: ./Figures/fig_Results_Weakening_2_M57SinT1VST2_CutbackVSsecondaryFault-ep
 s-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_Weakening_2_M57SinT1VST2_CutbackVSsecondaryFault-eps
 -converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_Weakening_2_M57SinT1VST2_Cutback
-VSsecondaryFault-eps-converted-to.pdf used on input line 366.
+VSsecondaryFault-eps-converted-to.pdf used on input line 370.
 (pdftex.def)             Requested size: 433.62001pt x 165.21648pt.
- [32 <./Figures/fig_Results_Weakening_2_M57SinT1VST2_CutbackVSsecondaryFault-ep
-s-converted-to.pdf>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_3_M57SinT1
 _time_evolution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2350,21 +2334,25 @@ _time_evolution-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_3_M57SinT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Weak
 ening_3_M57SinT1_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 375.
+(epstopdf)             \includegraphics on input line 379.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_Weakening_3_M57SinT1_time_evolution-eps-converted-to.pdf
-, id=1500, 856.19875pt x 441.65pt>
+, id=1439, 856.19875pt x 441.65pt>
 File: ./Figures/fig_Results_Weakening_3_M57SinT1_time_evolution-eps-converted-t
 o.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_Weakening_3_M57SinT1_time_evolution-eps-converted-to
 .pdf>
 Package pdftex.def Info: ./Figures/fig_Results_Weakening_3_M57SinT1_time_evolut
-ion-eps-converted-to.pdf used on input line 375.
+ion-eps-converted-to.pdf used on input line 379.
 (pdftex.def)             Requested size: 433.62001pt x 223.67505pt.
- [33 <./Figures/fig_Results_Weakening_3_M57SinT1_time_evolution-eps-converted-t
-o.pdf>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32 <./Figures/fig_Results_Weakening_2_M57SinT1VST2_CutbackVSsecondaryFault-eps
+-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_4_M57SinT2
 _time_evolution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2376,19 +2364,25 @@ _time_evolution-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_4_M57SinT2_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Weak
 ening_4_M57SinT2_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 386.
+(epstopdf)             \includegraphics on input line 390.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_Weakening_4_M57SinT2_time_evolution-eps-converted-to.pdf
-, id=1540, 1200.485pt x 441.65pt>
+, id=1476, 1200.485pt x 441.65pt>
 File: ./Figures/fig_Results_Weakening_4_M57SinT2_time_evolution-eps-converted-t
 o.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_Weakening_4_M57SinT2_time_evolution-eps-converted-to
 .pdf>
 Package pdftex.def Info: ./Figures/fig_Results_Weakening_4_M57SinT2_time_evolut
-ion-eps-converted-to.pdf used on input line 386.
+ion-eps-converted-to.pdf used on input line 390.
 (pdftex.def)             Requested size: 433.62001pt x 159.52626pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33 <./Figures/fig_Results_Weakening_3_M57SinT1_time_evolution-eps-converted-to
+.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_5_M58SinT1
 _time_evolution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2400,21 +2394,23 @@ _time_evolution-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_5_M58SinT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Weak
 ening_5_M58SinT1_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 401.
+(epstopdf)             \includegraphics on input line 405.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_Weakening_5_M58SinT1_time_evolution-eps-converted-to.pdf
-, id=1557, 1030.85126pt x 835.12pt>
+, id=1522, 1030.85126pt x 835.12pt>
 File: ./Figures/fig_Results_Weakening_5_M58SinT1_time_evolution-eps-converted-t
 o.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_Weakening_5_M58SinT1_time_evolution-eps-converted-to
 .pdf>
 Package pdftex.def Info: ./Figures/fig_Results_Weakening_5_M58SinT1_time_evolut
-ion-eps-converted-to.pdf used on input line 401.
+ion-eps-converted-to.pdf used on input line 405.
 (pdftex.def)             Requested size: 433.62001pt x 351.2832pt.
- [34 <./Figures/fig_Results_Weakening_4_M57SinT2_time_evolution-eps-converted-t
-o.pdf>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_4_2_3D_Antithetic_
 fault.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2426,25 +2422,25 @@ fault-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_4_
 2_3D_Antithetic_fault-eps-converted-to.pdf ./Figures/fig_Results_3_4_2_3D_Antit
 hetic_fault.eps>
-(epstopdf)             \includegraphics on input line 410.
+(epstopdf)             \includegraphics on input line 414.
 Package epstopdf Info: Output file is already uptodate.
 
-<./Figures/fig_Results_3_4_2_3D_Antithetic_fault-eps-converted-to.pdf, id=1589,
+<./Figures/fig_Results_3_4_2_3D_Antithetic_fault-eps-converted-to.pdf, id=1523,
  1423.3175pt x 765.86125pt>
 File: ./Figures/fig_Results_3_4_2_3D_Antithetic_fault-eps-converted-to.pdf Grap
 hic file (type pdf)
 
 <use ./Figures/fig_Results_3_4_2_3D_Antithetic_fault-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_4_2_3D_Antithetic_fault-eps-co
-nverted-to.pdf used on input line 410.
+nverted-to.pdf used on input line 414.
 (pdftex.def)             Requested size: 260.17465pt x 139.98763pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35 <./Figures/fig_Results_Weakening_5_M58SinT1_time_evolution-eps-converted-to
-.pdf>] [36 <./Figures/fig_Results_3_4_2_3D_Antithetic_fault-eps-converted-to.pd
-f>]
+[34 <./Figures/fig_Results_Weakening_4_M57SinT2_time_evolution-eps-converted-to
+.pdf>] [35 <./Figures/fig_Results_Weakening_5_M58SinT1_time_evolution-eps-conve
+rted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_3_4_2_M58SinT1_mulli
 on_riderBlock_inwardFaultJump.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2456,21 +2452,22 @@ on_riderBlock_inwardFaultJump-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_3_4_
 2_M58SinT1_mullion_riderBlock_inwardFaultJump-eps-converted-to.pdf ./Figures/fi
 g_Results_3_4_2_M58SinT1_mullion_riderBlock_inwardFaultJump.eps>
-(epstopdf)             \includegraphics on input line 422.
+(epstopdf)             \includegraphics on input line 426.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_3_4_2_M58SinT1_mullion_riderBlock_inwardFaultJump-eps-co
-nverted-to.pdf, id=1661, 788.9475pt x 242.9075pt>
+nverted-to.pdf, id=1610, 788.9475pt x 242.9075pt>
 File: ./Figures/fig_Results_3_4_2_M58SinT1_mullion_riderBlock_inwardFaultJump-e
 ps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_3_4_2_M58SinT1_mullion_riderBlock_inwardFaultJump-ep
 s-converted-to.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_3_4_2_M58SinT1_mullion_riderBloc
-k_inwardFaultJump-eps-converted-to.pdf used on input line 422.
+k_inwardFaultJump-eps-converted-to.pdf used on input line 426.
 (pdftex.def)             Requested size: 433.62001pt x 133.50687pt.
- [37 <./Figures/fig_Results_3_4_2_M58SinT1_mullion_riderBlock_inwardFaultJump-e
-ps-converted-to.pdf>]
+ [36 <./Figures/fig_Results_3_4_2_3D_Antithetic_fault-eps-converted-to.pdf> <./
+Figures/fig_Results_3_4_2_M58SinT1_mullion_riderBlock_inwardFaultJump-eps-conve
+rted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_6_M58SinT2
 _time_evolution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2482,20 +2479,20 @@ _time_evolution-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_6_M58SinT2_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Weak
 ening_6_M58SinT2_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 433.
+(epstopdf)             \includegraphics on input line 437.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_Weakening_6_M58SinT2_time_evolution-eps-converted-to.pdf
-, id=1692, 1027.84pt x 441.65pt>
+, id=1655, 1027.84pt x 441.65pt>
 File: ./Figures/fig_Results_Weakening_6_M58SinT2_time_evolution-eps-converted-t
 o.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_Weakening_6_M58SinT2_time_evolution-eps-converted-to
 .pdf>
 Package pdftex.def Info: ./Figures/fig_Results_Weakening_6_M58SinT2_time_evolut
-ion-eps-converted-to.pdf used on input line 433.
+ion-eps-converted-to.pdf used on input line 437.
 (pdftex.def)             Requested size: 433.62001pt x 186.32063pt.
- [38 <./Figures/fig_Results_Weakening_6_M58SinT2_time_evolution-eps-converted-t
+ [37 <./Figures/fig_Results_Weakening_6_M58SinT2_time_evolution-eps-converted-t
 o.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_7_M58SqrtT
 1_time_evolution.eps>
@@ -2508,21 +2505,25 @@ Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_7_M58SqrtT
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_7_M58SqrtT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Wea
 kening_7_M58SqrtT1_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 449.
+(epstopdf)             \includegraphics on input line 453.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_Weakening_7_M58SqrtT1_time_evolution-eps-converted-to.pd
-f, id=1735, 1034.86626pt x 851.18pt>
+f, id=1697, 1034.86626pt x 851.18pt>
 File: ./Figures/fig_Results_Weakening_7_M58SqrtT1_time_evolution-eps-converted-
 to.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_Weakening_7_M58SqrtT1_time_evolution-eps-converted-t
 o.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_Weakening_7_M58SqrtT1_time_evolu
-tion-eps-converted-to.pdf used on input line 449.
+tion-eps-converted-to.pdf used on input line 453.
 (pdftex.def)             Requested size: 433.62001pt x 356.64894pt.
- [39 <./Figures/fig_Results_Weakening_7_M58SqrtT1_time_evolution-eps-converted-
-to.pdf>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[38] [39 <./Figures/fig_Results_Weakening_7_M58SqrtT1_time_evolution-eps-conver
+ted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_8_M58SqrtT
 2_time_evolution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2534,31 +2535,26 @@ Package epstopdf Info: Source file: <./Figures/fig_Results_Weakening_8_M58SqrtT
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_Weak
 ening_8_M58SqrtT2_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_Wea
 kening_8_M58SqrtT2_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 461.
+(epstopdf)             \includegraphics on input line 465.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_Weakening_8_M58SqrtT2_time_evolution-eps-converted-to.pd
-f, id=1797, 1031.855pt x 443.6575pt>
+f, id=1767, 1031.855pt x 443.6575pt>
 File: ./Figures/fig_Results_Weakening_8_M58SqrtT2_time_evolution-eps-converted-
 to.pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_Weakening_8_M58SqrtT2_time_evolution-eps-converted-t
 o.pdf>
 Package pdftex.def Info: ./Figures/fig_Results_Weakening_8_M58SqrtT2_time_evolu
-tion-eps-converted-to.pdf used on input line 461.
+tion-eps-converted-to.pdf used on input line 465.
 (pdftex.def)             Requested size: 433.62001pt x 186.43642pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[40]
-Overfull \hbox (10.57663pt too wide) in paragraph at lines 477--478
+ [40 <./Figures/fig_Results_Weakening_8_M58SqrtT2_time_evolution-eps-converted-
+to.pdf>]
+Overfull \hbox (10.57663pt too wide) in paragraph at lines 481--482
 []\OT1/ptm/m/n/12 For de-scrip-tion of M57SinT1 evo-lu-tion with re-spect to ti
 me, please re-fer to Sec-tion [][][][]3.4.1[][][][] 
  []
 
-[41 <./Figures/fig_Results_Weakening_8_M58SqrtT2_time_evolution-eps-converted-t
-o.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_MRange_1_M28SinT1_ti
 me_evolution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2570,27 +2566,31 @@ me_evolution-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_MRan
 ge_1_M28SinT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_MRange_
 1_M28SinT1_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 483.
+(epstopdf)             \includegraphics on input line 487.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_MRange_1_M28SinT1_time_evolution-eps-converted-to.pdf, i
-d=1854, 1028.84375pt x 441.65pt>
+d=1819, 1028.84375pt x 441.65pt>
 File: ./Figures/fig_Results_MRange_1_M28SinT1_time_evolution-eps-converted-to.p
 df Graphic file (type pdf)
 
 <use ./Figures/fig_Results_MRange_1_M28SinT1_time_evolution-eps-converted-to.pd
 f>
 Package pdftex.def Info: ./Figures/fig_Results_MRange_1_M28SinT1_time_evolution
--eps-converted-to.pdf used on input line 483.
+-eps-converted-to.pdf used on input line 487.
 (pdftex.def)             Requested size: 433.62001pt x 186.13867pt.
 
-Overfull \hbox (5.70499pt too wide) in paragraph at lines 489--490
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (5.70499pt too wide) in paragraph at lines 493--494
 []\OT1/ptm/m/n/12 As shown in Fig-ure [][][][]38[][][][], fault-ing evo-lu-tion
  is much less dy-namic than that of M58SinT1. 
  []
 
-[42 <./Figures/fig_Results_MRange_1_M28SinT1_time_evolution-eps-converted-to.pd
-f>]
+[41] [42 <./Figures/fig_Results_MRange_1_M28SinT1_time_evolution-eps-converted-
+to.pdf>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_MRange_2_M57LinT1_ti
 me_evolution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2602,25 +2602,21 @@ me_evolution-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_MRan
 ge_2_M57LinT1_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_MRange_
 2_M57LinT1_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 503.
+(epstopdf)             \includegraphics on input line 507.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_MRange_2_M57LinT1_time_evolution-eps-converted-to.pdf, i
-d=1911, 861.2175pt x 832.10875pt>
+d=1887, 861.2175pt x 832.10875pt>
 File: ./Figures/fig_Results_MRange_2_M57LinT1_time_evolution-eps-converted-to.p
 df Graphic file (type pdf)
 
 <use ./Figures/fig_Results_MRange_2_M57LinT1_time_evolution-eps-converted-to.pd
 f>
 Package pdftex.def Info: ./Figures/fig_Results_MRange_2_M57LinT1_time_evolution
--eps-converted-to.pdf used on input line 503.
+-eps-converted-to.pdf used on input line 507.
 (pdftex.def)             Requested size: 346.89732pt x 335.17384pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[43] [44 <./Figures/fig_Results_MRange_2_M57LinT1_time_evolution-eps-converted-
-to.pdf>]
+ [43 <./Figures/fig_Results_MRange_2_M57LinT1_time_evolution-eps-converted-to.p
+df>]
 Package epstopdf Info: Source file: <./Figures/fig_Results_MRange_3_M57SqrtT2_t
 ime_evolution.eps>
 (epstopdf)                    date: 2015-05-28 23:14:19
@@ -2632,21 +2628,25 @@ ime_evolution-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=./Figures/fig_Results_MRan
 ge_3_M57SqrtT2_time_evolution-eps-converted-to.pdf ./Figures/fig_Results_MRange
 _3_M57SqrtT2_time_evolution.eps>
-(epstopdf)             \includegraphics on input line 524.
+(epstopdf)             \includegraphics on input line 528.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Results_MRange_3_M57SqrtT2_time_evolution-eps-converted-to.pdf, 
-id=1977, 861.2175pt x 838.13126pt>
+id=1948, 861.2175pt x 838.13126pt>
 File: ./Figures/fig_Results_MRange_3_M57SqrtT2_time_evolution-eps-converted-to.
 pdf Graphic file (type pdf)
 
 <use ./Figures/fig_Results_MRange_3_M57SqrtT2_time_evolution-eps-converted-to.p
 df>
 Package pdftex.def Info: ./Figures/fig_Results_MRange_3_M57SqrtT2_time_evolutio
-n-eps-converted-to.pdf used on input line 524.
+n-eps-converted-to.pdf used on input line 528.
 (pdftex.def)             Requested size: 346.89732pt x 337.5997pt.
-) [45 <./Figures/fig_Results_MRange_3_M57SqrtT2_time_evolution-eps-converted-to
-.pdf>] [46]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [44] [45 <./Figures/fig_Results_MRange_3_M57SqrtT2_time_evolution-eps-convert
+ed-to.pdf>]
 \openout2 = `Discussion.aux'.
 
  (./Discussion.tex
@@ -2757,7 +2757,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 []|\OT1/ptm/m/n/10.95 A$[]$; C;
  []
 
-[47
+[46
 
 
 ]
@@ -2766,8 +2766,8 @@ Overfull \hbox (0.65616pt too wide) in paragraph at lines 89--90
 t is worth con-sid-er-ing a thought 
  []
 
-[48]
-<./Figures/fig_Results_Weakening_1_tradeOff_bend_weak.png, id=2050, 332.24126pt
+[47]
+<./Figures/fig_Results_Weakening_1_tradeOff_bend_weak.png, id=2027, 332.24126pt
  x 342.27875pt>
 File: ./Figures/fig_Results_Weakening_1_tradeOff_bend_weak.png Graphic file (ty
 pe png)
@@ -2795,13 +2795,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--153
  (For more de-tails, please
  []
 
-[49 <./Figures/fig_Results_Weakening_1_tradeOff_bend_weak.png>] [50] [51]
+[48 <./Figures/fig_Results_Weakening_1_tradeOff_bend_weak.png>] [49] [50]
 
-LaTeX Warning: Hyper reference `fig_Results4_3_1' on page 52 undefined on input
+LaTeX Warning: Hyper reference `fig_Results4_3_1' on page 51 undefined on input
  line 176.
 
 
-LaTeX Warning: Reference `fig_Results4_3_1' on page 52 undefined on input line 
+LaTeX Warning: Reference `fig_Results4_3_1' on page 51 undefined on input line 
 176.
 
 
@@ -2835,7 +2835,7 @@ rvation_1_13N_MAR_CutBack.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Discussion_Observation_1_13N_MAR_CutBack-eps-converted-to.pdf, i
-d=2085, 822.07124pt x 293.095pt>
+d=2063, 822.07124pt x 293.095pt>
 File: ./Figures/fig_Discussion_Observation_1_13N_MAR_CutBack-eps-converted-to.p
 df Graphic file (type pdf)
 
@@ -2846,18 +2846,18 @@ Package pdftex.def Info: ./Figures/fig_Discussion_Observation_1_13N_MAR_CutBack
 (pdftex.def)             Requested size: 433.62001pt x 154.5972pt.
 
 
-LaTeX Warning: Hyper reference `Sec_CutBack' on page 52 undefined on input line
+LaTeX Warning: Hyper reference `Sec_CutBack' on page 51 undefined on input line
  189.
 
 
-LaTeX Warning: Reference `Sec_CutBack' on page 52 undefined on input line 189.
+LaTeX Warning: Reference `Sec_CutBack' on page 51 undefined on input line 189.
 
 
-LaTeX Warning: Hyper reference `Sec_CutBack' on page 52 undefined on input line
+LaTeX Warning: Hyper reference `Sec_CutBack' on page 51 undefined on input line
  189.
 
 
-LaTeX Warning: Reference `Sec_CutBack' on page 52 undefined on input line 189.
+LaTeX Warning: Reference `Sec_CutBack' on page 51 undefined on input line 189.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 189--189
@@ -2886,7 +2886,7 @@ nism, please re-fer to Sec-tion [].
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[52]
+[51]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 195.
@@ -2926,18 +2926,18 @@ Package pdftex.def Info: ./Figures/fig_Discussion_Observation_1_13N_MAR_CutBack
 (pdftex.def)             Requested size: 433.62001pt x 154.5972pt.
 
 
-LaTeX Warning: Hyper reference `Sec_CutBack' on page 53 undefined on input line
+LaTeX Warning: Hyper reference `Sec_CutBack' on page 52 undefined on input line
  200.
 
 
-LaTeX Warning: Reference `Sec_CutBack' on page 53 undefined on input line 200.
+LaTeX Warning: Reference `Sec_CutBack' on page 52 undefined on input line 200.
 
 
-LaTeX Warning: Hyper reference `Sec_CutBack' on page 53 undefined on input line
+LaTeX Warning: Hyper reference `Sec_CutBack' on page 52 undefined on input line
  200.
 
 
-LaTeX Warning: Reference `Sec_CutBack' on page 53 undefined on input line 200.
+LaTeX Warning: Reference `Sec_CutBack' on page 52 undefined on input line 200.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 200--200
@@ -2976,14 +2976,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 204.
 
-) [53 <./Figures/fig_Discussion_Observation_1_13N_MAR_CutBack-eps-converted-to.
-pdf>] [54]
+) [52 <./Figures/fig_Discussion_Observation_1_13N_MAR_CutBack-eps-converted-to.
+pdf>] [53]
 \openout2 = `Conclusions.aux'.
 
- (./Conclusions.tex) [55
+ (./Conclusions.tex) [54
 
 
-] (./main.bbl [56
+] (./main.bbl [55
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 129.
@@ -2991,10 +2991,10 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 129.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [57] [58]
-[59])
+) [56] [57]
+[58])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
- [60]
+ [59]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
  (./main.aux (./Title_Page.aux) (./Copyright_Notice.aux)
 (./Dedication.aux) (./Acknowledgements.aux) (./Quotes.aux) (./Abstract.aux)
@@ -3003,9 +3003,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
 (./Conclusions.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C16035A480ABF3A0CF3E4017BF920278;4159.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 7F3D94B3F6CE9D568FFA12C186BF3D0E;4114
+(rerunfilecheck)             After:  73C9340EC72A5CBCFB9BB634204AF9A9;4114.
 
 LaTeX Warning: There were undefined references.
 
@@ -3015,57 +3021,129 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
  ) 
 Here is how much of TeX's memory you used:
- 12345 strings out of 493117
- 189593 string characters out of 6135433
- 335049 words of memory out of 5000000
- 15079 multiletter control sequences out of 15000+600000
- 38054 words of font info for 88 fonts, out of 8000000 for 9000
+ 12342 strings out of 493117
+ 189557 string characters out of 6135433
+ 335047 words of memory out of 5000000
+ 15074 multiletter control sequences out of 15000+600000
+ 34799 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,17n,58p,3265b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb></usr/local/texlive/2014/texmf-dist
-/fonts/type1/arphic/gbsnu/gbsnu4e.pfb></usr/local/texlive/2014/texmf-dist/fonts
-/type1/arphic/gbsnu/gbsnu51.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu52.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu53.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu54.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u59.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5a.pf
-b></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb></usr/loca
-l/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb></usr/local/texlive/2014/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu65.pfb></usr/local/texlive/2014/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu6b.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu6d.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu73.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu75.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nu7e.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.p
-fb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb></usr/local/texlive/2014/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu9e.pfb></usr/local/texlive/2014/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnuff.pfb></usr/local/texlive/2014/texmf-dist/fon
-ts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
-/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times
-/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.p
-fb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (77 pages, 18863421 bytes).
+pdfTeX warning (dest): name{section*.54} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.52} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.50} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.45} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.47} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.43} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.69} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.62} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.60} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.58} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.55} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.53} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.51} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.49} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.46} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.44} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.42} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.39} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.37} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.35} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.33} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.66} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.40} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.70} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu4e.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu51.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu52.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu53.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu54.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5
+9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5a.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5b.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5d.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu65.pfb></usr/local/texlive/2014/texmf-dist/fonts/
+type1/arphic/gbsnu/gbsnu6b.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu6d.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu73.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu75.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+7e.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu97.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu9e.pfb></usr/local/texlive/2014/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnuff.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/u
+rw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/u
+tmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (76 pages, 18861395 bytes).
 PDF statistics:
- 2337 PDF objects out of 2487 (max. 8388607)
- 1736 compressed objects within 18 object streams
- 265 named destinations out of 1000 (max. 500000)
+ 2319 PDF objects out of 2487 (max. 8388607)
+ 1718 compressed objects within 18 object streams
+ 269 named destinations out of 1000 (max. 500000)
  632 words of extra memory for PDF output out of 10000 (max. 10000000)
 
