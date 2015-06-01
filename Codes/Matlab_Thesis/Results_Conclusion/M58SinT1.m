@@ -201,7 +201,7 @@ title('M58SinT1','FontSize',24,'FontWeight','bold','Color','k')
 xlabel('Extension (km)','FontSize',24,'FontWeight','bold','Color','k')
 ylabel('M','FontSize',24,'FontWeight','bold','Color','k')
 set(gca,'FontSize',24,'FontWeight','bold') % set the font size of the ticks of the axes
-axis([0 50 0.2 0.8])
+axis([0 50 0.5 0.8])
 %legend('Crgt','Mul','IFJ','Location','northeastoutside','FontWeight','bold')
 
 
