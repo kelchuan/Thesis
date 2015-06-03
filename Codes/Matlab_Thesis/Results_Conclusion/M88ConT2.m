@@ -47,8 +47,8 @@ IFJ_1_Me = 40;
     hold on
 
 %FA
-orange = [1,.5,0.3]; %define color for ploting fault alternation
-
+%orange = [1,.5,0.3]; %define color for ploting fault alternation
+orange = [0,0,0];
 %FA_1 @B440kyr~E490kyr
 FA_1_TB = (440/20 - 0) / dT + 1;
 FA_1_TB = round(FA_1_TB);
@@ -61,7 +61,7 @@ FA_1_Me = 40;
 
     errorbar(T(FA_1_TB:FA_1_TE),...
         0.5 * (M(FA_1_Mb) + M(FA_1_Me)) * ones(size(T(FA_1_TB:FA_1_TE))),...
-        0.5 * abs(M(FA_1_Mb) - M(FA_1_Me)) * ones(size(T(FA_1_TB:FA_1_TE))),'b.','MarkerEdgeColor',orange,...
+        0.5 * abs(M(FA_1_Mb) - M(FA_1_Me)) * ones(size(T(FA_1_TB:FA_1_TE))),'bx','MarkerEdgeColor',orange,...
                        'MarkerFaceColor','g','LineWidth',1,'Markersize',18),
     hold on
 

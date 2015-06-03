@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{30}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -35,14 +35,6 @@ D.~Blackman, J.~Karson, and D.~Kelley.
 \newblock Geology of the atlantis massif (mid-atlantic ridge, 30 n):
   Implications for the evolution of an ultramafic oceanic core complex.
 \newblock \emph{Marine Geophysical \ldots}, 2002.
-
-\bibitem[Blackman et~al.(2009)Blackman, Canales, and Harding]{Blackman2009}
-D.~K. Blackman, J.~P. Canales, and A.~Harding.
-\newblock Geophysical signatures of oceanic core complexes.
-\newblock \emph{Geophysical Journal International}, 178\penalty0 (2):\penalty0
-  593--613, 2009.
-\newblock ISSN 0956540X.
-\newblock \doi{10.1111/j.1365-246X.2009.04184.x}.
 
 \bibitem[Buck et~al.(2005)Buck, Lavier, and Poliakov]{Buck2005}
 R.~Buck, L.~Lavier, and A.~Poliakov.
@@ -149,14 +141,15 @@ J.~Lin, G.~M. Purdy, H.~Schouten, J.-C. Sempere, and C.~Zervas.
 \newblock ISSN 0028-0836.
 \newblock \doi{10.1038/344627a0}.
 
-\bibitem[Mallows and Searle(2012)]{Mallows2012}
-C.~Mallows and R.~C. Searle.
-\newblock A geophysical study of oceanic core complexes and surrounding
-  terrain, mid-atlantic ridge 13 $\degree$n-14 $\degree$n.
-\newblock \emph{Geochemistry, Geophysics, Geosystems}, 13\penalty0
-  (6):\penalty0 n/a--n/a, June 2012.
-\newblock ISSN 15252027.
-\newblock \doi{10.1029/2012GC004075}.
+\bibitem[MacLeod et~al.(2009)MacLeod, Searle, Murton, Casey, Mallows, Unsworth,
+  Achenbach, and Harris]{MacLeod2009}
+C.~MacLeod, R.~Searle, B.~Murton, J.~Casey, C.~Mallows, S.~Unsworth,
+  K.~Achenbach, and M.~Harris.
+\newblock Life cycle of oceanic core complexes.
+\newblock \emph{Earth and Planetary Science Letters}, 287\penalty0
+  (3-4):\penalty0 333--344, Oct. 2009.
+\newblock ISSN 0012821X.
+\newblock \doi{10.1016/j.epsl.2009.08.016}.
 
 \bibitem[Olive et~al.(2010)Olive, Behn, and Tucholke]{Olive2010}
 J.-A. Olive, M.~D. Behn, and B.~E. Tucholke.
@@ -199,15 +192,6 @@ W.~B.~F. Ryan, S.~M. Carbotte, J.~O. Coplan, S.~O'Hara, A.~Melkonian, R.~Arko,
 \newblock ISSN 15252027.
 \newblock \doi{10.1029/2008GC002332}.
 
-\bibitem[Schouten et~al.(2010)Schouten, Smith, Cann, and
-  Escartin]{Schouten2010}
-H.~Schouten, D.~K. Smith, J.~R. Cann, and J.~Escartin.
-\newblock Tectonic versus magmatic extension in the presence of core complexes
-  at slow-spreading ridges from a visualization of faulted seafloor topography.
-\newblock \emph{Geology}, 38\penalty0 (7):\penalty0 615--618, June 2010.
-\newblock ISSN 0091-7613.
-\newblock \doi{10.1130/G30803.1}.
-
 \bibitem[Smith et~al.(2014)Smith, Schouten, Dick, Cann, Salters, Marschall, Ji,
   Yoerger, Sanfilippo, Parnell-turner, Palmiotto, Zheleznov, Bai, Junkin,
   Urann, Dick, Sulanowska, Lemmond, and Curry]{Smith2014}
@@ -240,8 +224,10 @@ B.~E. Tucholke and J.~Lin.
 \bibitem[Tucholke et~al.(1998)Tucholke, Lin, and Kleinrock]{Tucholke1998}
 B.~E. Tucholke, J.~Lin, and M.~C. Kleinrock.
 \newblock Megamullions and mullion structure defining oceanic metamorphic core
-  complexes on the mid-atlantic ridge, 1998.
+  complexes on the mid-atlantic ridge.
+\newblock 103\penalty0 (B5):\penalty0 9857, 1998.
 \newblock ISSN 0148-0227.
+\newblock \doi{10.1029/98JB00167}.
 
 \bibitem[Tucholke et~al.(2008)Tucholke, Behn, Buck, and Lin]{Tucholke2008}
 B.~E. Tucholke, M.~D. Behn, W.~R. Buck, and J.~Lin.

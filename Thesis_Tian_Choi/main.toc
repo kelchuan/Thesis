@@ -47,22 +47,22 @@
 \contentsline {paragraph}{M57SqrtT2}{44}{figure.caption.58}
 \contentsline {section}{\numberline {4}Discussion}{46}{section.4}
 \contentsline {subsection}{\numberline {4.1}Summary of Results}{46}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Fault Alternation}{50}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Trade-off between bending and weakening}{50}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2}Fault Alternation}{49}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Trade-off between bending and weakening}{49}{subsubsection.4.2.1}
 \contentsline {subsubsection}{\numberline {4.2.2}Alternating on conjugate plate}{51}{subsubsection.4.2.2}
-\contentsline {subsubsection}{\numberline {4.2.3}Secondary near-axis normal fault}{52}{subsubsection.4.2.3}
-\contentsline {subsubsection}{\numberline {4.2.4}Effect of along ridge-axis coupling}{52}{subsubsection.4.2.4}
-\contentsline {subsection}{\numberline {4.3}Corrugations}{53}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Wavelength of corrugations}{53}{subsubsection.4.3.1}
-\contentsline {subsection}{\numberline {4.4}Influence of healing}{53}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Comparing model results with nature observation}{53}{subsection.4.5}
-\contentsline {subsubsection}{\numberline {4.5.1}Cut back at 13$\ensuremath {^\circ }$N Mid-Atlantic Ridge (M28SqrtT1)}{53}{subsubsection.4.5.1}
-\contentsline {subsubsection}{\numberline {4.5.2}Double dome at 23$\ensuremath {^\circ }$N Mid-Atlantic Ridge (Kane Megamullions) (Several models)}{54}{subsubsection.4.5.2}
-\contentsline {subsubsection}{\numberline {4.5.3}Atlantis Massif Shape at 30$\ensuremath {^\circ }$N Mid-Atlantic Ridge ()}{55}{subsubsection.4.5.3}
-\contentsline {subsubsection}{\numberline {4.5.4}Shear low}{55}{subsubsection.4.5.4}
-\contentsline {subsubsection}{\numberline {4.5.5}Corrugations}{55}{subsubsection.4.5.5}
-\contentsline {subsection}{\numberline {4.6}Model Limitation}{55}{subsection.4.6}
-\contentsline {subsubsection}{\numberline {4.6.1}Fixed thermal structure effects and justification}{55}{subsubsection.4.6.1}
-\contentsline {subsection}{\numberline {4.7}Recommendation for Future Research}{55}{subsection.4.7}
-\contentsline {section}{\numberline {5}Conclusions}{56}{section.5}
-\contentsline {section}{Bibliography}{57}{section*.67}
+\contentsline {subsubsection}{\numberline {4.2.3}Secondary near-axis normal fault}{51}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Effect of along ridge-axis coupling}{51}{subsubsection.4.2.4}
+\contentsline {subsection}{\numberline {4.3}Corrugations}{52}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Wavelength of corrugations}{52}{subsubsection.4.3.1}
+\contentsline {subsection}{\numberline {4.4}Comparing model results with nature observation}{52}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Cut back at 13$\ensuremath {^\circ }$N Mid-Atlantic Ridge (M28SqrtT1)}{52}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Double dome at 23$\ensuremath {^\circ }$N Mid-Atlantic Ridge (Kane Megamullions) (Several models)}{53}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.3}Atlantis Massif Shape at 30$\ensuremath {^\circ }$N Mid-Atlantic Ridge ()}{54}{subsubsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.4}Shear low}{54}{subsubsection.4.4.4}
+\contentsline {subsubsection}{\numberline {4.4.5}Corrugations}{54}{subsubsection.4.4.5}
+\contentsline {subsection}{\numberline {4.5}Influence of healing}{54}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Model Limitation}{54}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Fixed thermal structure effects and justification}{54}{subsubsection.4.6.1}
+\contentsline {subsection}{\numberline {4.7}Recommendation for Future Research}{54}{subsection.4.7}
+\contentsline {section}{\numberline {5}Conclusions}{55}{section.5}
+\contentsline {section}{Bibliography}{56}{section*.64}

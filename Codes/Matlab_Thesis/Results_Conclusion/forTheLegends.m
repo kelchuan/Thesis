@@ -120,6 +120,41 @@ TF_1_Me = 5;
         0.5 * (M(TF_1_Mb) + M(TF_1_Me)) * ones(size(T(TF_1_TB:TF_1_TE))),...
         0.5 * abs(M(TF_1_Mb) - M(TF_1_Me)) * ones(size(T(TF_1_TB:TF_1_TE))),'gd','LineWidth',1,'Markersize',18),
     hold on
+
+%FA
+%orange = [1,.5,0.3]; %define color for ploting fault alternation
+orange = [0,0,0];
+%FA_1 @B440kyr~E490kyr
+FA_1_TB = (440/20 - 0) / dT + 1;
+FA_1_TB = round(FA_1_TB);
+
+FA_1_TE = (490/20 - 0) / dT + 1;
+FA_1_TE = round(FA_1_TE);
+
+FA_1_Mb = 1;
+FA_1_Me = 40;
+
+    errorbar(T(FA_1_TB:FA_1_TE),...
+        0.5 * (M(FA_1_Mb) + M(FA_1_Me)) * ones(size(T(FA_1_TB:FA_1_TE))),...
+        0.5 * abs(M(FA_1_Mb) - M(FA_1_Me)) * ones(size(T(FA_1_TB:FA_1_TE))),'bx','MarkerEdgeColor',orange,...
+                       'MarkerFaceColor','g','LineWidth',1,'Markersize',18),
+    hold on
+%FA_2 @B640kyr~E700kyr
+FA_2_TB = (640/20 - 0) / dT + 1;
+FA_2_TB = round(FA_2_TB);
+
+FA_2_TE = (700/20 - 0) / dT + 1;
+FA_2_TE = round(FA_2_TE);
+
+FA_2_Mb = 1;
+FA_2_Me = 40;
+
+    errorbar(T(FA_2_TB:FA_2_TE),...
+        0.5 * (M(FA_2_Mb) + M(FA_2_Me)) * ones(size(T(FA_2_TB:FA_2_TE))),...
+        0.5 * abs(M(FA_2_Mb) - M(FA_2_Me)) * ones(size(T(FA_2_TB:FA_2_TE))),'bo','MarkerEdgeColor',orange,...
+                       'LineWidth',1,'Markersize',18),
+    hold on
+
 %Ploting
 
 
@@ -129,7 +164,7 @@ xlabel('Extension (km)','FontSize',24,'FontWeight','bold','Color','k')
 ylabel('M','FontSize',24,'FontWeight','bold','Color','k')
 set(gca,'FontSize',28,'FontWeight','bold','LineWidth',3) % set the font size of the ticks of the axes
 axis([0 50 0.2 0.8])
-legend('Crgt','Mul','Mw','IFJ','AF','TF','Location','northeastoutside','FontSize',30,'FontWeight','bold')
+legend('Crgt','Mul','Mw','IFJ','AF','TF','FA_1','FA_2','Location','northeastoutside','FontSize',30,'FontWeight','bold')
 
 
 
