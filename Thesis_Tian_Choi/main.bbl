@@ -1,9 +1,18 @@
-\begin{thebibliography}{30}
+\begin{thebibliography}{32}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allken et~al.(2012)Allken, Huismans, and Thieulot]{Allken2012}
+V.~Allken, R.~S. Huismans, and C.~Thieulot.
+\newblock Factors controlling the mode of rift interaction in brittle-ductile
+  coupled systems: A 3d numerical study.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 13\penalty0
+  (5):\penalty0 1--18, 2012.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2012GC004077}.
 
 \bibitem[Baines et~al.(2008)Baines, Cheadle, John, and Schwartz]{Baines2008}
 G.~Baines, M.~J. Cheadle, B.~E. John, and J.~J. Schwartz.
@@ -109,6 +118,15 @@ J.~Escart\'{\i}n, D.~K. Smith, J.~Cann, H.~Schouten, C.~H. Langmuir, and
 C.~M.~R. Fowler.
 \newblock \emph{The solid earth: an introduction to global geophysics}.
 \newblock Cambridge University Press, 2004.
+
+\bibitem[Grimes et~al.(2008)Grimes, John, Cheadle, and Wooden]{Grimes2008}
+C.~B. Grimes, B.~E. John, M.~J. Cheadle, and J.~L. Wooden.
+\newblock Protracted construction of gabbroic crust at a slow spreading ridge:
+  Constraints from 206pb/238u zircon ages from atlantis massif and iodp hole
+  u1309d (30 $\degree$n, mar).
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 9\penalty0 (8), 2008.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2008GC002063}.
 
 \bibitem[Ito and Behn(2008)]{Ito2008}
 G.~Ito and M.~D. Behn.
