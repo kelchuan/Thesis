@@ -17,46 +17,44 @@ A level-1 auxiliary file: Discussion.aux
 A level-1 auxiliary file: Conclusions.aux
 The style file: abbrvnat.bst
 Database file #1: References.bib.bib
-Warning--empty journal in Tucholke1998
-You've used 32 entries,
+You've used 34 entries,
             2773 wiz_defined-function locations,
-            868 strings with 11838 characters,
-and the built_in function-call counts, 18103 in all, are:
-= -- 1644
-> -- 1282
+            879 strings with 12177 characters,
+and the built_in function-call counts, 18536 in all, are:
+= -- 1708
+> -- 1234
 < -- 11
-+ -- 428
-- -- 396
-* -- 1699
-:= -- 2879
-add.period$ -- 147
-call.type$ -- 32
++ -- 412
+- -- 378
+* -- 1731
+:= -- 2935
+add.period$ -- 157
+call.type$ -- 34
 change.case$ -- 226
-chr.to.int$ -- 32
-cite$ -- 65
-duplicate$ -- 675
-empty$ -- 1239
-format.name$ -- 444
-if$ -- 3696
+chr.to.int$ -- 34
+cite$ -- 68
+duplicate$ -- 715
+empty$ -- 1318
+format.name$ -- 428
+if$ -- 3799
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 34
-newline$ -- 219
-num.names$ -- 128
-pop$ -- 362
+missing$ -- 36
+newline$ -- 233
+num.names$ -- 136
+pop$ -- 352
 preamble$ -- 1
-purify$ -- 196
+purify$ -- 194
 quote$ -- 0
-skip$ -- 541
+skip$ -- 554
 stack$ -- 0
-substring$ -- 655
-swap$ -- 60
+substring$ -- 701
+swap$ -- 63
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 342
-warning$ -- 1
-while$ -- 145
+type$ -- 364
+warning$ -- 0
+while$ -- 155
 width$ -- 0
-write$ -- 520
-(There was 1 warning)
+write$ -- 555

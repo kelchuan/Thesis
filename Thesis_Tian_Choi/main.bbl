@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{34}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -210,17 +210,23 @@ W.~B.~F. Ryan, S.~M. Carbotte, J.~O. Coplan, S.~O'Hara, A.~Melkonian, R.~Arko,
 \newblock ISSN 15252027.
 \newblock \doi{10.1029/2008GC002332}.
 
-\bibitem[Smith et~al.(2014)Smith, Schouten, Dick, Cann, Salters, Marschall, Ji,
-  Yoerger, Sanfilippo, Parnell-turner, Palmiotto, Zheleznov, Bai, Junkin,
-  Urann, Dick, Sulanowska, Lemmond, and Curry]{Smith2014}
-D.~K. Smith, H.~Schouten, H.~J.~B. Dick, J.~R. Cann, V.~Salters, H.~R.
-  Marschall, F.~Ji, D.~Yoerger, A.~Sanfilippo, R.~Parnell-turner, C.~Palmiotto,
-  A.~Zheleznov, H.~Bai, W.~Junkin, B.~Urann, S.~Dick, M.~Sulanowska,
-  P.~Lemmond, and S.~Curry.
-\newblock Development and evolution of detachment faulting along 50 km of the
-  mid-atlantic ridge near 16.5$\degree$n.
-\newblock \emph{Geochemistry Geophysics Geosystems}, pages 4692--4711, 2014.
-\newblock \doi{10.1002/2014GC005563.Received}.
+\bibitem[Semp\'{e}r\'{e} et~al.(1993)Semp\'{e}r\'{e}, Lin, Brown, Schouten, and
+  Purdy]{Sempere1993}
+J.-C. Semp\'{e}r\'{e}, J.~Lin, H.~S. Brown, H.~Schouten, and G.~M. Purdy.
+\newblock Segmentation and morphotectonic variations along a slow-spreading
+  center : The mid-atlantic ridge (24 $\degree$00 $^{\prime}$ n $\sim$ 30
+  $\degree$ 40 $^{\prime}$ n).
+\newblock \emph{Marine Geophysical Researches}, pages 153--200, 1993.
+
+\bibitem[Smith et~al.(2008)Smith, Escart\'{\i}n, Schouten, and Cann]{Smith2008}
+D.~K. Smith, J.~Escart\'{\i}n, H.~Schouten, and J.~R. Cann.
+\newblock Fault rotation and core complex formation: Significant processes in
+  seafloor formation at slow-spreading mid-ocean ridges (mid-atlantic ridge, 13
+  $\degree$-15 $\degree$n).
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 9\penalty0 (3):\penalty0
+  n/a--n/a, Mar. 2008.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2007GC001699}.
 
 \bibitem[Tolstoy et~al.(1993)Tolstoy, Harding, and Orcutt]{Tolstoy1993}
 M.~Tolstoy, A.~J. Harding, and J.~A. Orcutt.
@@ -243,7 +249,8 @@ B.~E. Tucholke and J.~Lin.
 B.~E. Tucholke, J.~Lin, and M.~C. Kleinrock.
 \newblock Megamullions and mullion structure defining oceanic metamorphic core
   complexes on the mid-atlantic ridge.
-\newblock 103\penalty0 (B5):\penalty0 9857, 1998.
+\newblock \emph{Journal of Geophysical Research}, 103\penalty0 (B5):\penalty0
+  9857, 1998.
 \newblock ISSN 0148-0227.
 \newblock \doi{10.1029/98JB00167}.
 
@@ -267,5 +274,15 @@ D.~L. Whitney, C.~Teyssier, P.~Rey, and W.~R. Buck.
   (3-4):\penalty0 273--298, Dec. 2012.
 \newblock ISSN 0016-7606.
 \newblock \doi{10.1130/B30754.1}.
+
+\bibitem[Xu et~al.(2009)Xu, Canales, Tucholke, and DuBois]{Xu2009}
+M.~Xu, J.~P. Canales, B.~E. Tucholke, and D.~L. DuBois.
+\newblock Heterogeneous seismic velocity structure of the upper lithosphere at
+  kane oceanic core complex, mid-atlantic ridge.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 10\penalty0
+  (10):\penalty0 n/a--n/a, Oct. 2009.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2009GC002586}.
+\newblock URL \url{http://doi.wiley.com/10.1029/2009GC002586}.
 
 \end{thebibliography}
