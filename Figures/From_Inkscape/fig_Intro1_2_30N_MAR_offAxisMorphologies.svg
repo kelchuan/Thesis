@@ -15,7 +15,7 @@
    id="svg3781"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 20">
+   sodipodi:docname="fig_Intro1_2_30N_MAR_offAxisMorphologies.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="489.28572"
-     inkscape:cy="204.87322"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="327.66132"
+     inkscape:cy="528.12203"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -151,7 +151,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -265,13 +265,13 @@
     <text
        sodipodi:linespacing="125%"
        id="text5284-2-2-1"
-       y="172.41747"
-       x="-527.36768"
+       y="-449.83649"
+       x="1129.2825"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
        xml:space="preserve"><tspan
          style="font-size:72px;fill:#ff0000"
-         y="172.41747"
-         x="-527.36768"
+         y="-449.83649"
+         x="1129.2825"
          id="tspan5286-8-3-6"
          sodipodi:role="line">A'</tspan></text>
     <text

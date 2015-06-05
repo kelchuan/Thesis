@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="375.73684"
-     inkscape:cy="888.62131"
+     inkscape:zoom="0.5"
+     inkscape:cx="611.71664"
+     inkscape:cy="878.91568"
      inkscape:current-layer="layer1"
      id="namedview5493"
      showgrid="false"
      inkscape:window-width="1207"
      inkscape:window-height="703"
-     inkscape:window-x="47"
-     inkscape:window-y="12"
+     inkscape:window-x="63"
+     inkscape:window-y="5"
      inkscape:window-maximized="0" />
   <defs
      id="defs5491">
@@ -185,6 +185,34 @@
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          style="stroke:#f27a0d;stroke-width:1.0pt;fill:#f27a0d;fill-rule:evenodd"
          transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5094-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1SendF"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1SendF-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4677-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#f27a0d;fill-rule:evenodd;stroke:#f27a0d;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
     </marker>
   </defs>
   <metadata
@@ -1002,7 +1030,30 @@
          id="flowPara3392">fault jump</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path3622"
-       d="m 1493.4096,68.100398 50.9116,31.112699"
+       d="m 1500.0178,74.086481 57.3133,16.588444"
+       style="fill:none;stroke:#f27a0d;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendF)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3949-5-3-0-8"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       transform="translate(352.39882,133.60768)"><flowRegion
+         id="flowRegion3951-8-6-1-6"><rect
+           id="rect3953-2-7-5-6"
+           width="375.10266"
+           height="59.296478"
+           x="714.17786"
+           y="-357.57788"
+           style="font-size:40px;fill:#008000" /></flowRegion><flowPara
+         id="flowPara3955-7-9-4-6"
+         style="font-size:40px;fill:#008000">Corrugations</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#118519;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+       d="m 1188.3851,-213.25561 -114.2044,-77.26173"
+       id="path6975-7"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3622-1"
+       d="m 1466.2973,84.138439 22.8048,21.438991"
        style="fill:none;stroke:#f27a0d;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1SendF)" />
   </g>
 </svg>
