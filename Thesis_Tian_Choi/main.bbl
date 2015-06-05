@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{39}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -114,6 +114,15 @@ J.~Escart\'{\i}n, D.~K. Smith, J.~Cann, H.~Schouten, C.~H. Langmuir, and
 \newblock ISSN 0028-0836.
 \newblock \doi{10.1038/nature07333}.
 
+\bibitem[Ferrill et~al.(1999)Ferrill, Stamatakos, Sims, Evans, and
+  Treagus]{Ferrill1999}
+D.~A. Ferrill, J.~A. Stamatakos, D.~Sims, J.~P.~e. Evans, and S.~H.~e. Treagus.
+\newblock Normal fault corrugation; implications for growth and seismicity of
+  active normal faults$\backslash$rquestions in structural geology; 20th
+  anniversary special issue.
+\newblock \emph{Journal of Structural Geology}, 21\penalty0 (8-9):\penalty0
+  1027--1038, 1999.
+
 \bibitem[Fowler(2004)]{Fowler2004}
 C.~M.~R. Fowler.
 \newblock \emph{The solid earth: an introduction to global geophysics}.
@@ -218,6 +227,14 @@ J.-C. Semp\'{e}r\'{e}, J.~Lin, H.~S. Brown, H.~Schouten, and G.~M. Purdy.
   $\degree$ 40 $^{\prime}$ n).
 \newblock \emph{Marine Geophysical Researches}, pages 153--200, 1993.
 
+\bibitem[Smith et~al.(2006)Smith, Cann, and Escart\'{\i}n]{Smith2006}
+D.~K. Smith, J.~R. Cann, and J.~Escart\'{\i}n.
+\newblock Widespread active detachment faulting and core complex formation near
+  13 degrees n on the mid-atlantic ridge.
+\newblock \emph{Nature}, 442\penalty0 (7101):\penalty0 440--3, July 2006.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature04950}.
+
 \bibitem[Smith et~al.(2008)Smith, Escart\'{\i}n, Schouten, and Cann]{Smith2008}
 D.~K. Smith, J.~Escart\'{\i}n, H.~Schouten, and J.~R. Cann.
 \newblock Fault rotation and core complex formation: Significant processes in
@@ -227,6 +244,26 @@ D.~K. Smith, J.~Escart\'{\i}n, H.~Schouten, and J.~R. Cann.
   n/a--n/a, Mar. 2008.
 \newblock ISSN 15252027.
 \newblock \doi{10.1029/2007GC001699}.
+
+\bibitem[Smith et~al.(2014)Smith, Schouten, Dick, Cann, Salters, Marschall, Ji,
+  Yoerger, Sanfilippo, Parnell-turner, Palmiotto, Zheleznov, Bai, Junkin,
+  Urann, Dick, Sulanowska, Lemmond, and Curry]{Smith2014}
+D.~K. Smith, H.~Schouten, H.~J.~B. Dick, J.~R. Cann, V.~Salters, H.~R.
+  Marschall, F.~Ji, D.~Yoerger, A.~Sanfilippo, R.~Parnell-turner, C.~Palmiotto,
+  A.~Zheleznov, H.~Bai, W.~Junkin, B.~Urann, S.~Dick, M.~Sulanowska,
+  P.~Lemmond, and S.~Curry.
+\newblock Development and evolution of detachment faulting along 50 km of the
+  mid-atlantic ridge near 16.5$\degree$n.
+\newblock \emph{Geochemistry Geophysics Geosystems}, pages 4692--4711, 2014.
+\newblock \doi{10.1002/2014GC005563.Received}.
+
+\bibitem[Spencer(1999)]{Spencer1999}
+J.~E. Spencer.
+\newblock Geologic continuous casting below continental and deep-sea detachment
+  faults and at the striated extrusion of sacsayhuaman, peru.
+\newblock \emph{Geology}, 27\penalty0 (4):\penalty0 327--330, 1999.
+\newblock ISSN 00917613.
+\newblock \doi{10.1130/0091-7613(1999)027<0327:GCCBCA>2.3.CO;2}.
 
 \bibitem[Tolstoy et~al.(1993)Tolstoy, Harding, and Orcutt]{Tolstoy1993}
 M.~Tolstoy, A.~J. Harding, and J.~A. Orcutt.
@@ -274,6 +311,15 @@ D.~L. Whitney, C.~Teyssier, P.~Rey, and W.~R. Buck.
   (3-4):\penalty0 273--298, Dec. 2012.
 \newblock ISSN 0016-7606.
 \newblock \doi{10.1130/B30754.1}.
+
+\bibitem[Wong and Gans(2008)]{Wong2008}
+M.~S. Wong and P.~B. Gans.
+\newblock Geologic, structural, and thermochronologic constraints on the
+  tectonic evolution of the sierra mazat\'{a}n core complex, sonora, mexico:
+  New insights into metamorphic core complex formation.
+\newblock \emph{Tectonics}, 27\penalty0 (4):\penalty0 1--31, 2008.
+\newblock ISSN 02787407.
+\newblock \doi{10.1029/2007TC002173}.
 
 \bibitem[Xu et~al.(2009)Xu, Canales, Tucholke, and DuBois]{Xu2009}
 M.~Xu, J.~P. Canales, B.~E. Tucholke, and D.~L. DuBois.
