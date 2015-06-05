@@ -3,9 +3,19 @@
 \label{ch:Methods}
 
 \subsection{Method of approach}
-The numerical modeling code, SNAC (\textbf{S}tGermai\textbf{N} \textbf{A}nalysis of \textbf{C}ontinua), is an explicit Lagrangian finite element code that solves the force and energy \add[XT]{find out which one is energy balance equation} balance equations for elasto-visco-plastic materials. Figure~\ref{fig_Methods7_3} shows major components of SNAC.
+The numerical modeling code, SNAC (\textbf{S}tGermai\textbf{N} \textbf{A}nalysis of \textbf{C}ontinua), is an explicit Lagrangian finite element code that solves the force and energy %\add[XT]{find out which one is energy balance equation}
+balance equations for elasto-visco-plastic materials. Figure~\ref{fig_Methods7_3} shows major components of SNAC.
 
-For each time step, strain and strain rates are updated based on the initial or previous velocity fields under the constraints from boundary conditions. A constitutive model returns updated stresses corresponding to these deformation measures. Internal forces are then calculated from the updated stresses, which is plugged into the momentum balance equation together with the body force term. Then, the damped \add[XT]{better understand the damped force} net force divided by inertial mass yields acceleration at a node point, which is time-integrated to velocity and displacement.
+\begin{figure}[h]
+ \centering
+  \includegraphics[width=1.0\textwidth]{./Figures/fig_Methods7_3.png}
+ \caption{\small{Essential components of the numerical method.}}
+ \label{fig_Methods7_3}
+\end{figure}
+
+For each time step, strain and strain rates are updated based on the initial or previous velocity fields under the constraints from boundary conditions. A constitutive model returns updated stresses corresponding to these deformation measures. Internal forces are then calculated from the updated stresses, which is plugged into the momentum balance equation together with the body force term. Then, the damped
+%\add[XT]{better understand the damped force}
+net force divided by inertial mass yields acceleration at a node point, which is time-integrated to velocity and displacement.
 
 A 3D domain is discretized into hexahedral elements, each of which is in turn divided into two sets of tetrahedra. This symmetric discretization prevents faulting from favoring a specific direction or ``mesh grains''. 
 
@@ -13,28 +23,78 @@ Rheology for the oceanic lithosphere is assumed to be elasto-visco-plastic (EVP)
 
 For 3D diking processs, the strain $\Delta\varepsilon_{xx}$ associated with diking leads to stresses changes, $\Delta\sigma_{xx}$, $\Delta\sigma_{yy}$ and $\Delta\sigma_{zz}$. These stress changes due to diking are computed according to the linear elastic constitutive equations $\sigma_{ij}=\lambda\varepsilon_{kk}\delta_{ij}+2\mu\varepsilon_{ij}$.
 
-\begin{figure}[H]
+\subsection{Model Setup}
+
+\begin{figure}[h]
  \centering
-%  \includegraphics[scale=0.65]{fig_Methods7_2.png}
-  \includegraphics[width=1.0\textwidth]{./Figures/fig_Methods7_3.png}
- \caption{\small{Essential components of the numerical method.}}
- \label{fig_Methods7_3}
+  \includegraphics[width=1.0\textwidth] {./Figures/fig_Methods_Model_Setup.eps}
+ \caption{Model setup.}
+ \label{fig_Methods8_1}
 \end{figure}
 
-\subsection{Model Setup}
-The 3D models have a common geometry of 60 km $\times$ 20 km $\times$ 20 km in $x$, $y$ and $z$ axes respectively with a resolution ($\Delta x$) of 1 km (i.e., $\Delta x$ is the size of each hexahedron element). %For comparison with the previous 2D models \citep[e.g.][]{Buck2005, Tucholke2008}, I \note[EC]{also run pseudo-2D models}{Are you still going to include pseudo-2D models?} and they have a geometry of (60 km $\times$ 20 km $\times$ 1 km) in $x$, $y$ and $z$ axes respectively with a resolution of $\Delta x$ = 0.5 km.
-The initial temperature field linearly increases from 0 \degree C at the top surface to 240 \degree C at the depth of 6 km, reflecting enhanced cooling due to hydrothermal circulation (Fig.~\ref{fig_Methods8_1}). Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. Two sides perpendicular to the $z$ coordinate axis are free-slip. The top surface has vertical tractions from water columns, of which heights are locally determined as (4000 - $h(x,z)$) m, where $h(x,z)$ is the topography at a location, $(x,z)$. The bottom surface is supported by the Winkler foundation. Temperature is fixed at 0 \degree C on the top surface and at 1300 \degree C on the bottom surface. 
+The 3D models have a common geometry of 60 km $\times$ 20 km $\times$ 20 km in $x$, $y$ and $z$ axes respectively with a resolution ($\Delta x$) of 1 km (i.e., $\Delta x$ is the size of each hexahedron element)(Fig.~\ref{fig_Methods8_1}). %For comparison with the previous 2D models \citep[e.g.][]{Buck2005, Tucholke2008}, I \note[EC]{also run pseudo-2D models}{Are you still going to include pseudo-2D models?} and they have a geometry of (60 km $\times$ 20 km $\times$ 1 km) in $x$, $y$ and $z$ axes respectively with a resolution of $\Delta x$ = 0.5 km.
+The initial temperature field linearly increases from 0 \degree C at the top surface to 240 \degree C at the depth of 6 km, reflecting enhanced cooling due to hydrothermal circulation. Below 6 km, the temperature profile follows the semi-infinite half-space cooling model of moving plates \citep[e.g.,][]{Turcotte2002}. Two sides perpendicular to the $z$ coordinate axis are free-slip. The top surface has vertical tractions from water columns, of which heights are locally determined as (4000 - $h(x,z)$) m, where $h(x,z)$ is the topography at a location, $(x,z)$. The bottom surface is supported by the Winkler foundation. Temperature is fixed at 0 \degree C on the top surface and at 1300 \degree C on the bottom surface. 
 
 Diking, represented by the factor M as described above, is assumed to occur in the middle of the doamin (Fig.~\ref{fig_Methods8_1}), where the lithosphere is the thinnest.
 
 We adopt the linear isotropic elasticity, power-law viscosity of dry diabase \citep[e.g.,][]{Kirby1987, Buck2005} and the Mohr-Coulomb plastic model. The complete list of model parameters are given in Table~\hyperref[Tab_ModelParameters]{\ref{Tab_ModelParameters}}.
 
-\begin{figure}[h]
- \centering
-  \includegraphics[width=1.0\textwidth] {./Figures/fig_Methods_Model_Setup.eps}
- \caption{\small Model setup}
- \label{fig_Methods8_1}
-\end{figure}
+%\subsection{Parameters to control}
+Before running 3D models, I have run hundreds of psedudo-2D models for initial setup and benchmarking with previous studies \citep[e.g.,][]{Buck2005, Tucholke2008}. Preliminary pseudo-2D results show that the model behavior in faulting pattern is sensitive to the rate of strain weakening. Two cases of strain weakening are tested in the 3D models. In one case (denoted as Type 1 weakening), cohesion linearly decreases from 44 MPa (denoted as $C_{i}$) to 4 MPa ($C_{e}$) for plastic strain accumulating from 0 ($\varepsilon_{p_{i}}^{1}$) to 0.1 ($\varepsilon_{p_{e}}^{1}$). It has a characteristic fault slip of 150 m for pseudo-2D models and 300 m for 3D models. The other case (Type 2 weakening) assumes cohesion linearly decreasing from 44 MPa ($C_{i}$) to 4 MPa ($C_{e}$) for plastic strain accumulating from 0 ($\varepsilon_{p_{i}}^{2}$) to 0.33 ($\varepsilon_{p_{e}}^{2}$). In this case, the characteristic fault slip for pseudo-2D models is 500 m and for 3D models is 1 km. The characteristic fault slip is defined as $\Delta X_{c}$=3$\Delta x \varepsilon_{p_{e}}$ where 3 $\Delta x$ represents the thickness of the shear bands which is usually 2 to 4 times $\Delta x$ (size of a hexahedron element) \citep{Lavier2000}. When $\Delta X_{c}$ amount of slip takes place at the fault interface, the cohesion of the material at the faulting interface decreases to $C_{e}$. In this way, under the same amount of $\Delta X_{c}$, models with different resolution should produce the same faulting patterns. 
+
+Although how to estimate the M values from observations is a subject of on-going research, constraints are available from a large dataset of bathymetry, gravity and seismic surveys as well as geological drilling. Generally, at slow spreading ridges, magma supplies mostly at the center of the ridge segment and decreases towards the tip of the segment \citep[e.g.,][]{Tolstoy1993,Chen1999,Carbotte2015}. There is also evidence for shorter wavelength of 10 to 20 km discrete focus of magma accretion along the ridge axis \citep{Lin1990}.
+
+The numerical cost of a 3D model is non-trivial. For 2 Myr of model time, each model usually runs on 192 cores for about 48 hours (i.e., around 10$^{4}$ core-hours). \add[EC]{Add some more details about the hardware you used. CPU maker, model, clock speed. Also, information about networking hardwar of the cluster, since it's relevant to the numerical cost.} %\add[XT]{use 96 cores can improve the efficiency a little bit (Longer time but smaller amount of SUs needed).})
+
+Based on these observational constraints and computational cost, I start considering a few scenarios of variations in M along the ridge axis. They are 1) three types of functional forms, linear, sinusoidal and square root; 2) three ranges of M variation along the ridge axis, 0.5 to 0.7, 0.5 to 0.8 and 0.2 to 0.8; and 3) two types of weakening rate, type 1 and type 2.
+% \note[EC]{I think I suggested to use more explicit names like fast and slow but looks like you decided to stick to type 1 and 2.}.
+
+While 18 models are possible, I could run 14 models with the available computational resources. 
+%with M varying along the ridge-axis and 1 model with constant M = 0.8. 
+The complete list of the models is given in Table~\hyperref[Tab1_1]{\ref{Tab1_1}}. 
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l l l l l}
+\hline
+\hline
+Model& M range & Functional Form & Type of weakening & For short \\ 
+\hline
+1    &  0.2-0.8    &   Linear        & Type 1   &  M28LinT1\\
+\hline
+2    &  0.2-0.8    &   Sinusoidal    & Type 1   &  M28SinT1\\
+\hline
+3    &  0.2-0.8    &   Square Root   & Type 1   &  M28SqrtT1 \\
+\hline
+4    &  0.5-0.7    &   Linear        & Type 1   &  M57LinT1 \\
+\hline
+5    &  0.5-0.7    &   Sinusoidal    & Type 1   &  M57SinT1 \\
+\hline
+6    &  0.5-0.7    &   Square Root    & Type 1   &  M57SqrtT1 \\
+\hline
+7    &  0.5-0.7    &   Linear       & Type 2   &  M57LinT2 \\
+\hline
+8    &  0.5-0.7    &   Sinusoidal    & Type 2   &  M57SinT2 \\
+\hline
+9    &  0.5-0.7    &   Square Root   & Type 2   &  M57SqrtT2  \\
+\hline
+10    &  0.5-0.8    &   Sinusoidal    & Type 1   &  M58SinT1  \\
+\hline
+11   &  0.5-0.8    &   Square Root   & Type 1   &  M58SqrtT1   \\
+\hline
+12    &  0.5-0.8    &   Linear        & Type 2   &  M58LinT2   \\
+\hline
+13    &  0.5-0.8    &   Sinusoidal    & Type 2   &  M58SinT2   \\
+\hline
+14   &  0.5-0.8    &   Square Root   & Type 2   &  M58SqrtT2   \\
+\hline
+%14   &  M88    &   Constant      & Type 2   &  M88ConT2 \\
+%\hline
+\hline
+\end{tabular}
+\caption{List of 3D numerical experiments.}
+\label{Tab1_1}
+\end{table}
 
 \begin{table}[h]
 \caption{Summary of 3D Model Parameters}
@@ -123,57 +183,6 @@ Number & Variable & Description & Value & Units \\
 
 \label{Tab_ModelParameters}
 \end{table}
-
-%\subsection{Parameters to control}
-Before running 3D models, I have run hundreds of psedudo-2D models for initial setup and benchmarking with previous studies \citep[e.g.,][]{Buck2005, Tucholke2008}. Preliminary pseudo-2D results show that the model behavior in faulting pattern is sensitive to the rate of strain weakening. Two cases of strain weakening are tested in the 3D models. In one case (denoted as Type 1 weakening), cohesion linearly decreases from 44 MPa (denoted as $C_{i}$) to 4 MPa ($C_{e}$) for plastic strain accumulating from 0 ($\varepsilon_{p_{i}}^{1}$) to 0.1 ($\varepsilon_{p_{e}}^{1}$). It has a characteristic fault slip of 150 m for pseudo-2D models and 300 m for 3D models. The other case (Type 2 weakening) assumes cohesion linearly decreasing from 44 MPa ($C_{i}$) to 4 MPa ($C_{e}$) for plastic strain accumulating from 0 ($\varepsilon_{p_{i}}^{2}$) to 0.33 ($\varepsilon_{p_{e}}^{2}$). In this case, the characteristic fault slip for pseudo-2D models is 500 m and for 3D models is 1 km. The characteristic fault slip is defined as $\Delta X_{c}$=3$\Delta x \varepsilon_{p_{e}}$ where 3 $\Delta x$ represents the thickness of the shear bands which is usually 2 to 4 times $\Delta x$ (size of a hexahedron element) \citep{Lavier2000}. When $\Delta X_{c}$ amount of slip takes place at the fault interface, the cohesion of the material at the faulting interface decreases to $C_{e}$. In this way, under the same amount of $\Delta X_{c}$, models with different resolution should produce the same faulting patterns. 
-
-Although how to estimate the M values from observations is a subject of on-going research, constraints are available from a large dataset of bathymetry, gravity and seismic surveys as well as geological drilling. Generally, at slow spreading ridges, magma supplies mostly at the center of the ridge segment and decreases towards the tip of the segment \citep{Tolstoy1993,Chen1999,Carbotte2015}. There is also evidence for shorter wavelength of 10 to 20 km discrete focus of magma accretion along the ridge axis \citep{Lin1990}.
-
-The numerical cost of a 3D model is non-trivial. For 2 Myr of model time, each model usually runs on 192 cores for about 48 hours (i.e., around 10$^{4}$ core-hours). \add[EC]{Add some more details about the hardware you used. CPU maker, model, clock speed. Also, information about networking hardwar of the cluster, since it's relevant to the numerical cost.} %\add[XT]{use 96 cores can improve the efficiency a little bit (Longer time but smaller amount of SUs needed).})
-
-Based on these observational constraints and computational cost, I start considering a few scenarios of variations in M along the ridge axis. They are 1) there types of functional forms, linear, sinusoidal and square root; 2) three ranges of M variation along the ridge axis, 0.5 to 0.7, 0.5 to 0.8 and 0.2 to 0.8; and 3) two types of weakening rate, type 1 and type 2 \note[EC]{I think I suggested to use more explicit names like fast and slow but looks like you decided to stick to type 1 and 2.}.
-
-While 18 models are possible, I could run 11 models with the available computational resources. 
-%with M varying along the ridge-axis and 1 model with constant M = 0.8. 
-The complete list of the models is given in Table~\hyperref[Tab1_1]{\ref{Tab1_1}}. 
-
-\begin{table}[h]
-\centering
-\begin{tabular}{l l l l l}
-\hline
-\hline
-Model& M range & Functional Form & Type of weakening & For short \\ 
-\hline
-1    &  0.2-0.8    &   Linear        & Type 1   &  M28LinT1\\
-\hline
-2    &  0.2-0.8    &   Sinusoidal    & Type 1   &  M28SinT1\\
-\hline
-3    &  0.2-0.8    &   Square Root   & Type 1   &  M28SqrtT1 \\
-\hline
-4    &  0.5-0.7    &   Linear        & Type 1   &  M57LinT1 \\
-\hline
-5    &  0.5-0.7    &   Sinusoidal    & Type 1   &  M57SinT1 \\
-\hline
-6    &  0.5-0.7    &   Sinusoidal    & Type 2   &  M57SinT2 \\
-\hline
-7    &  0.5-0.7    &   Square Root   & Type 2   &  M57SqrtT2  \\
-\hline
-8    &  0.5-0.8    &   Sinusoidal    & Type 1   &  M58SinT1  \\
-\hline
-9    &  0.5-0.8    &   Sinusoidal    & Type 2   &  M58SinT2   \\
-\hline
-10   &  0.5-0.8    &   Square Root   & Type 1   &  M58SqrtT1   \\
-\hline
-11   &  0.5-0.8    &   Square Root   & Type 2   &  M58SqrtT2   \\
-\hline
-%12   &  M88    &   Constant      & Type 2   &  M88ConT2 \\
-%\hline
-\hline
-\end{tabular}
-\caption{List of 3D numerical experiments.}
-\label{Tab1_1}
-\end{table}
-
 
 
 
