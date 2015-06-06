@@ -44,12 +44,12 @@
 \contentsline {paragraph}{M57LinT1}{42}{figure.caption.57}
 \contentsline {section}{\numberline {4}Discussion}{45}{section.4}
 \contentsline {subsection}{\numberline {4.1}Overview of model behaviors}{45}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Comparing model results with natural observations}{50}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Inward fault jump}{50}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2}Comparing model results with natural observations}{49}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Inward fault jump}{49}{subsubsection.4.2.1}
 \contentsline {subsubsection}{\numberline {4.2.2}Fault alternation}{52}{subsubsection.4.2.2}
 \contentsline {subsubsection}{\numberline {4.2.3}Mass wasting}{55}{subsubsection.4.2.3}
 \contentsline {subsubsection}{\numberline {4.2.4}Hourglass shape median valley}{56}{subsubsection.4.2.4}
 \contentsline {subsubsection}{\numberline {4.2.5}Mullion structure}{57}{subsubsection.4.2.5}
-\contentsline {subsubsection}{\numberline {4.2.6}Corrugations}{59}{subsubsection.4.2.6}
-\contentsline {section}{\numberline {5}Conclusions}{62}{section.5}
-\contentsline {section}{Bibliography}{64}{section*.73}
+\contentsline {subsubsection}{\numberline {4.2.6}Corrugations}{57}{subsubsection.4.2.6}
+\contentsline {section}{\numberline {5}Conclusions}{61}{section.5}
+\contentsline {section}{Bibliography}{63}{section*.72}
