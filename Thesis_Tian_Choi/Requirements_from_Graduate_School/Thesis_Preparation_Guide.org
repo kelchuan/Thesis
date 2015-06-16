@@ -106,7 +106,7 @@ The title page must exactly match the wording, spacing, and formatting of th[[./
 If a Preface is included in your document, it should contain a brief statement of the scope or purpose in writing the paper. It may also explain the author's choice of subject and his/her belief in its importance.
 The Preface must not contain any material covered elsewhere in the paper, in the Abstract, the Introduction, or the Summary and Conclusions.
 If articles submitted for publication are used as sections or chapters in your manuscript, the Preface should specify which journal(s) each section or chapter have been submitted to or accepted for publication.
-** TODO 4.6 Abstract Page 
+** DONE 4.6 Abstract Page 
 The abstract page must exactly match the wording, spacing, and formatting of [[http://www.memphis.edu/gradschool/abstract.php][this example page]].  
 *** The abstract should be the last part to be written. It must show the reader both the context and content of the work and must include the purpose of the work, including any hypothesis to be tested or major question asked; the approach used; the main findings; and the conclusions.
 *** The abstract must NOT include internal headings or author citations.
@@ -202,11 +202,11 @@ The full http address (URL)--some style manuals may require you to put the addre
 The date you most recently accessed the materials  
 * TODO 6. REVIEW PROCESS
 Submit the following items to the Graduate School to begin the review process, *AFTER* you have defended and made all corrections given to you at the time of your final defense:
-** A *paper copy printed* on standard computer paper must be submitted.
-** A completed *Final Committee Approval for Electronic Thesis* or Dissertation Submission form signed by ALL committee members.
-** A *Thesis/Dissertation Defense form*, if one has not been previously submitted by your department.The IRB or IACUC approval form or waiver, if human or animal subjects were used for your research.
-** An APA or *Non-APA checklist* appropriate to your discipline. *Both the student and major professor* must check all applicable items and *sign the form*.
-** REMINDER: The Graduate School is required to have a *Comprehensive Exam Results form* for ALL degree seeking students. If you have not been administered a separate oral and/or written comprehensive exam by your department, the oral defense of your thesis will satisfy this requirement; therefore, this form must be submitted to Graduate School by your department.
+** *1* A *paper copy printed* on standard computer paper must be submitted.
+** *2* A completed *Final Committee Approval for Electronic Thesis* or Dissertation Submission form signed by ALL committee members.
+** *3* A *Thesis/Dissertation Defense form*, if one has not been previously submitted by your department.The IRB or IACUC approval form or waiver, if human or animal subjects were used for your research.
+** *4* An APA or *Non-APA checklist* appropriate to your discipline. *Both the student and major professor* must check all applicable items and *sign the form*.
+** *REMINDER*: The Graduate School is required to have a *Comprehensive Exam Results form* for ALL degree seeking students. If you have not been administered a separate oral and/or written comprehensive exam by your department, the oral defense of your thesis will satisfy this requirement; therefore, this form must be submitted to Graduate School by your department.
 The checklists are NOT to be used as a style guide for formatting purposes. They are used to ensure that you have followed specific Graduate School requirements, in addition to what is required in your style manual or refereed journal.
 If you did not use the Chicago Manual of Style, APA, ASA, ADA, MLA, or Kate Turabian manuals for formatting purposes, you must submit a sample article from the refereed journal and the journal's style guide or "Instructions to Author" to serve as a guideline for formatting references and citations.
 * 7. FINAL SUBMISSION PROCESS
