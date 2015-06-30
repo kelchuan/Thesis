@@ -10,7 +10,7 @@
 \contentsline {figure}{\numberline {10}{\ignorespaces Illustration of bending stresses in lithosphere associated with faulting at the MOR.}}{16}{figure.caption.14}
 \contentsline {figure}{\numberline {11}{\ignorespaces Bird's-eye view of velocity field with plastic strain ploted with opacity linearly proportional to its value. (color scale is the same as Figure\nobreakspace {}\hyperref [fig_Results1_1]{\ref {fig_Results1_1}.a)})\relax }}{17}{figure.caption.15}
 \contentsline {figure}{\numberline {12}{\ignorespaces Bird's-eye view of $\sigma _{xz}$.\relax }}{17}{figure.caption.16}
-\contentsline {figure}{\numberline {13}{\ignorespaces Evolution of plastic strain and surface topography of the model: M88ConT2 (Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}}). (color scale of topography is the same as Figure\nobreakspace {}\hyperref [fig_Results1_1]{\ref {fig_Results1_1}.a})\relax }}{18}{figure.caption.17}
+\contentsline {figure}{\numberline {13}{\ignorespaces Evolution of plastic strain and surface topography of the model: M88ConT2 (Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}}). Color scale of topography is the same as Figure\nobreakspace {}\hyperref [fig_Results1_1]{\ref {fig_Results1_1}.a}.\relax }}{18}{figure.caption.17}
 \contentsline {figure}{\numberline {14}{\ignorespaces The second invariant of strain rates plotted on the reference model's vertical cross-sections along the ridge at 107.5 kyr.}}{19}{figure.caption.18}
 \contentsline {figure}{\numberline {15}{\ignorespaces Velocity of the mass wasting hanging wall.}}{22}{figure.caption.19}
 \contentsline {figure}{\numberline {16}{\ignorespaces The weak detachment fault tip reaches the pre-existing shear stress.}}{22}{figure.caption.20}
@@ -43,9 +43,9 @@
 \contentsline {figure}{\numberline {43}{\ignorespaces Bathymetry from 12.8$\sim $14.2 $\ensuremath {^\circ }$N Mid-Atlantic Ridge.}}{54}{figure.caption.62}
 \contentsline {figure}{\numberline {44}{\ignorespaces Trade-off between change in bending force $\Delta F_{b}$ and weakening in the fault interface $\Delta F_{w}$. Adapted from \citep {Lavier2000}.}}{55}{figure.caption.63}
 \contentsline {figure}{\numberline {45}{\ignorespaces Comparing bathymetry at 13$\ensuremath {^\circ }$N Mid-Atlantic Ridge to the mass wasting behavior of M28SqrtT1.}}{56}{figure.caption.64}
-\contentsline {figure}{\numberline {46}{\ignorespaces Bathymetry and magnetization of 13$\sim $15 $\ensuremath {^\circ }$N MAR. Adapted from \citep {Smith2008}.\relax }}{57}{figure.caption.65}
+\contentsline {figure}{\numberline {46}{\ignorespaces Bathymetry and magnetization of 13$\sim $15 $\ensuremath {^\circ }$N MAR.}}{57}{figure.caption.65}
 \contentsline {figure}{\numberline {47}{\ignorespaces Hourglass median valley at 22 $\ensuremath {^\circ }$ 30 $^{\prime }$N MAR.}}{57}{figure.caption.66}
-\contentsline {figure}{\numberline {48}{\ignorespaces Bathymetry around the Kane OCC at 23 $\ensuremath {^\circ }$N MAR.}}{59}{figure.caption.67}
-\contentsline {figure}{\numberline {49}{\ignorespaces Comparing bathymetry at 16 $\ensuremath {^\circ }$N Mid-Atlantic Ridge to the corrugations of M58SinT1 at 550 kyr.\relax }}{60}{figure.caption.68}
-\contentsline {figure}{\numberline {50}{\ignorespaces Simpler 3D models for formation mechanism of corrugation.}}{61}{figure.caption.69}
-\contentsline {figure}{\numberline {51}{\ignorespaces Simpler 3D model with 4 km of seawater pressure on top. Seeds are added along the whole ridge segment.}}{62}{figure.caption.70}
+\contentsline {figure}{\numberline {48}{\ignorespaces Bathymetry around the Kane OCC at 23 $\ensuremath {^\circ }$N MAR.}}{58}{figure.caption.67}
+\contentsline {figure}{\numberline {49}{\ignorespaces Comparing bathymetry at 16 $\ensuremath {^\circ }$N Mid-Atlantic Ridge to the corrugations of M58SinT1 at 550 kyr.\relax }}{59}{figure.caption.68}
+\contentsline {figure}{\numberline {50}{\ignorespaces Simpler 3D models for formation mechanism of corrugation.}}{60}{figure.caption.69}
+\contentsline {figure}{\numberline {51}{\ignorespaces Simpler 3D model with 4 km of seawater pressure on top. Seeds are added along the whole ridge segment.}}{61}{figure.caption.70}
