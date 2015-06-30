@@ -3,53 +3,53 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}Review of Literature}{1}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Statement of Research Purpose}{6}{subsection.1.2}
-\contentsline {section}{\numberline {2}Methods}{7}{section.2}
-\contentsline {subsection}{\numberline {2.1}Method of approach}{7}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Model Setup}{8}{subsection.2.2}
-\contentsline {section}{\numberline {3}Results}{13}{section.3}
-\contentsline {subsection}{\numberline {3.1}Reference model}{13}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Constant M model M88ConT2}{17}{subsubsection.3.1.1}
-\contentsline {subsection}{\numberline {3.2}Main structural characteristics}{18}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Location of termination}{18}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Geometry of trough}{19}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Inward fault jump}{20}{subsubsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.4}Fault alternation}{20}{subsubsection.3.2.4}
-\contentsline {subsubsection}{\numberline {3.2.5}Mass wasting}{21}{subsubsection.3.2.5}
-\contentsline {subsubsection}{\numberline {3.2.6}Hourglass-shaped median valley}{23}{subsubsection.3.2.6}
-\contentsline {subsubsection}{\numberline {3.2.7}Corrugations and mullion structures}{25}{subsubsection.3.2.7}
-\contentsline {paragraph}{Corrugations}{25}{figure.caption.26}
-\contentsline {paragraph}{Mullion structures}{26}{figure.caption.28}
-\contentsline {subsection}{\numberline {3.3}Effects of the functional forms of M variation}{27}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}M28T1}{27}{subsubsection.3.3.1}
-\contentsline {paragraph}{Inward fault jump}{27}{section*.30}
-\contentsline {paragraph}{Mass wasting}{28}{figure.caption.33}
-\contentsline {paragraph}{Hourglass-shaped median valley}{29}{section*.34}
-\contentsline {subsubsection}{\numberline {3.3.2}M58T2}{30}{subsubsection.3.3.2}
-\contentsline {subsection}{\numberline {3.4}Effects of the weakening rate}{31}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}M57SinT1 versus M57SinT2}{31}{subsubsection.3.4.1}
-\contentsline {paragraph}{M57SinT1}{32}{section*.39}
-\contentsline {paragraph}{M57SinT2}{33}{section*.41}
-\contentsline {subsubsection}{\numberline {3.4.2}M58SinT1 versus M58SinT2}{34}{subsubsection.3.4.2}
-\contentsline {paragraph}{M58SinT1}{34}{figure.caption.44}
-\contentsline {paragraph}{M58SinT2}{37}{figure.caption.47}
-\contentsline {subsubsection}{\numberline {3.4.3}M58SqrtT1 versus M58SqrtT2}{38}{subsubsection.3.4.3}
-\contentsline {paragraph}{M58SqrtT1}{38}{figure.caption.49}
-\contentsline {paragraph}{M58SqrtT2}{40}{figure.caption.51}
-\contentsline {subsection}{\numberline {3.5}Effects of the range of M variation}{41}{subsection.3.5}
-\contentsline {subsubsection}{\numberline {3.5.1}SinT1}{41}{subsubsection.3.5.1}
-\contentsline {paragraph}{M57SinT1 versus M58SinT1}{41}{section*.52}
-\contentsline {paragraph}{M28SinT1}{41}{figure.caption.54}
-\contentsline {subsubsection}{\numberline {3.5.2}M57SinT2 versus M58SinT2}{42}{subsubsection.3.5.2}
-\contentsline {subsubsection}{\numberline {3.5.3}M28LinT1 versus M57LinT1}{42}{subsubsection.3.5.3}
-\contentsline {paragraph}{M57LinT1}{42}{figure.caption.56}
-\contentsline {section}{\numberline {4}Discussion}{45}{section.4}
-\contentsline {subsection}{\numberline {4.1}Overview of model behaviors}{45}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Comparing model results with natural observations}{49}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Inward fault jump}{49}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Fault alternation}{52}{subsubsection.4.2.2}
-\contentsline {subsubsection}{\numberline {4.2.3}Mass wasting}{55}{subsubsection.4.2.3}
-\contentsline {subsubsection}{\numberline {4.2.4}Hourglass-shaped median valley}{56}{subsubsection.4.2.4}
-\contentsline {subsubsection}{\numberline {4.2.5}Mullion structure}{57}{subsubsection.4.2.5}
-\contentsline {subsubsection}{\numberline {4.2.6}Corrugations}{58}{subsubsection.4.2.6}
-\contentsline {section}{\numberline {5}Conclusions}{62}{section.5}
-\contentsline {section}{Bibliography}{64}{section*.71}
+\contentsline {section}{\numberline {2}Methods}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Method of approach}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Model Setup}{9}{subsection.2.2}
+\contentsline {section}{\numberline {3}Results}{14}{section.3}
+\contentsline {subsection}{\numberline {3.1}Reference model}{14}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Constant M model M88ConT2}{18}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Main structural characteristics}{19}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Location of termination}{19}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Geometry of trough}{20}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Inward fault jump}{21}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Fault alternation}{21}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Mass wasting}{22}{subsubsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.6}Hourglass-shaped median valley}{24}{subsubsection.3.2.6}
+\contentsline {subsubsection}{\numberline {3.2.7}Corrugations and mullion structures}{26}{subsubsection.3.2.7}
+\contentsline {paragraph}{Corrugations}{26}{figure.caption.26}
+\contentsline {paragraph}{Mullion structures}{27}{figure.caption.28}
+\contentsline {subsection}{\numberline {3.3}Effects of the functional forms of M variation}{28}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}M28T1}{28}{subsubsection.3.3.1}
+\contentsline {paragraph}{Inward fault jump}{28}{section*.30}
+\contentsline {paragraph}{Mass wasting}{29}{figure.caption.33}
+\contentsline {paragraph}{Hourglass-shaped median valley}{30}{section*.34}
+\contentsline {subsubsection}{\numberline {3.3.2}M58T2}{31}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Effects of the weakening rate}{32}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}M57SinT1 versus M57SinT2}{32}{subsubsection.3.4.1}
+\contentsline {paragraph}{M57SinT1}{33}{section*.39}
+\contentsline {paragraph}{M57SinT2}{34}{section*.41}
+\contentsline {subsubsection}{\numberline {3.4.2}M58SinT1 versus M58SinT2}{35}{subsubsection.3.4.2}
+\contentsline {paragraph}{M58SinT1}{35}{figure.caption.44}
+\contentsline {paragraph}{M58SinT2}{38}{figure.caption.47}
+\contentsline {subsubsection}{\numberline {3.4.3}M58SqrtT1 versus M58SqrtT2}{39}{subsubsection.3.4.3}
+\contentsline {paragraph}{M58SqrtT1}{39}{figure.caption.49}
+\contentsline {paragraph}{M58SqrtT2}{41}{figure.caption.51}
+\contentsline {subsection}{\numberline {3.5}Effects of the range of M variation}{42}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}SinT1}{42}{subsubsection.3.5.1}
+\contentsline {paragraph}{M57SinT1 versus M58SinT1}{42}{section*.52}
+\contentsline {paragraph}{M28SinT1}{42}{figure.caption.54}
+\contentsline {subsubsection}{\numberline {3.5.2}M57SinT2 versus M58SinT2}{43}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}M28LinT1 versus M57LinT1}{43}{subsubsection.3.5.3}
+\contentsline {paragraph}{M57LinT1}{43}{figure.caption.56}
+\contentsline {section}{\numberline {4}Discussion}{46}{section.4}
+\contentsline {subsection}{\numberline {4.1}Overview of model behaviors}{46}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Comparing model results with natural observations}{50}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Inward fault jump}{50}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Fault alternation}{53}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Mass wasting}{56}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Hourglass-shaped median valley}{57}{subsubsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.5}Mullion structure}{58}{subsubsection.4.2.5}
+\contentsline {subsubsection}{\numberline {4.2.6}Corrugations}{59}{subsubsection.4.2.6}
+\contentsline {section}{\numberline {5}Conclusions}{63}{section.5}
+\contentsline {section}{Bibliography}{65}{section*.71}
