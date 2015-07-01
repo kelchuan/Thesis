@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 JUL 2015 10:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 JUL 2015 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1215,7 +1215,7 @@ ees well with East Pa-cific Rise.
 
 Underfull \hbox (badness 10000) in paragraph at lines 73--73
 \OT1/ptm/m/n/12 Lower: mod-el-ing re-sult for slow spread-ing ridges agrees wel
-l with the bathymetry of Mid
+l with the bathymetry of
  []
 
 Package epstopdf Info: Source file: <./Figures/fig_Intro_Tucholke2008.eps>
@@ -1241,13 +1241,13 @@ used on input line 79.
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
 []\OT1/ptm/m/n/12 Figure 5: |Snap-shots of mod-eled fault be-hav-ior and seaflo
-or mor-phol-ogy for val-ues M $\OT1/cmr/m/n/12 =$
+or mor-phol-ogy for M $\OT1/cmr/m/n/12 =$ \OT1/ptm/m/n/12 0,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-\OT1/ptm/m/n/12 0, 0.5, and 0.7; model al-lows ther-mal evo-lu-tion. Struc-tura
-l in-ter-pre-ta-tion is su-per-im-posed
+\OT1/ptm/m/n/12 0.5, and 0.7; model al-lows ther-mal evo-lu-tion. Struc-tural i
+n-ter-pre-ta-tion is su-per-im-posed
  []
 
 
@@ -1976,6 +1976,12 @@ d mir-ror im-ages are put to-gether
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (2.73297pt too wide) in paragraph at lines 358--359
+\OT1/ptm/m/n/12 break-away for M28SqrtT1 moves fur-ther away from the ridge axi
+s. In ad-di-tion, M28SinT1 
+ []
 
 [30 <./Figures/fig_Results_3_3_1_M_type_plot_dM_dZ-eps-converted-to.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 379--379
@@ -2872,11 +2878,12 @@ del_4kwaterdepth_along_ridge_seed-eps-converted-to.pdf>]) [62]
 
 ] (./main.bbl [64
 
-] [65] [66] [67] [68])
+] [65] [66] [67])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
- [69]
+ [68]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
- (./main.aux (./Title_Page.aux) (./Copyright_Notice.aux) (./Dedication.aux)
+ (./main.aux
+(./Title_Page.aux) (./Copyright_Notice.aux) (./Dedication.aux)
 (./Acknowledgements.aux) (./Quotes.aux) (./Abstract.aux)
 (./Table_of_Contents.aux) (./List_of_Figures.aux) (./Introduction.aux)
 (./Methods.aux) (./Results.aux) (./Discussion.aux) (./Conclusions.aux))
@@ -2887,10 +2894,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 12317 strings out of 493117
- 193044 string characters out of 6135433
- 327646 words of memory out of 5000000
- 15089 multiletter control sequences out of 15000+600000
+ 12315 strings out of 493117
+ 193021 string characters out of 6135433
+ 327656 words of memory out of 5000000
+ 15088 multiletter control sequences out of 15000+600000
  31313 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,17n,48p,3284b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2934,10 +2941,10 @@ ts/type1/arphic/gbsnu/gbsnuff.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
 e1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/tim
 es/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a
 .pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (83 pages, 23210844 bytes).
+Output written on main.pdf (82 pages, 23209471 bytes).
 PDF statistics:
- 2030 PDF objects out of 2073 (max. 8388607)
- 1524 compressed objects within 16 object streams
- 232 named destinations out of 1000 (max. 500000)
+ 2026 PDF objects out of 2073 (max. 8388607)
+ 1521 compressed objects within 16 object streams
+ 231 named destinations out of 1000 (max. 500000)
  573 words of extra memory for PDF output out of 10000 (max. 10000000)
 
