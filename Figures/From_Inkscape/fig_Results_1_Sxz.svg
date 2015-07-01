@@ -55,15 +55,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="375"
+     inkscape:cx="536.62441"
      inkscape:cy="560.4061"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1159"
      inkscape:window-height="659"
-     inkscape:window-x="94"
-     inkscape:window-y="72"
+     inkscape:window-x="208"
+     inkscape:window-y="63"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -234,6 +234,6 @@
          x="102.02248"
          y="580.81024"
          style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan3686-5">(Mpa)</tspan></text>
+         id="tspan3686-5">(MPa)</tspan></text>
   </g>
 </svg>

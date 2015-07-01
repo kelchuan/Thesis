@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="fig_Results4_3_sqrt_vs_lin_cut_back_100kyr.eps">
+   sodipodi:docname="fig_Results4_3_sqrt_vs_lin_cut_back_100kyr.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="413.3858"
-     inkscape:cy="462.85714"
+     inkscape:cy="301.23273"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -202,7 +202,7 @@
          sodipodi:role="line"
          x="675.69531"
          y="625.87634"
-         id="tspan3186">(Mpa)</tspan></text>
+         id="tspan3186">(MPa)</tspan></text>
     <image
        y="639.15399"
        x="666"
@@ -224,7 +224,7 @@
          sodipodi:role="line"
          x="675.69531"
          y="731.00122"
-         id="tspan3186-8">(Mpa)</tspan></text>
+         id="tspan3186-8">(MPa)</tspan></text>
     <image
        y="747.2403"
        x="666"
@@ -246,7 +246,7 @@
          sodipodi:role="line"
          x="675.69531"
          y="839.08752"
-         id="tspan3186-7">(Mpa)</tspan></text>
+         id="tspan3186-7">(MPa)</tspan></text>
     <image
        y="852.2962"
        x="666"
@@ -268,7 +268,7 @@
          sodipodi:role="line"
          x="675.69531"
          y="944.14343"
-         id="tspan3186-9">(Mpa)</tspan></text>
+         id="tspan3186-9">(MPa)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"

@@ -166,7 +166,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.70710678"
      inkscape:cx="482.30447"
      inkscape:cy="400.58875"
      inkscape:current-layer="layer1"
@@ -437,7 +437,7 @@
        sodipodi:linespacing="125%"
        transform="scale(0.98476673,1.0154689)"><tspan
          sodipodi:role="line"
-         x="-43.678364"
+         x="-43.678368"
          y="403.1326"
          id="tspan3022"
          style="font-size:10.03534603px;font-weight:bold;-inkscape-font-specification:Sans Bold"><tspan
@@ -447,7 +447,7 @@
          x="-45.393391"
          y="419.84879"
          style="font-size:10.03534603px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan3686">(Mpa)</tspan></text>
+         id="tspan3686">(MPa)</tspan></text>
     <g
        id="g3887-0"
        transform="matrix(0.12785223,0,0,-0.13740914,-736.1201,1063.1517)">
@@ -509,7 +509,7 @@
          x="-45.393391"
          y="535.35406"
          style="font-size:10.03534603px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan3686-0">(Mpa)</tspan></text>
+         id="tspan3686-0">(MPa)</tspan></text>
     <g
        id="g3887-0-4"
        transform="matrix(0.12785223,0,0,-0.13740914,-736.12018,1181.4437)">
@@ -693,7 +693,7 @@
          x="948.82397"
          y="465.31393"
          style="font-size:9.06046867px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan3686-5">(Mpa)</tspan></text>
+         id="tspan3686-5">(MPa)</tspan></text>
     <g
        id="g3887-0-1"
        transform="matrix(0.11352775,0,0,-0.12614163,300.00338,1065.0282)">
@@ -759,7 +759,7 @@
          x="946.15411"
          y="577.18066"
          style="font-size:9.06046867px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="tspan3686-5-4">(Mpa)</tspan></text>
+         id="tspan3686-5-4">(MPa)</tspan></text>
     <g
        id="g3887-0-1-5"
        transform="matrix(0.11352775,0,0,-0.12614163,301.4176,1183.5307)">

@@ -15,7 +15,7 @@
    id="svg6102"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="fig_Results_3_2_6_corrugations_evolution.eps">
+   sodipodi:docname="fig_Results_3_2_6_corrugations_evolution.svg">
   <defs
      id="defs6104">
     <marker
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -259,7 +259,7 @@
            style="font-size:16px"
            id="tspan6478"><tspan
    style="font-size:18px"
-   id="tspan7779">z</tspan> (Mpa)</tspan></tspan></text>
+   id="tspan7779">z</tspan> (MPa)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
