@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 JUL 2015 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  10 JUL 2015 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2715,15 +2715,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--127
 R. Im-age is gen-er-ated from Ge-oMa-
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (12.5587pt too wide) in paragraph at lines 131--132
-\OT1/ptm/m/n/12 in na-ture along slow-to-intermediate spread-ing ridges like th
-e Mid-Atlantic Ridges [[][]Semp[]er[]e 
- []
-
 [56 <./Figures/fig_Discussion_Observation_1_13N_MAR_CutBack-eps-converted-to.pd
 f>] [57 <./Figures/fig_Discussion_Observation_3_MassWasting_13-15N_bathymetry_m
 agnetizaion-eps-converted-to.pdf> <./Figures/fig_Discussion_Observation_4_hourg
@@ -2743,7 +2734,7 @@ tion_5_Mullion_Kane.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/fig_Discussion_Observation_5_Mullion_Kane-eps-converted-to.pdf, id=1
-727, 1190.4475pt x 1092.08pt>
+726, 1190.4475pt x 1092.08pt>
 File: ./Figures/fig_Discussion_Observation_5_Mullion_Kane-eps-converted-to.pdf 
 Graphic file (type pdf)
 
@@ -2760,12 +2751,12 @@ m-age is gen-er-ated from
 [58 <./Figures/fig_Discussion_Observation_5_Mullion_Kane-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figures/TOBE_USED_fig_Discussion_Observa
 tion_Corrugations_16N_MAR.eps>
-(epstopdf)                    date: 2015-06-29 14:13:46
-(epstopdf)                    size: 888943 bytes
+(epstopdf)                    date: 2015-07-10 14:20:19
+(epstopdf)                    size: 908551 bytes
 (epstopdf)             Output file: <./Figures/TOBE_USED_fig_Discussion_Observa
 tion_Corrugations_16N_MAR-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-06-29 14:16:49
-(epstopdf)                    size: 448589 bytes
+(epstopdf)                    date: 2015-07-10 14:20:37
+(epstopdf)                    size: 455533 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/TOBE_USED_fig_Di
 scussion_Observation_Corrugations_16N_MAR-eps-converted-to.pdf ./Figures/TOBE_U
 SED_fig_Discussion_Observation_Corrugations_16N_MAR.eps>
@@ -2773,7 +2764,7 @@ SED_fig_Discussion_Observation_Corrugations_16N_MAR.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/TOBE_USED_fig_Discussion_Observation_Corrugations_16N_MAR-eps-conver
-ted-to.pdf, id=1742, 1158.3275pt x 778.91pt>
+ted-to.pdf, id=1741, 1158.3275pt x 778.91pt>
 File: ./Figures/TOBE_USED_fig_Discussion_Observation_Corrugations_16N_MAR-eps-c
 onverted-to.pdf Graphic file (type pdf)
 
@@ -2941,10 +2932,10 @@ ts/type1/arphic/gbsnu/gbsnuff.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
 e1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/tim
 es/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a
 .pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (82 pages, 23209471 bytes).
+Output written on main.pdf (82 pages, 23216520 bytes).
 PDF statistics:
  2026 PDF objects out of 2073 (max. 8388607)
- 1521 compressed objects within 16 object streams
+ 1520 compressed objects within 16 object streams
  231 named destinations out of 1000 (max. 500000)
  573 words of extra memory for PDF output out of 10000 (max. 10000000)
 
