@@ -1,46 +1,48 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces Profiles of bathymetry across MORs.\relax }}{1}{figure.caption.3}
+{Figure}
+\nobreakspace {}\hfill {Page}{\@@par }
+\contentsline {figure}{\numberline {1}{\ignorespaces Profiles of bathymetry across MORs.\relax }}{2}{figure.caption.3}
 \contentsline {figure}{\numberline {2}{\ignorespaces Two bathymetric profiles across the Mid-Atlantic Ridge around 30$\ensuremath {^\circ }$N with vertical exaggeration of 10.}}{2}{figure.caption.4}
 \contentsline {figure}{\numberline {3}{\ignorespaces Relationship between the maximum crustal thickness variations ($\Delta H_{c}$) along a ridge segment and the segment length (L).}}{3}{figure.caption.5}
 \contentsline {figure}{\numberline {4}{\ignorespaces 2D model results adapted from \citep {Buck2005}.}}{4}{figure.caption.6}
 \contentsline {figure}{\numberline {5}{\ignorespaces 2D model results adapted from \citep {Tucholke2008,Whitney2012}.}}{5}{figure.caption.7}
-\contentsline {figure}{\numberline {6}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Essential components of the numerical method.}\relax }}{8}{figure.caption.8}
-\contentsline {figure}{\numberline {7}{\ignorespaces Model setup.\relax }}{10}{figure.caption.9}
-\contentsline {figure}{\numberline {8}{\ignorespaces Reference model M28LinT1.}}{14}{figure.caption.12}
-\contentsline {figure}{\numberline {9}{\ignorespaces Bird's-eye view of a breakaway in the reference model.}}{15}{figure.caption.13}
-\contentsline {figure}{\numberline {10}{\ignorespaces Illustration of bending stresses in lithosphere associated with faulting at the MOR.}}{16}{figure.caption.14}
-\contentsline {figure}{\numberline {11}{\ignorespaces Bird's-eye view of velocity field with plastic strain ploted with opacity linearly proportional to its value. (color scale is the same as Figure\nobreakspace {}\hyperref [fig_Results1_1]{\ref {fig_Results1_1}.a)})\relax }}{17}{figure.caption.15}
-\contentsline {figure}{\numberline {12}{\ignorespaces Bird's-eye view of $\sigma _{xz}$.\relax }}{17}{figure.caption.16}
-\contentsline {figure}{\numberline {13}{\ignorespaces Evolution of plastic strain and surface topography of the model: M88ConT2 (Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}}). Color scale of topography is the same as Figure\nobreakspace {}\hyperref [fig_Results1_1]{\ref {fig_Results1_1}.a}.\relax }}{18}{figure.caption.17}
-\contentsline {figure}{\numberline {14}{\ignorespaces The second invariant of strain rates plotted on the reference model's vertical cross-sections along the ridge at 107.5 kyr.}}{19}{figure.caption.18}
-\contentsline {figure}{\numberline {15}{\ignorespaces Velocity of the mass wasting hanging wall.}}{22}{figure.caption.19}
-\contentsline {figure}{\numberline {16}{\ignorespaces The weak detachment fault tip reaches the pre-existing shear stress.}}{22}{figure.caption.20}
-\contentsline {figure}{\numberline {17}{\ignorespaces Plastic strain, topography and stresses evolution for M28SqrtT1.\relax }}{23}{figure.caption.21}
-\contentsline {figure}{\numberline {18}{\ignorespaces Along ridge axis $\sigma _{xz}$.}}{24}{figure.caption.22}
-\contentsline {figure}{\numberline {19}{\ignorespaces Bird's-eye view of the evolution of the hourglass-shaped median valley.}}{25}{figure.caption.23}
-\contentsline {figure}{\numberline {20}{\ignorespaces Higher $\sigma _{xx}$ shows inside the median valley on the positive $x$-axis direction of the ridge axis. \relax }}{25}{figure.caption.24}
-\contentsline {figure}{\numberline {21}{\ignorespaces Bird's-eye view of the evolution of the corrugations.}}{26}{figure.caption.26}
-\contentsline {figure}{\numberline {22}{\ignorespaces Evolution of mullion structures.\relax }}{27}{figure.caption.28}
-\contentsline {figure}{\numberline {23}{\ignorespaces Three functional forms of M variation.}}{28}{figure.caption.29}
-\contentsline {figure}{\numberline {24}{\ignorespaces Bird's-eye view for comparing the length and timing of inward fault jump.\relax }}{29}{figure.caption.31}
-\contentsline {figure}{\numberline {25}{\ignorespaces $\partial M/ \partial Z$ comparision.\relax }}{30}{figure.caption.33}
-\contentsline {figure}{\numberline {26}{\ignorespaces Bird's-eye view of the topograpy.}}{31}{figure.caption.35}
+\contentsline {figure}{\numberline {6}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Essential components of the numerical method.}\relax }}{7}{figure.caption.8}
+\contentsline {figure}{\numberline {7}{\ignorespaces Model setup.\relax }}{9}{figure.caption.9}
+\contentsline {figure}{\numberline {8}{\ignorespaces Reference model M28LinT1.}}{13}{figure.caption.12}
+\contentsline {figure}{\numberline {9}{\ignorespaces Bird's-eye view of a breakaway in the reference model.}}{14}{figure.caption.13}
+\contentsline {figure}{\numberline {10}{\ignorespaces Illustration of bending stresses in lithosphere associated with faulting at the MOR.}}{15}{figure.caption.14}
+\contentsline {figure}{\numberline {11}{\ignorespaces Bird's-eye view of velocity field with plastic strain ploted with opacity linearly proportional to its value.}}{16}{figure.caption.15}
+\contentsline {figure}{\numberline {12}{\ignorespaces Bird's-eye view of $\sigma _{xz}$.\relax }}{16}{figure.caption.16}
+\contentsline {figure}{\numberline {13}{\ignorespaces Evolution of plastic strain and surface topography of the model: M88ConT2 (Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}}). Color scale of topography is the same as Figure\nobreakspace {}\hyperref [fig_Results1_1]{\ref {fig_Results1_1}.a}.\relax }}{17}{figure.caption.17}
+\contentsline {figure}{\numberline {14}{\ignorespaces The second invariant of strain rates plotted on the reference model's vertical cross sections along the ridge at 107.5 kyr.}}{19}{figure.caption.18}
+\contentsline {figure}{\numberline {15}{\ignorespaces Velocity of the mass wasting hanging wall.}}{21}{figure.caption.19}
+\contentsline {figure}{\numberline {16}{\ignorespaces Plastic strain, topography and stresses evolution for M28SqrtT1.\relax }}{22}{figure.caption.20}
+\contentsline {figure}{\numberline {17}{\ignorespaces The weak detachment fault tip reaches the pre-existing shear stress.}}{23}{figure.caption.21}
+\contentsline {figure}{\numberline {18}{\ignorespaces Along ridge axis $\sigma _{xz}$.}}{23}{figure.caption.22}
+\contentsline {figure}{\numberline {19}{\ignorespaces Bird's-eye view of the evolution of the hourglass-shaped median valley.}}{24}{figure.caption.23}
+\contentsline {figure}{\numberline {20}{\ignorespaces Higher $\sigma _{xx}$ shows inside the median valley on the positive $x$-axis direction of the ridge axis. \relax }}{24}{figure.caption.24}
+\contentsline {figure}{\numberline {21}{\ignorespaces Bird's-eye view of the evolution of the corrugations.}}{25}{figure.caption.26}
+\contentsline {figure}{\numberline {22}{\ignorespaces Evolution of mullion structures.\relax }}{26}{figure.caption.28}
+\contentsline {figure}{\numberline {23}{\ignorespaces Three functional forms of M variation.}}{27}{figure.caption.29}
+\contentsline {figure}{\numberline {24}{\ignorespaces Bird's-eye view for comparing the length and timing of inward fault jump.\relax }}{28}{figure.caption.31}
+\contentsline {figure}{\numberline {25}{\ignorespaces $\partial M/ \partial Z$ comparision.\relax }}{29}{figure.caption.33}
+\contentsline {figure}{\numberline {26}{\ignorespaces Bird's-eye view of the topograpy.}}{30}{figure.caption.35}
 \contentsline {figure}{\numberline {27}{\ignorespaces Bird's-eye view of M57SinT2 versus M57SinT1 (Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}}).\relax }}{32}{figure.caption.37}
-\contentsline {figure}{\numberline {28}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M57SinT1.\relax }}{33}{figure.caption.38}
-\contentsline {figure}{\numberline {29}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M57SinT2.\relax }}{34}{figure.caption.40}
-\contentsline {figure}{\numberline {30}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M58SinT1.\relax }}{35}{figure.caption.42}
+\contentsline {figure}{\numberline {28}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M57SinT1.\relax }}{33}{figure.caption.39}
+\contentsline {figure}{\numberline {29}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M57SinT2.\relax }}{33}{figure.caption.41}
+\contentsline {figure}{\numberline {30}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M58SinT1.\relax }}{34}{figure.caption.43}
 \contentsline {figure}{\numberline {31}{\ignorespaces Plastic strain for M58SinT1 at 350 kyr.\relax }}{36}{figure.caption.44}
-\contentsline {figure}{\numberline {32}{\ignorespaces Evolution of faulting and morphologies of M58SinT1.\relax }}{37}{figure.caption.45}
+\contentsline {figure}{\numberline {32}{\ignorespaces Evolution of faulting and morphologies of M58SinT1.\relax }}{36}{figure.caption.45}
 \contentsline {figure}{\numberline {33}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M58SinT2.\relax }}{38}{figure.caption.47}
-\contentsline {figure}{\numberline {34}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M58SqrtT1.\relax }}{40}{figure.caption.49}
-\contentsline {figure}{\numberline {35}{\ignorespaces Faulting and stresses evolution for M58SqrtT2.\relax }}{41}{figure.caption.51}
-\contentsline {figure}{\numberline {36}{\ignorespaces M28SinT1 (Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}}) faulting and stresses evolution with respect to time.\relax }}{43}{figure.caption.54}
+\contentsline {figure}{\numberline {34}{\ignorespaces Bird's-eye view of faulting and stresses evolution of M58SqrtT1.\relax }}{39}{figure.caption.49}
+\contentsline {figure}{\numberline {35}{\ignorespaces Faulting and stresses evolution for M58SqrtT2.\relax }}{40}{figure.caption.51}
+\contentsline {figure}{\numberline {36}{\ignorespaces M28SinT1 (Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}}) faulting and stresses evolution with respect to time.\relax }}{42}{figure.caption.54}
 \contentsline {figure}{\numberline {37}{\ignorespaces M57LinT1 (Table\nobreakspace {}\hyperref [Tab1_1]{\ref {Tab1_1}}) faulting and stresses evolution with respect to time.\relax }}{44}{figure.caption.56}
 \contentsline {figure}{\numberline {38}{\ignorespaces Initiation and duration of main structural features.\relax }}{46}{figure.caption.57}
-\contentsline {figure}{\numberline {39}{\ignorespaces Field observation results adapted from \citep {MacLeod2009}.}}{49}{figure.caption.58}
-\contentsline {figure}{\numberline {40}{\ignorespaces Schematic development of a megamullion from amagmatic to magmatic, adapted from \citep {Tucholke1998}.}}{51}{figure.caption.59}
-\contentsline {figure}{\numberline {41}{\ignorespaces Bathymetric map and simplified tectonic interpretation of Kane Megamullion. Adapted from \citep {Dick2008}.}}{52}{figure.caption.60}
-\contentsline {figure}{\numberline {42}{\ignorespaces P wave isovelocity contours at 500 m below seafloor superimposed on bathymetry and simplified tectonic interpretation. Adapted from \citep {Xu2009}.\relax }}{53}{figure.caption.61}
-\contentsline {figure}{\numberline {43}{\ignorespaces Bathymetry from 12.8$\sim $14.2 $\ensuremath {^\circ }$N Mid-Atlantic Ridge.}}{54}{figure.caption.62}
+\contentsline {figure}{\numberline {39}{\ignorespaces Field observation results adapted from \citep {MacLeod2009}.}}{48}{figure.caption.58}
+\contentsline {figure}{\numberline {40}{\ignorespaces Schematic development of a megamullion from amagmatic to magmatic, adapted from \citep {Tucholke1998}.}}{50}{figure.caption.59}
+\contentsline {figure}{\numberline {41}{\ignorespaces Bathymetric map and simplified tectonic interpretation of Kane Megamullion. Adapted from \citep {Dick2008}.}}{51}{figure.caption.60}
+\contentsline {figure}{\numberline {42}{\ignorespaces P wave isovelocity contours at 500 m below seafloor superimposed on bathymetry and simplified tectonic interpretation. Adapted from \citep {Xu2009}.\relax }}{52}{figure.caption.61}
+\contentsline {figure}{\numberline {43}{\ignorespaces Bathymetry from 12.8$\sim $14.2 $\ensuremath {^\circ }$N Mid-Atlantic Ridge.}}{53}{figure.caption.62}
 \contentsline {figure}{\numberline {44}{\ignorespaces Trade-off between change in bending force $\Delta F_{b}$ and weakening in the fault interface $\Delta F_{w}$. Adapted from \citep {Lavier2000}.}}{55}{figure.caption.63}
 \contentsline {figure}{\numberline {45}{\ignorespaces Comparing bathymetry at 13$\ensuremath {^\circ }$N Mid-Atlantic Ridge to the mass wasting behavior of M28SqrtT1.}}{56}{figure.caption.64}
 \contentsline {figure}{\numberline {46}{\ignorespaces Bathymetry and magnetization of 13$\sim $15 $\ensuremath {^\circ }$N MAR.}}{57}{figure.caption.65}

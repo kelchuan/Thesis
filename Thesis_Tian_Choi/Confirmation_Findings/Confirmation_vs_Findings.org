@@ -1,20 +1,18 @@
-* 1. Findings 
+*  Findings 
 1.1 and 1.2 need field evidences. 
-** 1.1 Along ridge coupling for reconciling discrepancy between 2D model M(0.3~0.5) and field observation.
-** 1.2 Asynchronous faulting induced isochron-parallel tensile failure as a mechanism for corrugations.
+**  Along ridge coupling for reconciling discrepancy between 2D model M(0.3~0.5) and field observation.
+**  Asynchronous faulting induced isochron-parallel tensile failure as a mechanism for corrugations.
 
-** 1.3 From major features
+**  From major features
 Comparing model results and field observation can help to infer historical tectonics and magmatism evolution.
-*** 1.3.1 mass wasting
-*** 1.3.2 hourglass median valley
-* 2. Confirmation
-** 2.1 Average M = 0.6425 for separating abyssal hills and OCC formation.
+***  mass wasting
+***  hourglass median valley
+*  Confirmation
+**  Average M = 0.6425 for separating abyssal hills and OCC formation.
 This is first mentioned by [Buck et al., 2005] in 2D version, we confirm that when M increase, faulting begin to alternate. 
-We update on: first, it is 3D version average M for varying M along the ridge; Second, it is very sensitive to weakening rate because only type 2 (slower) weakening results in fault alternation. Further investigation needed to be done on different functional form and range of M variation as well as weakening rate. 
-** 2.2 From major features
-*** 2.2.1 Inward fault jump
-First mentioned by [Tucholke et al., 1998], but first time 3D modeling. It provide a explanation for brother domes.
-*** 2.2.2 Mullion structure
-Due to Anastomosing (Smith et al., 2014) or continuous casting model (Spencer, 1999). Still first time in 3D modeling.
-** 2.3 Weakening rate
-Fault alternation is only produced by slower weakening rate. Confirm [Lavier et al., 2000].
+We update on: first, it is 3D version average M for varying M along the ridge; Second, it is very sensitive to weakening rate because only type 2 (slower) weakening results in fault alternation. Further investigation needed to be done on different functional forms, ranges of M variations and different weakening rates. 
+**  From major features
+***  Inward fault jump
+First mentioned by [Tucholke et al., 1998], but first time 3D modeling. It provide an explanation for brother domes.
+***  Mullion structure
+     Due to Anastomosing (Smith et al., 2014) or continuous casting model (Spencer, 1999). Still first time in 3D modeling.
