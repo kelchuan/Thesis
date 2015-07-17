@@ -9,7 +9,7 @@ balance equations for elasto-visco-plastic materials. Figure~\ref{fig_Methods7_3
 \begin{figure}[h]
  \centering
   \includegraphics[width=1.0\textwidth]{./Figures/fig_Methods7_3.png}
- \caption{\small{Essential components of the numerical method.}}
+ \caption{Essential components of the numerical method.}
  \label{fig_Methods7_3}
 \end{figure}
 
@@ -169,7 +169,7 @@ Number & Variable & Description & Value & Units \\
 \hline
 32   &  $remesh_{timestep}$    &    Remesh when timestep reach its value      & 400000   & N/A  \\
 \hline
-33   &  $remesh_{length}$    &    Remesh when the global minimum of the ratio of the volume of a tetrahedron to one of its surface area      & 0.6   & N/A  \\
+33   &  $remesh_{length}$    &    Remesh when the fraction between current and initial global minimum of the ratio of the volume of a tetrahedron to one of its surface area is below 0.6      & 0.6   & N/A  \\
 \hline
 34   &  $top_{Temp}$    &    Surface temperature      & 0   & $\degree C$  \\
 \hline
